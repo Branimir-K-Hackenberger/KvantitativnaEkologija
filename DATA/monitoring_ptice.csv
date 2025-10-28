@@ -1,0 +1,2096 @@
+godina,datum,lokalitet,vrsta_lat,vrsta_hr,brojnost,metoda,opazac,temperatura_C,vlaznost_pct
+2020,2020-03-01,Risnjak,Parus major,Velika sjenica,36,transekt,A.P.,12.8,56
+2020,2020-03-01,Risnjak,Picus viridis,Zelena žuna,6,IPA,A.P.,12.9,63
+2020,2020-03-01,Risnjak,Erithacus rubecula,Crvendać,15,IPA,D.T.,14.7,71
+2020,2020-03-01,Risnjak,Turdus merula,Kos,20,transekt,D.T.,10.2,83
+2020,2020-03-01,Risnjak,Dryocopus martius,Crna žuna,4,IPA,A.P.,12.9,82
+2020,2020-03-01,Risnjak,Buteo buteo,Škanjac,12,točkasta_metoda,S.B.,14.5,82
+2020,2020-03-06,Velebit,Fringilla coelebs,Zeba,31,transekt,S.B.,10.8,74
+2020,2020-03-06,Velebit,Parus major,Velika sjenica,31,točkasta_metoda,A.P.,14.9,80
+2020,2020-03-06,Velebit,Phoenicurus ochruros,Crvenrepka,11,točkasta_metoda,I.H.,12.3,81
+2020,2020-03-06,Velebit,Corvus corax,Gavran,8,transekt,S.B.,15.1,50
+2020,2020-03-06,Velebit,Dendrocopos major,Veliki djetlić,15,transekt,A.P.,16.2,53
+2020,2020-03-06,Velebit,Sitta europaea,Brgljez,19,transekt,M.K.,15.5,80
+2020,2020-03-06,Velebit,Turdus merula,Kos,30,IPA,D.T.,11.5,66
+2020,2020-03-06,Velebit,Cyanistes caeruleus,Plavetna sjenica,25,transekt,S.B.,17.9,63
+2020,2020-03-06,Velebit,Erithacus rubecula,Crvendać,17,IPA,D.T.,,75
+2020,2020-03-07,Risnjak,Accipiter gentilis,Jastreb kokošar,2,transekt,M.K.,16.2,76
+2020,2020-03-07,Risnjak,Dendrocopos major,Veliki djetlić,16,transekt,M.K.,17.2,63
+2020,2020-03-07,Risnjak,Buteo buteo,Škanjac,2,točkasta_metoda,A.P.,11.2,76
+2020,2020-03-07,Risnjak,Parus major,Velika sjenica,31,IPA,A.P.,10.9,67
+2020,2020-03-07,Risnjak,Tetrao urogallus,Tetrijeb,1,točkasta_metoda,A.P.,15.6,77
+2020,2020-03-07,Risnjak,Fringilla coelebs,Zeba,31,IPA,A.P.,19.1,65
+2020,2020-03-07,Risnjak,Sitta europaea,Brgljez,11,IPA,M.K.,13.8,64
+2020,2020-03-10,Plitvice,Accipiter gentilis,Jastreb kokošar,3,transekt,D.T.,19.2,74
+2020,2020-03-10,Plitvice,Parus major,Velika sjenica,29,transekt,D.T.,14.3,85
+2020,2020-03-10,Plitvice,Phoenicurus ochruros,Crvenrepka,10,IPA,S.B.,16.5,65
+2020,2020-03-10,Plitvice,Turdus merula,Kos,25,IPA,D.T.,14.2,60
+2020,2020-03-10,Plitvice,Cyanistes caeruleus,Plavetna sjenica,28,točkasta_metoda,M.K.,10.7,80
+2020,2020-03-10,Plitvice,Fringilla coelebs,Zeba,36,IPA,I.H.,18.8,80
+2020,2020-03-18,Velebit,Fringilla coelebs,Zeba,37,točkasta_metoda,D.T.,13,72
+2020,2020-03-18,Velebit,Accipiter gentilis,Jastreb kokošar,5,točkasta_metoda,I.H.,11,74
+2020,2020-03-18,Velebit,Dendrocopos major,Veliki djetlić,5,točkasta_metoda,D.T.,18.1,80
+2020,2020-03-18,Velebit,Strix Uralskaensis,Uralska sova,4,točkasta_metoda,D.T.,14.9,61
+2020,2020-03-18,Velebit,Parus major,Velika sjenica,25,transekt,D.T.,20.3,61
+2020,2020-03-18,Velebit,Cyanistes caeruleus,Plavetna sjenica,22,točkasta_metoda,A.P.,15.7,73
+2020,2020-03-22,Risnjak,Phoenicurus ochruros,Crvenrepka,8,transekt,D.T.,15.6,68
+2020,2020-03-22,Risnjak,Dendrocopos major,Veliki djetlić,13,točkasta_metoda,S.B.,13.5,83
+2020,2020-03-22,Risnjak,Accipiter gentilis,Jastreb kokošar,5,IPA,A.P.,12.1,67
+2020,2020-03-22,Risnjak,Parus major,Velika sjenica,23,transekt,I.H.,14.8,68
+2020,2020-03-22,Risnjak,Dryocopus martius,Crna žuna,3,točkasta_metoda,A.P.,13.2,55
+2020,2020-03-22,Risnjak,Picus viridis,Zelena žuna,8,transekt,S.B.,11.5,51
+2020,2020-03-22,Risnjak,Turdus merula,Kos,25,transekt,D.T.,12.8,51
+2020,2020-03-22,Risnjak,Fringilla coelebs,Zeba,33,IPA,D.T.,11.3,74
+2020,2020-03-22,Risnjak,Strix Uralskaensis,Uralska sova,2,točkasta_metoda,M.K.,15.9,54
+2020,2020-03-22,Risnjak,Erithacus rubecula,Crvendać,13,IPA,S.B.,15.2,69
+2020,2020-03-25,Risnjak,Dendrocopos major,Veliki djetlić,19,IPA,S.B.,18.4,50
+2020,2020-03-25,Risnjak,Accipiter gentilis,Jastreb kokošar,3,IPA,D.T.,15,74
+2020,2020-03-25,Risnjak,Fringilla coelebs,Zeba,35,transekt,M.K.,10.8,75
+2020,2020-03-25,Risnjak,Turdus merula,Kos,22,točkasta_metoda,I.H.,16.8,80
+2020,2020-03-25,Risnjak,Parus major,Velika sjenica,28,transekt,M.K.,18.3,53
+2020,2020-03-25,Risnjak,Erithacus rubecula,Crvendać,15,IPA,D.T.,17.1,72
+2020,2020-03-25,Risnjak,Phoenicurus ochruros,Crvenrepka,11,transekt,D.T.,13.8,83
+2020,2020-03-25,Risnjak,Sitta europaea,Brgljez,15,IPA,D.T.,14.1,84
+2020,2020-03-25,Risnjak,Buteo buteo,Škanjac,11,točkasta_metoda,S.B.,16.7,70
+2020,2020-03-25,Risnjak,Strix Uralskaensis,Uralska sova,1,IPA,I.H.,17.7,76
+2020,2020-03-27,Plitvice,Fringilla coelebs,Zeba,33,transekt,M.K.,15.6,65
+2020,2020-03-27,Plitvice,Erithacus rubecula,Crvendać,14,točkasta_metoda,I.H.,12.2,52
+2020,2020-03-27,Plitvice,Dryocopus martius,Crna žuna,7,transekt,I.H.,14,67
+2020,2020-03-27,Plitvice,Buteo buteo,Škanjac,7,transekt,D.T.,12.4,54
+2020,2020-03-27,Plitvice,Anas platyrhynchos,Divlja patka,25,IPA,S.B.,19,70
+2020,2020-03-27,Plitvice,Phoenicurus ochruros,Crvenrepka,4,točkasta_metoda,S.B.,17.1,51
+2020,2020-04-03,Velebit,Sitta europaea,Brgljez,19,točkasta_metoda,S.B.,15.3,80
+2020,2020-04-03,Velebit,Strix Uralskaensis,Uralska sova,2,IPA,S.B.,18.7,60
+2020,2020-04-03,Velebit,Cyanistes caeruleus,Plavetna sjenica,27,točkasta_metoda,I.H.,14.4,75
+2020,2020-04-03,Velebit,Fringilla coelebs,Zeba,32,IPA,A.P.,10.3,71
+2020,2020-04-03,Velebit,Parus major,Velika sjenica,27,točkasta_metoda,D.T.,15.1,76
+2020,2020-04-03,Velebit,Corvus corax,Gavran,5,transekt,A.P.,18.2,51
+2020,2020-04-03,Velebit,Buteo buteo,Škanjac,9,transekt,A.P.,14.1,53
+2020,2020-04-03,Velebit,Tetrao urogallus,Tetrijeb,8,IPA,D.T.,20.4,71
+2020,2020-04-05,Plitvice,Accipiter gentilis,Jastreb kokošar,3,IPA,D.T.,21.4,80
+2020,2020-04-05,Plitvice,Cyanistes caeruleus,Plavetna sjenica,22,IPA,D.T.,17.1,62
+2020,2020-04-05,Plitvice,Dryocopus martius,Crna žuna,7,točkasta_metoda,M.K.,21.2,53
+2020,2020-04-05,Plitvice,Turdus merula,Kos,14,IPA,D.T.,16.6,56
+2020,2020-04-05,Plitvice,Phoenicurus ochruros,Crvenrepka,13,točkasta_metoda,D.T.,14.5,51
+2020,2020-04-05,Plitvice,Fringilla coelebs,Zeba,26,IPA,A.P.,16.6,80
+2020,2020-04-05,Plitvice,Dendrocopos major,Veliki djetlić,13,točkasta_metoda,A.P.,10.4,63
+2020,2020-04-05,Plitvice,Strix Uralskaensis,Uralska sova,1,IPA,I.H.,13.3,80
+2020,2020-04-05,Plitvice,Erithacus rubecula,Crvendać,16,transekt,M.K.,15.7,81
+2020,2020-04-05,Plitvice,Corvus corax,Gavran,7,IPA,M.K.,21.3,72
+2020,2020-04-05,Risnjak,Erithacus rubecula,Crvendać,19,IPA,A.P.,16.2,66
+2020,2020-04-05,Risnjak,Parus major,Velika sjenica,27,točkasta_metoda,D.T.,14.8,51
+2020,2020-04-05,Risnjak,Phoenicurus ochruros,Crvenrepka,7,točkasta_metoda,I.H.,16.2,69
+2020,2020-04-05,Risnjak,Fringilla coelebs,Zeba,33,IPA,M.K.,9.9,78
+2020,2020-04-05,Risnjak,Sitta europaea,Brgljez,15,transekt,A.P.,16.6,53
+2020,2020-04-05,Risnjak,Turdus merula,Kos,25,IPA,M.K.,14.6,69
+2020,2020-04-05,Risnjak,Cyanistes caeruleus,Plavetna sjenica,22,točkasta_metoda,M.K.,14,60
+2020,2020-04-05,Risnjak,Picus viridis,Zelena žuna,10,IPA,I.H.,15.3,53
+2020,2020-04-05,Risnjak,Strix Uralskaensis,Uralska sova,5,točkasta_metoda,D.T.,21.6,64
+2020,2020-04-05,Risnjak,Aquila chrysaetos,Suri orao,1,transekt,A.P.,20.3,68
+2020,2020-04-09,Velebit,Fringilla coelebs,Zeba,21,IPA,S.B.,14.9,67
+2020,2020-04-09,Velebit,Cyanistes caeruleus,Plavetna sjenica,20,IPA,M.K.,22.9,52
+2020,2020-04-09,Velebit,Turdus merula,Kos,20,IPA,I.H.,16.3,
+2020,2020-04-09,Velebit,Erithacus rubecula,Crvendać,9,točkasta_metoda,I.H.,15.3,57
+2020,2020-04-09,Velebit,Dryocopus martius,Crna žuna,3,transekt,D.T.,9.8,50
+2020,2020-04-09,Velebit,Parus major,Velika sjenica,21,IPA,M.K.,15.1,78
+2020,2020-04-10,Velebit,Turdus merula,Kos,24,IPA,A.P.,13.7,85
+2020,2020-04-10,Velebit,Sitta europaea,Brgljez,10,točkasta_metoda,D.T.,11.9,64
+2020,2020-04-10,Velebit,Parus major,Velika sjenica,35,točkasta_metoda,S.B.,10.4,71
+2020,2020-04-10,Velebit,Picus viridis,Zelena žuna,3,točkasta_metoda,M.K.,14.6,59
+2020,2020-04-10,Velebit,Cyanistes caeruleus,Plavetna sjenica,13,IPA,M.K.,16.4,74
+2020,2020-04-10,Velebit,Accipiter gentilis,Jastreb kokošar,1,točkasta_metoda,D.T.,15.4,76
+2020,2020-04-10,Velebit,Strix Uralskaensis,Uralska sova,1,IPA,A.P.,13,62
+2020,2020-04-10,Velebit,Erithacus rubecula,Crvendać,22,točkasta_metoda,A.P.,12.7,71
+2020,2020-04-10,Velebit,Fringilla coelebs,Zeba,43,IPA,D.T.,20.2,81
+2020,2020-04-14,Velebit,Erithacus rubecula,Crvendać,14,IPA,D.T.,14.4,54
+2020,2020-04-14,Velebit,Strix Uralskaensis,Uralska sova,6,točkasta_metoda,S.B.,16.3,74
+2020,2020-04-14,Velebit,Fringilla coelebs,Zeba,30,točkasta_metoda,D.T.,15.2,78
+2020,2020-04-14,Velebit,Buteo buteo,Škanjac,11,transekt,M.K.,20.3,65
+2020,2020-04-14,Velebit,Sitta europaea,Brgljez,12,točkasta_metoda,M.K.,13.1,51
+2020,2020-04-14,Velebit,Aquila chrysaetos,Suri orao,4,transekt,A.P.,14.7,64
+2020,2020-04-14,Velebit,Parus major,Velika sjenica,26,IPA,D.T.,11.1,58
+2020,2020-04-15,Risnjak,Fringilla coelebs,Zeba,33,transekt,M.K.,11.7,69
+2020,2020-04-15,Risnjak,Turdus merula,Kos,36,transekt,I.H.,16.8,52
+2020,2020-04-15,Risnjak,Dryocopus martius,Crna žuna,5,transekt,S.B.,14.1,54
+2020,2020-04-15,Risnjak,Buteo buteo,Škanjac,10,transekt,D.T.,14,83
+2020,2020-04-15,Risnjak,Aquila chrysaetos,Suri orao,6,transekt,A.P.,19.5,82
+2020,2020-04-15,Risnjak,Picus viridis,Zelena žuna,7,IPA,D.T.,17,83
+2020,2020-04-15,Risnjak,Cyanistes caeruleus,Plavetna sjenica,20,IPA,M.K.,15.6,66
+2020,2020-04-15,Risnjak,Parus major,Velika sjenica,25,točkasta_metoda,A.P.,19.5,78
+2020,2020-04-17,Plitvice,Fringilla coelebs,Zeba,24,točkasta_metoda,D.T.,11,80
+2020,2020-04-17,Plitvice,Dryocopus martius,Crna žuna,4,IPA,D.T.,15.8,64
+2020,2020-04-17,Plitvice,Phoenicurus ochruros,Crvenrepka,10,transekt,M.K.,16.2,62
+2020,2020-04-17,Plitvice,Anas platyrhynchos,Divlja patka,37,točkasta_metoda,S.B.,12.2,59
+2020,2020-04-17,Plitvice,Dendrocopos major,Veliki djetlić,11,IPA,D.T.,15,51
+2020,2020-04-17,Plitvice,Tetrao urogallus,Tetrijeb,7,transekt,A.P.,15,57
+2020,2020-04-17,Plitvice,Alcedo atthis,Vodomar,2,točkasta_metoda,D.T.,18.2,51
+2020,2020-04-17,Risnjak,Phoenicurus ochruros,Crvenrepka,10,točkasta_metoda,I.H.,18.4,53
+2020,2020-04-17,Risnjak,Accipiter gentilis,Jastreb kokošar,7,transekt,I.H.,16.9,65
+2020,2020-04-17,Risnjak,Cyanistes caeruleus,Plavetna sjenica,27,transekt,S.B.,20.4,67
+2020,2020-04-17,Risnjak,Buteo buteo,Škanjac,4,transekt,S.B.,19.8,70
+2020,2020-04-17,Risnjak,Sitta europaea,Brgljez,25,transekt,I.H.,18.3,60
+2020,2020-04-17,Risnjak,Fringilla coelebs,Zeba,37,transekt,I.H.,16.2,85
+2020,2020-04-17,Risnjak,Parus major,Velika sjenica,16,točkasta_metoda,I.H.,19,84
+2020,2020-04-17,Risnjak,Strix Uralskaensis,Uralska sova,9,transekt,A.P.,15.7,72
+2020,2020-04-17,Risnjak,Dryocopus martius,Crna žuna,5,transekt,S.B.,18.9,53
+2020,2020-04-21,Velebit,Corvus corax,Gavran,1,točkasta_metoda,I.H.,19.8,51
+2020,2020-04-21,Velebit,Cyanistes caeruleus,Plavetna sjenica,23,IPA,S.B.,17.7,54
+2020,2020-04-21,Velebit,Erithacus rubecula,Crvendać,25,transekt,D.T.,15.1,81
+2020,2020-04-21,Velebit,Strix Uralskaensis,Uralska sova,4,IPA,D.T.,17.6,55
+2020,2020-04-21,Velebit,Aquila chrysaetos,Suri orao,2,IPA,M.K.,9.9,61
+2020,2020-04-21,Velebit,Sitta europaea,Brgljez,12,IPA,M.K.,15.5,59
+2020,2020-04-21,Velebit,Picus viridis,Zelena žuna,6,točkasta_metoda,A.P.,14.6,85
+2020,2020-04-21,Velebit,Parus major,Velika sjenica,35,IPA,D.T.,21.9,57
+2020,2020-04-21,Velebit,Buteo buteo,Škanjac,2,točkasta_metoda,S.B.,19.4,84
+2020,2020-04-22,Plitvice,Strix Uralskaensis,Uralska sova,8,IPA,M.K.,16.2,51
+2020,2020-04-22,Plitvice,Sitta europaea,Brgljez,13,transekt,A.P.,17.8,84
+2020,2020-04-22,Plitvice,Anas platyrhynchos,Divlja patka,22,točkasta_metoda,I.H.,12.8,66
+2020,2020-04-22,Plitvice,Parus major,Velika sjenica,36,točkasta_metoda,D.T.,18.6,83
+2020,2020-04-22,Plitvice,Turdus merula,Kos,26,točkasta_metoda,M.K.,17.5,72
+2020,2020-04-22,Plitvice,Buteo buteo,Škanjac,8,IPA,I.H.,12.7,73
+2020,2020-04-22,Plitvice,Dryocopus martius,Crna žuna,4,IPA,S.B.,20.9,84
+2020,2020-04-22,Plitvice,Alcedo atthis,Vodomar,7,transekt,D.T.,18.2,65
+2020,2020-04-22,Plitvice,Aquila chrysaetos,Suri orao,1,točkasta_metoda,M.K.,17.9,69
+2020,2020-04-22,Plitvice,Corvus corax,Gavran,1,točkasta_metoda,D.T.,12.7,64
+2020,2020-04-23,Risnjak,Corvus corax,Gavran,9,IPA,D.T.,15.8,78
+2020,2020-04-23,Risnjak,Erithacus rubecula,Crvendać,18,točkasta_metoda,D.T.,15.2,84
+2020,2020-04-23,Risnjak,Sitta europaea,Brgljez,14,transekt,I.H.,15.7,80
+2020,2020-04-23,Risnjak,Parus major,Velika sjenica,35,točkasta_metoda,D.T.,15.8,66
+2020,2020-04-23,Risnjak,Phoenicurus ochruros,Crvenrepka,12,točkasta_metoda,I.H.,16.5,70
+2020,2020-04-23,Risnjak,Accipiter gentilis,Jastreb kokošar,1,transekt,D.T.,19.5,76
+2020,2020-04-23,Risnjak,Fringilla coelebs,Zeba,34,transekt,M.K.,,51
+2020,2020-04-25,Risnjak,Parus major,Velika sjenica,29,IPA,D.T.,15,83
+2020,2020-04-25,Risnjak,Turdus merula,Kos,23,točkasta_metoda,M.K.,17.2,67
+2020,2020-04-25,Risnjak,Cyanistes caeruleus,Plavetna sjenica,18,točkasta_metoda,M.K.,15.9,58
+2020,2020-04-25,Risnjak,Fringilla coelebs,Zeba,20,točkasta_metoda,S.B.,17.1,56
+2020,2020-04-25,Risnjak,Sitta europaea,Brgljez,12,transekt,S.B.,,67
+2020,2020-04-25,Risnjak,Phoenicurus ochruros,Crvenrepka,3,transekt,M.K.,15.7,57
+2020,2020-04-25,Risnjak,Dendrocopos major,Veliki djetlić,11,točkasta_metoda,D.T.,12.9,74
+2020,2020-05-02,Velebit,Fringilla coelebs,Zeba,50,IPA,D.T.,14.8,77
+2020,2020-05-02,Velebit,Erithacus rubecula,Crvendać,24,transekt,S.B.,15.5,67
+2020,2020-05-02,Velebit,Sitta europaea,Brgljez,21,transekt,A.P.,17.3,79
+2020,2020-05-02,Velebit,Strix Uralskaensis,Uralska sova,4,IPA,I.H.,18.4,65
+2020,2020-05-02,Velebit,Phoenicurus ochruros,Crvenrepka,15,transekt,I.H.,19.5,51
+2020,2020-05-02,Velebit,Tetrao urogallus,Tetrijeb,6,transekt,A.P.,18.1,63
+2020,2020-05-02,Velebit,Picus viridis,Zelena žuna,6,transekt,A.P.,19,55
+2020,2020-05-02,Velebit,Accipiter gentilis,Jastreb kokošar,6,točkasta_metoda,A.P.,19.6,64
+2020,2020-05-02,Velebit,Parus major,Velika sjenica,40,točkasta_metoda,M.K.,15.1,78
+2020,2020-05-02,Velebit,Corvus corax,Gavran,8,IPA,D.T.,16.6,53
+2020,2020-05-02,Velebit,Turdus merula,Kos,36,IPA,M.K.,15.2,78
+2020,2020-05-04,Risnjak,Buteo buteo,Škanjac,9,točkasta_metoda,I.H.,22.1,58
+2020,2020-05-04,Risnjak,Phoenicurus ochruros,Crvenrepka,11,točkasta_metoda,I.H.,10.1,51
+2020,2020-05-04,Risnjak,Turdus merula,Kos,34,točkasta_metoda,D.T.,15.2,81
+2020,2020-05-04,Risnjak,Accipiter gentilis,Jastreb kokošar,9,točkasta_metoda,S.B.,16.4,60
+2020,2020-05-04,Risnjak,Fringilla coelebs,Zeba,46,transekt,M.K.,11.8,85
+2020,2020-05-04,Risnjak,Tetrao urogallus,Tetrijeb,2,transekt,I.H.,20.3,55
+2020,2020-05-04,Risnjak,Erithacus rubecula,Crvendać,24,IPA,S.B.,15.7,56
+2020,2020-05-04,Risnjak,Dendrocopos major,Veliki djetlić,24,IPA,A.P.,14.9,68
+2020,2020-05-04,Risnjak,Dryocopus martius,Crna žuna,7,transekt,S.B.,17.8,70
+2020,2020-05-04,Risnjak,Parus major,Velika sjenica,39,IPA,S.B.,19.8,57
+2020,2020-05-04,Risnjak,Cyanistes caeruleus,Plavetna sjenica,26,transekt,S.B.,12.6,54
+2020,2020-05-05,Risnjak,Turdus merula,Kos,41,transekt,S.B.,17.6,74
+2020,2020-05-05,Risnjak,Parus major,Velika sjenica,45,IPA,M.K.,10.1,62
+2020,2020-05-05,Risnjak,Dryocopus martius,Crna žuna,10,transekt,S.B.,15.1,79
+2020,2020-05-05,Risnjak,Cyanistes caeruleus,Plavetna sjenica,22,IPA,S.B.,16,56
+2020,2020-05-05,Risnjak,Sitta europaea,Brgljez,27,IPA,I.H.,16.2,68
+2020,2020-05-05,Risnjak,Buteo buteo,Škanjac,14,IPA,S.B.,18.2,54
+2020,2020-05-05,Risnjak,Strix Uralskaensis,Uralska sova,11,IPA,A.P.,19.8,61
+2020,2020-05-05,Risnjak,Aquila chrysaetos,Suri orao,2,transekt,A.P.,22,81
+2020,2020-05-07,Plitvice,Phoenicurus ochruros,Crvenrepka,12,točkasta_metoda,A.P.,13.2,70
+2020,2020-05-07,Plitvice,Cyanistes caeruleus,Plavetna sjenica,30,točkasta_metoda,A.P.,19.5,75
+2020,2020-05-07,Plitvice,Sitta europaea,Brgljez,34,točkasta_metoda,I.H.,19.2,57
+2020,2020-05-07,Plitvice,Tetrao urogallus,Tetrijeb,1,transekt,S.B.,19.8,59
+2020,2020-05-07,Plitvice,Accipiter gentilis,Jastreb kokošar,2,točkasta_metoda,M.K.,18.3,67
+2020,2020-05-07,Plitvice,Erithacus rubecula,Crvendać,18,IPA,I.H.,20.4,69
+2020,2020-05-07,Plitvice,Turdus merula,Kos,30,transekt,M.K.,15.6,75
+2020,2020-05-07,Plitvice,Parus major,Velika sjenica,35,IPA,M.K.,17.1,74
+2020,2020-05-07,Plitvice,Anas platyrhynchos,Divlja patka,37,transekt,D.T.,17,75
+2020,2020-05-07,Plitvice,Dendrocopos major,Veliki djetlić,10,IPA,M.K.,21.7,69
+2020,2020-05-08,Plitvice,Buteo buteo,Škanjac,11,točkasta_metoda,M.K.,17.3,51
+2020,2020-05-08,Plitvice,Erithacus rubecula,Crvendać,28,IPA,I.H.,12.9,64
+2020,2020-05-08,Plitvice,Anas platyrhynchos,Divlja patka,46,točkasta_metoda,I.H.,18.3,85
+2020,2020-05-08,Plitvice,Picus viridis,Zelena žuna,12,transekt,A.P.,16.4,53
+2020,2020-05-08,Plitvice,Tetrao urogallus,Tetrijeb,5,IPA,D.T.,16.9,62
+2020,2020-05-08,Plitvice,Dendrocopos major,Veliki djetlić,11,IPA,M.K.,18.2,81
+2020,2020-05-08,Plitvice,Cyanistes caeruleus,Plavetna sjenica,30,IPA,M.K.,12.8,61
+2020,2020-05-08,Plitvice,Corvus corax,Gavran,8,IPA,A.P.,14.5,69
+2020,2020-05-08,Plitvice,Parus major,Velika sjenica,34,transekt,S.B.,19.4,76
+2020,2020-05-08,Plitvice,Fringilla coelebs,Zeba,43,točkasta_metoda,S.B.,15.9,55
+2020,2020-05-08,Plitvice,Dryocopus martius,Crna žuna,12,IPA,A.P.,13.3,51
+2020,2020-05-08,Risnjak,Parus major,Velika sjenica,46,točkasta_metoda,M.K.,18.7,59
+2020,2020-05-08,Risnjak,Phoenicurus ochruros,Crvenrepka,13,točkasta_metoda,A.P.,18,64
+2020,2020-05-08,Risnjak,Strix Uralskaensis,Uralska sova,4,transekt,D.T.,20,81
+2020,2020-05-08,Risnjak,Fringilla coelebs,Zeba,63,IPA,I.H.,18.9,75
+2020,2020-05-08,Risnjak,Cyanistes caeruleus,Plavetna sjenica,21,IPA,M.K.,18.2,71
+2020,2020-05-08,Risnjak,Dryocopus martius,Crna žuna,14,točkasta_metoda,M.K.,15.7,62
+2020,2020-05-08,Risnjak,Dendrocopos major,Veliki djetlić,24,transekt,M.K.,17.1,62
+2020,2020-05-08,Risnjak,Erithacus rubecula,Crvendać,25,točkasta_metoda,M.K.,16.8,62
+2020,2020-05-08,Risnjak,Turdus merula,Kos,41,IPA,A.P.,19.4,58
+2020,2020-05-15,Plitvice,Parus major,Velika sjenica,55,IPA,A.P.,,63
+2020,2020-05-15,Plitvice,Cyanistes caeruleus,Plavetna sjenica,35,točkasta_metoda,D.T.,17.2,78
+2020,2020-05-15,Plitvice,Accipiter gentilis,Jastreb kokošar,2,točkasta_metoda,A.P.,14.4,84
+2020,2020-05-15,Plitvice,Anas platyrhynchos,Divlja patka,49,IPA,M.K.,21.4,55
+2020,2020-05-15,Plitvice,Turdus merula,Kos,37,transekt,S.B.,15.5,68
+2020,2020-05-15,Plitvice,Sitta europaea,Brgljez,20,IPA,S.B.,19.1,63
+2020,2020-05-15,Plitvice,Phoenicurus ochruros,Crvenrepka,8,točkasta_metoda,D.T.,19,65
+2020,2020-05-15,Plitvice,Erithacus rubecula,Crvendać,23,točkasta_metoda,A.P.,17.7,65
+2020,2020-05-20,Velebit,Picus viridis,Zelena žuna,9,transekt,S.B.,14.7,78
+2020,2020-05-20,Velebit,Cyanistes caeruleus,Plavetna sjenica,32,IPA,M.K.,18.7,59
+2020,2020-05-20,Velebit,Fringilla coelebs,Zeba,49,IPA,M.K.,16,55
+2020,2020-05-20,Velebit,Parus major,Velika sjenica,43,točkasta_metoda,A.P.,15,50
+2020,2020-05-20,Velebit,Dendrocopos major,Veliki djetlić,19,točkasta_metoda,I.H.,20.9,60
+2020,2020-05-20,Velebit,Turdus merula,Kos,41,točkasta_metoda,S.B.,20,61
+2020,2020-05-20,Velebit,Corvus corax,Gavran,10,transekt,D.T.,14.9,74
+2020,2020-05-20,Velebit,Dryocopus martius,Crna žuna,4,IPA,A.P.,19.1,73
+2020,2020-05-20,Velebit,Sitta europaea,Brgljez,33,IPA,A.P.,15.1,60
+2020,2020-05-23,Velebit,Accipiter gentilis,Jastreb kokošar,9,transekt,D.T.,12.8,55
+2020,2020-05-23,Velebit,Phoenicurus ochruros,Crvenrepka,17,transekt,M.K.,20,61
+2020,2020-05-23,Velebit,Turdus merula,Kos,40,IPA,A.P.,14.8,81
+2020,2020-05-23,Velebit,Buteo buteo,Škanjac,9,točkasta_metoda,A.P.,19.4,63
+2020,2020-05-23,Velebit,Parus major,Velika sjenica,37,IPA,D.T.,16.8,67
+2020,2020-05-23,Velebit,Picus viridis,Zelena žuna,8,transekt,S.B.,14.5,77
+2020,2020-05-23,Velebit,Sitta europaea,Brgljez,24,IPA,D.T.,16.8,59
+2020,2020-05-23,Velebit,Cyanistes caeruleus,Plavetna sjenica,35,transekt,S.B.,18.1,62
+2020,2020-05-23,Velebit,Dendrocopos major,Veliki djetlić,16,transekt,M.K.,20.5,84
+2020,2020-05-23,Velebit,Tetrao urogallus,Tetrijeb,7,točkasta_metoda,M.K.,13.4,64
+2020,2020-05-23,Velebit,Aquila chrysaetos,Suri orao,1,IPA,I.H.,15.3,67
+2020,2020-06-03,Velebit,Erithacus rubecula,Crvendać,20,transekt,S.B.,16.6,72
+2020,2020-06-03,Velebit,Cyanistes caeruleus,Plavetna sjenica,35,IPA,M.K.,20,72
+2020,2020-06-03,Velebit,Buteo buteo,Škanjac,8,točkasta_metoda,A.P.,17.9,50
+2020,2020-06-03,Velebit,Picus viridis,Zelena žuna,10,transekt,M.K.,18.5,69
+2020,2020-06-03,Velebit,Phoenicurus ochruros,Crvenrepka,13,IPA,A.P.,23.1,56
+2020,2020-06-03,Velebit,Corvus corax,Gavran,14,IPA,A.P.,19.1,59
+2020,2020-06-03,Velebit,Sitta europaea,Brgljez,20,točkasta_metoda,D.T.,20,53
+2020,2020-06-03,Velebit,Accipiter gentilis,Jastreb kokošar,11,IPA,A.P.,16.1,72
+2020,2020-06-03,Velebit,Tetrao urogallus,Tetrijeb,3,točkasta_metoda,I.H.,21.5,50
+2020,2020-06-03,Velebit,Dendrocopos major,Veliki djetlić,15,transekt,D.T.,20.9,58
+2020,2020-06-04,Velebit,Parus major,Velika sjenica,40,transekt,D.T.,15.2,82
+2020,2020-06-04,Velebit,Fringilla coelebs,Zeba,62,točkasta_metoda,S.B.,22.6,59
+2020,2020-06-04,Velebit,Erithacus rubecula,Crvendać,23,točkasta_metoda,A.P.,17.2,73
+2020,2020-06-04,Velebit,Accipiter gentilis,Jastreb kokošar,4,IPA,D.T.,17.8,83
+2020,2020-06-04,Velebit,Cyanistes caeruleus,Plavetna sjenica,31,transekt,M.K.,21.1,70
+2020,2020-06-04,Velebit,Aquila chrysaetos,Suri orao,4,transekt,S.B.,18.4,77
+2020,2020-06-04,Velebit,Turdus merula,Kos,38,točkasta_metoda,S.B.,,57
+2020,2020-06-04,Velebit,Strix Uralskaensis,Uralska sova,3,IPA,I.H.,19,64
+2020,2020-06-04,Velebit,Corvus corax,Gavran,12,IPA,A.P.,21.1,54
+2020,2020-06-04,Velebit,Buteo buteo,Škanjac,2,transekt,M.K.,21.1,52
+2020,2020-06-04,Velebit,Phoenicurus ochruros,Crvenrepka,24,transekt,A.P.,11.3,61
+2020,2020-06-04,Velebit,Tetrao urogallus,Tetrijeb,3,transekt,I.H.,21,76
+2020,2020-06-09,Velebit,Fringilla coelebs,Zeba,52,transekt,D.T.,15.6,53
+2020,2020-06-09,Velebit,Cyanistes caeruleus,Plavetna sjenica,32,točkasta_metoda,S.B.,20.4,70
+2020,2020-06-09,Velebit,Parus major,Velika sjenica,58,IPA,M.K.,17.3,59
+2020,2020-06-09,Velebit,Erithacus rubecula,Crvendać,26,IPA,I.H.,21.9,54
+2020,2020-06-09,Velebit,Phoenicurus ochruros,Crvenrepka,15,IPA,D.T.,21.4,63
+2020,2020-06-09,Velebit,Dendrocopos major,Veliki djetlić,21,transekt,A.P.,21.4,74
+2020,2020-06-09,Velebit,Turdus merula,Kos,39,točkasta_metoda,D.T.,18.8,60
+2020,2020-06-09,Velebit,Corvus corax,Gavran,13,točkasta_metoda,I.H.,18.1,79
+2020,2020-06-09,Velebit,Strix Uralskaensis,Uralska sova,1,IPA,A.P.,18.8,84
+2020,2020-06-11,Risnjak,Cyanistes caeruleus,Plavetna sjenica,36,transekt,S.B.,18.7,57
+2020,2020-06-11,Risnjak,Strix Uralskaensis,Uralska sova,3,IPA,I.H.,19.5,77
+2020,2020-06-11,Risnjak,Dryocopus martius,Crna žuna,8,točkasta_metoda,I.H.,21.5,64
+2020,2020-06-11,Risnjak,Fringilla coelebs,Zeba,51,IPA,S.B.,15,51
+2020,2020-06-11,Risnjak,Parus major,Velika sjenica,35,točkasta_metoda,A.P.,19.3,56
+2020,2020-06-11,Risnjak,Turdus merula,Kos,41,transekt,A.P.,18.6,53
+2020,2020-06-11,Risnjak,Aquila chrysaetos,Suri orao,3,IPA,A.P.,15.8,60
+2020,2020-06-11,Risnjak,Corvus corax,Gavran,5,točkasta_metoda,A.P.,20.8,51
+2020,2020-06-11,Risnjak,Accipiter gentilis,Jastreb kokošar,5,transekt,D.T.,14.3,72
+2020,2020-06-11,Risnjak,Sitta europaea,Brgljez,22,transekt,I.H.,20.8,65
+2020,2020-06-11,Risnjak,Erithacus rubecula,Crvendać,31,transekt,A.P.,18.9,81
+2020,2020-06-11,Risnjak,Buteo buteo,Škanjac,6,IPA,D.T.,22.3,79
+2020,2020-06-15,Plitvice,Strix Uralskaensis,Uralska sova,2,točkasta_metoda,D.T.,17.9,54
+2020,2020-06-15,Plitvice,Erithacus rubecula,Crvendać,26,točkasta_metoda,S.B.,16.9,68
+2020,2020-06-15,Plitvice,Dendrocopos major,Veliki djetlić,21,IPA,D.T.,20.5,65
+2020,2020-06-15,Plitvice,Dryocopus martius,Crna žuna,8,transekt,D.T.,25.9,50
+2020,2020-06-15,Plitvice,Buteo buteo,Škanjac,6,transekt,D.T.,16,69
+2020,2020-06-15,Plitvice,Fringilla coelebs,Zeba,46,točkasta_metoda,A.P.,18.9,53
+2020,2020-06-15,Plitvice,Sitta europaea,Brgljez,21,točkasta_metoda,S.B.,22.5,67
+2020,2020-06-15,Plitvice,Accipiter gentilis,Jastreb kokošar,10,IPA,I.H.,16.4,79
+2020,2020-06-15,Plitvice,Alcedo atthis,Vodomar,10,transekt,I.H.,15.4,76
+2020,2020-06-18,Plitvice,Turdus merula,Kos,42,točkasta_metoda,S.B.,19.2,56
+2020,2020-06-18,Plitvice,Phoenicurus ochruros,Crvenrepka,9,IPA,D.T.,22.6,59
+2020,2020-06-18,Plitvice,Buteo buteo,Škanjac,8,točkasta_metoda,I.H.,21.2,54
+2020,2020-06-18,Plitvice,Accipiter gentilis,Jastreb kokošar,5,točkasta_metoda,M.K.,19.2,70
+2020,2020-06-18,Plitvice,Aquila chrysaetos,Suri orao,4,IPA,M.K.,19.8,62
+2020,2020-06-18,Plitvice,Anas platyrhynchos,Divlja patka,57,IPA,S.B.,15.9,65
+2020,2020-06-18,Plitvice,Fringilla coelebs,Zeba,50,točkasta_metoda,S.B.,13.1,58
+2020,2020-06-18,Plitvice,Parus major,Velika sjenica,35,točkasta_metoda,D.T.,19.9,60
+2020,2020-06-18,Plitvice,Cyanistes caeruleus,Plavetna sjenica,28,točkasta_metoda,A.P.,21.4,66
+2020,2020-06-23,Velebit,Cyanistes caeruleus,Plavetna sjenica,38,točkasta_metoda,M.K.,19.7,64
+2020,2020-06-23,Velebit,Dendrocopos major,Veliki djetlić,11,točkasta_metoda,I.H.,23.2,60
+2020,2020-06-23,Velebit,Erithacus rubecula,Crvendać,29,IPA,S.B.,17.1,72
+2020,2020-06-23,Velebit,Phoenicurus ochruros,Crvenrepka,13,transekt,A.P.,21.3,82
+2020,2020-06-23,Velebit,Sitta europaea,Brgljez,17,transekt,S.B.,22.7,62
+2020,2020-06-23,Velebit,Corvus corax,Gavran,7,transekt,S.B.,14.5,63
+2020,2020-06-23,Velebit,Buteo buteo,Škanjac,9,IPA,M.K.,15,84
+2020,2020-06-23,Velebit,Turdus merula,Kos,26,točkasta_metoda,M.K.,19.2,76
+2020,2020-06-26,Plitvice,Picus viridis,Zelena žuna,14,točkasta_metoda,A.P.,18.4,78
+2020,2020-06-26,Plitvice,Fringilla coelebs,Zeba,40,transekt,M.K.,16.4,76
+2020,2020-06-26,Plitvice,Erithacus rubecula,Crvendać,26,transekt,S.B.,22.6,69
+2020,2020-06-26,Plitvice,Dendrocopos major,Veliki djetlić,15,transekt,M.K.,17.2,55
+2020,2020-06-26,Plitvice,Turdus merula,Kos,33,točkasta_metoda,S.B.,24.2,81
+2020,2020-06-26,Plitvice,Alcedo atthis,Vodomar,6,IPA,A.P.,17.8,72
+2020,2020-06-26,Plitvice,Anas platyrhynchos,Divlja patka,40,transekt,A.P.,19.5,67
+2020,2020-06-26,Plitvice,Buteo buteo,Škanjac,10,točkasta_metoda,M.K.,16.5,52
+2020,2020-06-26,Plitvice,Dryocopus martius,Crna žuna,8,transekt,S.B.,18.8,71
+2020,2020-06-26,Plitvice,Sitta europaea,Brgljez,29,točkasta_metoda,I.H.,18.6,65
+2020,2020-06-26,Plitvice,Phoenicurus ochruros,Crvenrepka,14,IPA,A.P.,18.3,79
+2020,2020-07-01,Risnjak,Corvus corax,Gavran,7,transekt,I.H.,21.3,71
+2020,2020-07-01,Risnjak,Sitta europaea,Brgljez,16,IPA,M.K.,23.4,82
+2020,2020-07-01,Risnjak,Dryocopus martius,Crna žuna,5,transekt,A.P.,22.1,53
+2020,2020-07-01,Risnjak,Tetrao urogallus,Tetrijeb,4,IPA,M.K.,18.3,60
+2020,2020-07-01,Risnjak,Aquila chrysaetos,Suri orao,3,transekt,I.H.,17.7,73
+2020,2020-07-01,Risnjak,Fringilla coelebs,Zeba,43,točkasta_metoda,I.H.,28.4,58
+2020,2020-07-01,Risnjak,Strix Uralskaensis,Uralska sova,1,transekt,M.K.,18.8,67
+2020,2020-07-01,Risnjak,Turdus merula,Kos,23,točkasta_metoda,S.B.,20.9,77
+2020,2020-07-03,Risnjak,Accipiter gentilis,Jastreb kokošar,6,IPA,M.K.,20.3,56
+2020,2020-07-03,Risnjak,Erithacus rubecula,Crvendać,17,transekt,M.K.,22.4,76
+2020,2020-07-03,Risnjak,Cyanistes caeruleus,Plavetna sjenica,25,transekt,M.K.,23,59
+2020,2020-07-03,Risnjak,Dendrocopos major,Veliki djetlić,13,točkasta_metoda,M.K.,21.9,85
+2020,2020-07-03,Risnjak,Phoenicurus ochruros,Crvenrepka,8,transekt,I.H.,21.8,
+2020,2020-07-03,Risnjak,Fringilla coelebs,Zeba,45,transekt,D.T.,19.9,80
+2020,2020-07-03,Risnjak,Turdus merula,Kos,29,transekt,D.T.,16.3,54
+2020,2020-07-03,Risnjak,Tetrao urogallus,Tetrijeb,1,točkasta_metoda,M.K.,22,74
+2020,2020-07-07,Risnjak,Parus major,Velika sjenica,28,IPA,M.K.,16.5,51
+2020,2020-07-07,Risnjak,Erithacus rubecula,Crvendać,24,točkasta_metoda,A.P.,22.3,81
+2020,2020-07-07,Risnjak,Buteo buteo,Škanjac,11,točkasta_metoda,A.P.,17.9,54
+2020,2020-07-07,Risnjak,Sitta europaea,Brgljez,16,točkasta_metoda,S.B.,22.9,60
+2020,2020-07-07,Risnjak,Phoenicurus ochruros,Crvenrepka,5,transekt,I.H.,,83
+2020,2020-07-07,Risnjak,Dendrocopos major,Veliki djetlić,17,transekt,S.B.,22.5,65
+2020,2020-07-09,Risnjak,Fringilla coelebs,Zeba,42,transekt,S.B.,21.4,58
+2020,2020-07-09,Risnjak,Picus viridis,Zelena žuna,6,točkasta_metoda,A.P.,27.9,84
+2020,2020-07-09,Risnjak,Cyanistes caeruleus,Plavetna sjenica,20,IPA,S.B.,18,79
+2020,2020-07-09,Risnjak,Turdus merula,Kos,18,točkasta_metoda,S.B.,21.9,69
+2020,2020-07-09,Risnjak,Dryocopus martius,Crna žuna,4,točkasta_metoda,I.H.,21.4,73
+2020,2020-07-09,Risnjak,Corvus corax,Gavran,4,transekt,S.B.,21.5,59
+2020,2020-07-09,Risnjak,Dendrocopos major,Veliki djetlić,18,IPA,M.K.,18.9,80
+2020,2020-07-10,Velebit,Erithacus rubecula,Crvendać,16,transekt,M.K.,23.3,84
+2020,2020-07-10,Velebit,Cyanistes caeruleus,Plavetna sjenica,23,točkasta_metoda,M.K.,16.6,53
+2020,2020-07-10,Velebit,Parus major,Velika sjenica,38,IPA,I.H.,21.1,72
+2020,2020-07-10,Velebit,Tetrao urogallus,Tetrijeb,1,transekt,A.P.,18.1,84
+2020,2020-07-10,Velebit,Strix Uralskaensis,Uralska sova,3,IPA,A.P.,22.5,80
+2020,2020-07-11,Plitvice,Cyanistes caeruleus,Plavetna sjenica,18,transekt,I.H.,17.6,60
+2020,2020-07-11,Plitvice,Turdus merula,Kos,36,točkasta_metoda,D.T.,23.6,79
+2020,2020-07-11,Plitvice,Dendrocopos major,Veliki djetlić,12,točkasta_metoda,A.P.,19.9,55
+2020,2020-07-11,Plitvice,Parus major,Velika sjenica,18,transekt,A.P.,11.9,76
+2020,2020-07-11,Plitvice,Aquila chrysaetos,Suri orao,2,transekt,I.H.,20,71
+2020,2020-07-11,Plitvice,Anas platyrhynchos,Divlja patka,24,točkasta_metoda,I.H.,21.6,52
+2020,2020-07-14,Risnjak,Cyanistes caeruleus,Plavetna sjenica,25,transekt,A.P.,21.2,80
+2020,2020-07-14,Risnjak,Turdus merula,Kos,32,točkasta_metoda,I.H.,22,74
+2020,2020-07-14,Risnjak,Fringilla coelebs,Zeba,34,IPA,A.P.,23.1,56
+2020,2020-07-14,Risnjak,Parus major,Velika sjenica,22,točkasta_metoda,D.T.,18.4,79
+2020,2020-07-14,Risnjak,Sitta europaea,Brgljez,20,IPA,M.K.,22,50
+2020,2020-07-14,Risnjak,Strix Uralskaensis,Uralska sova,3,točkasta_metoda,D.T.,22.4,77
+2020,2020-07-14,Risnjak,Picus viridis,Zelena žuna,7,IPA,S.B.,27,74
+2020,2020-07-16,Velebit,Picus viridis,Zelena žuna,4,točkasta_metoda,I.H.,15.9,70
+2020,2020-07-16,Velebit,Accipiter gentilis,Jastreb kokošar,4,IPA,D.T.,17.9,76
+2020,2020-07-16,Velebit,Dryocopus martius,Crna žuna,7,transekt,I.H.,20.1,71
+2020,2020-07-16,Velebit,Erithacus rubecula,Crvendać,18,točkasta_metoda,A.P.,22.9,53
+2020,2020-07-16,Velebit,Fringilla coelebs,Zeba,38,IPA,I.H.,17.6,59
+2020,2020-07-18,Velebit,Dendrocopos major,Veliki djetlić,14,transekt,S.B.,24.8,76
+2020,2020-07-18,Velebit,Tetrao urogallus,Tetrijeb,1,IPA,S.B.,22.5,63
+2020,2020-07-18,Velebit,Buteo buteo,Škanjac,10,točkasta_metoda,I.H.,18.7,65
+2020,2020-07-18,Velebit,Cyanistes caeruleus,Plavetna sjenica,15,točkasta_metoda,D.T.,25.7,51
+2020,2020-07-18,Velebit,Erithacus rubecula,Crvendać,14,IPA,I.H.,20.5,82
+2020,2020-07-18,Velebit,Turdus merula,Kos,18,IPA,D.T.,18.4,64
+2020,2020-07-18,Velebit,Accipiter gentilis,Jastreb kokošar,1,transekt,A.P.,22.9,78
+2020,2020-07-18,Velebit,Corvus corax,Gavran,6,transekt,I.H.,21.5,68
+2020,2020-07-20,Plitvice,Buteo buteo,Škanjac,5,transekt,S.B.,20.9,52
+2020,2020-07-20,Plitvice,Parus major,Velika sjenica,36,transekt,M.K.,13.2,62
+2020,2020-07-20,Plitvice,Tetrao urogallus,Tetrijeb,1,IPA,D.T.,23.2,73
+2020,2020-07-20,Plitvice,Anas platyrhynchos,Divlja patka,43,IPA,S.B.,15.8,76
+2020,2020-07-20,Plitvice,Dendrocopos major,Veliki djetlić,13,IPA,D.T.,18.9,70
+2020,2020-07-22,Plitvice,Sitta europaea,Brgljez,20,točkasta_metoda,S.B.,17.5,80
+2020,2020-07-22,Plitvice,Alcedo atthis,Vodomar,5,točkasta_metoda,S.B.,20.7,66
+2020,2020-07-22,Plitvice,Erithacus rubecula,Crvendać,18,transekt,S.B.,19.2,64
+2020,2020-07-22,Plitvice,Cyanistes caeruleus,Plavetna sjenica,20,transekt,M.K.,26.5,52
+2020,2020-07-22,Plitvice,Strix Uralskaensis,Uralska sova,3,IPA,I.H.,18.6,59
+2020,2020-07-22,Plitvice,Dryocopus martius,Crna žuna,3,transekt,M.K.,22.3,81
+2020,2020-07-22,Plitvice,Tetrao urogallus,Tetrijeb,5,transekt,M.K.,23.1,69
+2020,2020-07-22,Plitvice,Parus major,Velika sjenica,26,točkasta_metoda,D.T.,20.3,73
+2020,2020-07-22,Velebit,Sitta europaea,Brgljez,12,IPA,S.B.,22.6,81
+2020,2020-07-22,Velebit,Parus major,Velika sjenica,22,IPA,A.P.,20.5,69
+2020,2020-07-22,Velebit,Fringilla coelebs,Zeba,33,IPA,S.B.,21.8,79
+2020,2020-07-22,Velebit,Phoenicurus ochruros,Crvenrepka,9,točkasta_metoda,S.B.,23,56
+2020,2020-07-22,Velebit,Picus viridis,Zelena žuna,3,točkasta_metoda,I.H.,20.8,56
+2020,2020-07-22,Velebit,Corvus corax,Gavran,1,IPA,S.B.,25.7,56
+2021,2021-03-03,Risnjak,Fringilla coelebs,Zeba,32,točkasta_metoda,S.B.,9.7,69
+2021,2021-03-03,Risnjak,Dendrocopos major,Veliki djetlić,15,točkasta_metoda,I.H.,8.9,56
+2021,2021-03-03,Risnjak,Parus major,Velika sjenica,30,IPA,M.K.,15.5,69
+2021,2021-03-03,Risnjak,Accipiter gentilis,Jastreb kokošar,1,IPA,D.T.,17.3,62
+2021,2021-03-03,Risnjak,Sitta europaea,Brgljez,10,transekt,A.P.,13.1,81
+2021,2021-03-03,Risnjak,Turdus merula,Kos,21,točkasta_metoda,I.H.,10.6,65
+2021,2021-03-03,Risnjak,Buteo buteo,Škanjac,2,IPA,M.K.,22.4,72
+2021,2021-03-03,Risnjak,Cyanistes caeruleus,Plavetna sjenica,24,IPA,S.B.,11.2,50
+2021,2021-03-03,Risnjak,Tetrao urogallus,Tetrijeb,8,IPA,S.B.,13.8,56
+2021,2021-03-06,Velebit,Buteo buteo,Škanjac,5,točkasta_metoda,M.K.,,57
+2021,2021-03-06,Velebit,Turdus merula,Kos,23,točkasta_metoda,A.P.,11.3,60
+2021,2021-03-06,Velebit,Erithacus rubecula,Crvendać,13,IPA,S.B.,14.9,64
+2021,2021-03-06,Velebit,Dendrocopos major,Veliki djetlić,12,točkasta_metoda,A.P.,10.6,84
+2021,2021-03-06,Velebit,Fringilla coelebs,Zeba,26,transekt,I.H.,9.7,61
+2021,2021-03-06,Velebit,Aquila chrysaetos,Suri orao,2,točkasta_metoda,M.K.,16,80
+2021,2021-03-11,Risnjak,Fringilla coelebs,Zeba,28,IPA,A.P.,18.8,81
+2021,2021-03-11,Risnjak,Cyanistes caeruleus,Plavetna sjenica,16,transekt,A.P.,12.7,63
+2021,2021-03-11,Risnjak,Accipiter gentilis,Jastreb kokošar,6,točkasta_metoda,A.P.,15.1,63
+2021,2021-03-11,Risnjak,Parus major,Velika sjenica,16,transekt,M.K.,19.8,73
+2021,2021-03-11,Risnjak,Phoenicurus ochruros,Crvenrepka,7,IPA,D.T.,13.7,78
+2021,2021-03-11,Risnjak,Picus viridis,Zelena žuna,7,transekt,I.H.,17.7,76
+2021,2021-03-11,Velebit,Parus major,Velika sjenica,25,IPA,A.P.,15.7,71
+2021,2021-03-11,Velebit,Erithacus rubecula,Crvendać,21,IPA,A.P.,15.8,60
+2021,2021-03-11,Velebit,Buteo buteo,Škanjac,7,IPA,M.K.,19.2,58
+2021,2021-03-11,Velebit,Aquila chrysaetos,Suri orao,1,transekt,D.T.,8.4,59
+2021,2021-03-11,Velebit,Cyanistes caeruleus,Plavetna sjenica,18,točkasta_metoda,S.B.,14.6,82
+2021,2021-03-11,Velebit,Fringilla coelebs,Zeba,39,točkasta_metoda,S.B.,15.2,78
+2021,2021-03-11,Velebit,Tetrao urogallus,Tetrijeb,4,IPA,M.K.,13.5,70
+2021,2021-03-11,Velebit,Sitta europaea,Brgljez,15,IPA,S.B.,12.9,72
+2021,2021-03-11,Velebit,Phoenicurus ochruros,Crvenrepka,6,IPA,D.T.,14.6,55
+2021,2021-03-14,Risnjak,Dryocopus martius,Crna žuna,9,transekt,D.T.,19.1,57
+2021,2021-03-14,Risnjak,Dendrocopos major,Veliki djetlić,12,točkasta_metoda,A.P.,13.4,82
+2021,2021-03-14,Risnjak,Fringilla coelebs,Zeba,31,točkasta_metoda,A.P.,10.3,53
+2021,2021-03-14,Risnjak,Erithacus rubecula,Crvendać,20,IPA,S.B.,16,78
+2021,2021-03-14,Risnjak,Phoenicurus ochruros,Crvenrepka,8,transekt,M.K.,17.6,59
+2021,2021-03-14,Risnjak,Cyanistes caeruleus,Plavetna sjenica,21,IPA,I.H.,16.6,57
+2021,2021-03-19,Plitvice,Dendrocopos major,Veliki djetlić,12,transekt,I.H.,19.4,67
+2021,2021-03-19,Plitvice,Anas platyrhynchos,Divlja patka,30,točkasta_metoda,S.B.,16.5,51
+2021,2021-03-19,Plitvice,Alcedo atthis,Vodomar,9,IPA,I.H.,12.1,67
+2021,2021-03-19,Plitvice,Cyanistes caeruleus,Plavetna sjenica,14,točkasta_metoda,D.T.,19.9,68
+2021,2021-03-19,Plitvice,Phoenicurus ochruros,Crvenrepka,4,IPA,A.P.,10.1,70
+2021,2021-03-19,Plitvice,Sitta europaea,Brgljez,23,transekt,I.H.,11.8,72
+2021,2021-03-19,Plitvice,Parus major,Velika sjenica,28,transekt,D.T.,14.3,68
+2021,2021-03-19,Plitvice,Erithacus rubecula,Crvendać,21,IPA,D.T.,17.3,71
+2021,2021-03-19,Risnjak,Accipiter gentilis,Jastreb kokošar,2,točkasta_metoda,D.T.,16.8,70
+2021,2021-03-19,Risnjak,Erithacus rubecula,Crvendać,16,IPA,D.T.,13.5,82
+2021,2021-03-19,Risnjak,Parus major,Velika sjenica,35,točkasta_metoda,M.K.,16.7,70
+2021,2021-03-19,Risnjak,Cyanistes caeruleus,Plavetna sjenica,13,transekt,A.P.,16.8,80
+2021,2021-03-19,Risnjak,Aquila chrysaetos,Suri orao,3,transekt,A.P.,16.3,64
+2021,2021-03-19,Risnjak,Tetrao urogallus,Tetrijeb,3,točkasta_metoda,S.B.,18.1,70
+2021,2021-03-20,Plitvice,Fringilla coelebs,Zeba,26,IPA,A.P.,15.1,61
+2021,2021-03-20,Plitvice,Cyanistes caeruleus,Plavetna sjenica,19,IPA,S.B.,20.3,53
+2021,2021-03-20,Plitvice,Anas platyrhynchos,Divlja patka,21,točkasta_metoda,M.K.,10.8,68
+2021,2021-03-20,Plitvice,Turdus merula,Kos,18,točkasta_metoda,S.B.,18.2,50
+2021,2021-03-20,Plitvice,Dendrocopos major,Veliki djetlić,13,transekt,M.K.,13.3,78
+2021,2021-03-20,Plitvice,Dryocopus martius,Crna žuna,1,transekt,D.T.,14.2,70
+2021,2021-03-27,Risnjak,Parus major,Velika sjenica,27,transekt,D.T.,12.7,80
+2021,2021-03-27,Risnjak,Turdus merula,Kos,27,transekt,I.H.,19.8,64
+2021,2021-03-27,Risnjak,Dendrocopos major,Veliki djetlić,9,točkasta_metoda,M.K.,13,82
+2021,2021-03-27,Risnjak,Aquila chrysaetos,Suri orao,1,točkasta_metoda,A.P.,16.4,71
+2021,2021-03-27,Risnjak,Phoenicurus ochruros,Crvenrepka,11,transekt,I.H.,17.2,55
+2021,2021-03-27,Risnjak,Buteo buteo,Škanjac,9,IPA,D.T.,16.1,74
+2021,2021-03-27,Risnjak,Fringilla coelebs,Zeba,37,transekt,D.T.,18.5,84
+2021,2021-03-27,Risnjak,Erithacus rubecula,Crvendać,20,IPA,M.K.,11.2,70
+2021,2021-04-01,Plitvice,Phoenicurus ochruros,Crvenrepka,7,IPA,S.B.,19,74
+2021,2021-04-01,Plitvice,Anas platyrhynchos,Divlja patka,25,točkasta_metoda,S.B.,13.7,64
+2021,2021-04-01,Plitvice,Alcedo atthis,Vodomar,8,IPA,I.H.,19.2,55
+2021,2021-04-01,Plitvice,Fringilla coelebs,Zeba,33,točkasta_metoda,D.T.,11.9,68
+2021,2021-04-01,Plitvice,Parus major,Velika sjenica,26,IPA,D.T.,17.1,73
+2021,2021-04-01,Plitvice,Erithacus rubecula,Crvendać,20,IPA,I.H.,11.4,57
+2021,2021-04-01,Velebit,Fringilla coelebs,Zeba,44,transekt,S.B.,17.5,54
+2021,2021-04-01,Velebit,Sitta europaea,Brgljez,15,transekt,S.B.,18.5,72
+2021,2021-04-01,Velebit,Cyanistes caeruleus,Plavetna sjenica,19,transekt,S.B.,19.2,79
+2021,2021-04-01,Velebit,Accipiter gentilis,Jastreb kokošar,8,transekt,M.K.,18.8,73
+2021,2021-04-01,Velebit,Turdus merula,Kos,23,IPA,D.T.,19.2,75
+2021,2021-04-01,Velebit,Strix Uralskaensis,Uralska sova,1,IPA,M.K.,14.6,65
+2021,2021-04-01,Velebit,Aquila chrysaetos,Suri orao,5,točkasta_metoda,I.H.,13.8,84
+2021,2021-04-01,Velebit,Dendrocopos major,Veliki djetlić,12,točkasta_metoda,I.H.,16.1,62
+2021,2021-04-01,Velebit,Dryocopus martius,Crna žuna,6,transekt,S.B.,15,71
+2021,2021-04-01,Velebit,Parus major,Velika sjenica,28,točkasta_metoda,S.B.,16.3,53
+2021,2021-04-03,Plitvice,Fringilla coelebs,Zeba,29,IPA,I.H.,14.1,67
+2021,2021-04-03,Plitvice,Anas platyrhynchos,Divlja patka,23,točkasta_metoda,S.B.,19,81
+2021,2021-04-03,Plitvice,Cyanistes caeruleus,Plavetna sjenica,17,transekt,S.B.,14.2,80
+2021,2021-04-03,Plitvice,Corvus corax,Gavran,9,transekt,M.K.,12.9,61
+2021,2021-04-03,Plitvice,Dendrocopos major,Veliki djetlić,11,IPA,I.H.,16.1,76
+2021,2021-04-03,Plitvice,Alcedo atthis,Vodomar,6,IPA,M.K.,15.8,52
+2021,2021-04-03,Plitvice,Parus major,Velika sjenica,32,transekt,M.K.,16.2,80
+2021,2021-04-06,Velebit,Turdus merula,Kos,27,točkasta_metoda,A.P.,17.7,52
+2021,2021-04-06,Velebit,Phoenicurus ochruros,Crvenrepka,7,točkasta_metoda,A.P.,18,52
+2021,2021-04-06,Velebit,Dendrocopos major,Veliki djetlić,11,IPA,M.K.,19.8,61
+2021,2021-04-06,Velebit,Cyanistes caeruleus,Plavetna sjenica,20,transekt,I.H.,16.9,60
+2021,2021-04-06,Velebit,Fringilla coelebs,Zeba,35,točkasta_metoda,I.H.,18.5,57
+2021,2021-04-06,Velebit,Strix Uralskaensis,Uralska sova,4,transekt,I.H.,19.5,74
+2021,2021-04-14,Risnjak,Tetrao urogallus,Tetrijeb,5,IPA,A.P.,15.1,76
+2021,2021-04-14,Risnjak,Fringilla coelebs,Zeba,26,točkasta_metoda,I.H.,16.8,84
+2021,2021-04-14,Risnjak,Turdus merula,Kos,24,transekt,D.T.,18.5,52
+2021,2021-04-14,Risnjak,Parus major,Velika sjenica,23,točkasta_metoda,S.B.,15.4,52
+2021,2021-04-14,Risnjak,Buteo buteo,Škanjac,5,IPA,D.T.,13.8,56
+2021,2021-04-14,Risnjak,Aquila chrysaetos,Suri orao,1,točkasta_metoda,I.H.,15.8,60
+2021,2021-04-14,Risnjak,Cyanistes caeruleus,Plavetna sjenica,25,transekt,A.P.,17.4,60
+2021,2021-04-14,Risnjak,Accipiter gentilis,Jastreb kokošar,1,IPA,D.T.,20.1,52
+2021,2021-04-14,Risnjak,Picus viridis,Zelena žuna,6,transekt,D.T.,12.6,67
+2021,2021-04-14,Risnjak,Erithacus rubecula,Crvendać,13,transekt,D.T.,14.9,70
+2021,2021-04-16,Velebit,Fringilla coelebs,Zeba,34,točkasta_metoda,D.T.,18.7,61
+2021,2021-04-16,Velebit,Picus viridis,Zelena žuna,4,transekt,D.T.,11.9,58
+2021,2021-04-16,Velebit,Turdus merula,Kos,24,točkasta_metoda,D.T.,14.6,77
+2021,2021-04-16,Velebit,Dendrocopos major,Veliki djetlić,13,točkasta_metoda,I.H.,14.9,55
+2021,2021-04-16,Velebit,Accipiter gentilis,Jastreb kokošar,5,transekt,A.P.,20.4,61
+2021,2021-04-16,Velebit,Phoenicurus ochruros,Crvenrepka,9,transekt,S.B.,17.6,73
+2021,2021-04-16,Velebit,Sitta europaea,Brgljez,21,IPA,M.K.,15.9,83
+2021,2021-04-16,Velebit,Erithacus rubecula,Crvendać,17,transekt,I.H.,17.5,57
+2021,2021-04-16,Velebit,Aquila chrysaetos,Suri orao,1,točkasta_metoda,S.B.,20.1,55
+2021,2021-04-17,Plitvice,Cyanistes caeruleus,Plavetna sjenica,24,točkasta_metoda,S.B.,19.7,63
+2021,2021-04-17,Plitvice,Dendrocopos major,Veliki djetlić,7,transekt,A.P.,19.2,81
+2021,2021-04-17,Plitvice,Picus viridis,Zelena žuna,4,IPA,S.B.,15.6,77
+2021,2021-04-17,Plitvice,Turdus merula,Kos,22,transekt,A.P.,16.9,50
+2021,2021-04-17,Plitvice,Fringilla coelebs,Zeba,32,IPA,I.H.,16.8,65
+2021,2021-04-17,Plitvice,Erithacus rubecula,Crvendać,23,IPA,M.K.,9.6,68
+2021,2021-04-17,Plitvice,Parus major,Velika sjenica,26,IPA,M.K.,19,65
+2021,2021-04-17,Plitvice,Anas platyrhynchos,Divlja patka,28,IPA,S.B.,21.1,57
+2021,2021-04-18,Risnjak,Sitta europaea,Brgljez,16,IPA,I.H.,16.9,70
+2021,2021-04-18,Risnjak,Dryocopus martius,Crna žuna,10,točkasta_metoda,A.P.,21.1,67
+2021,2021-04-18,Risnjak,Turdus merula,Kos,23,točkasta_metoda,M.K.,15.8,63
+2021,2021-04-18,Risnjak,Tetrao urogallus,Tetrijeb,1,IPA,I.H.,14.5,57
+2021,2021-04-18,Risnjak,Cyanistes caeruleus,Plavetna sjenica,32,IPA,M.K.,17,70
+2021,2021-04-18,Risnjak,Accipiter gentilis,Jastreb kokošar,5,točkasta_metoda,M.K.,13.3,70
+2021,2021-04-18,Risnjak,Parus major,Velika sjenica,21,transekt,M.K.,17.2,58
+2021,2021-04-18,Risnjak,Fringilla coelebs,Zeba,26,transekt,M.K.,17.1,84
+2021,2021-04-18,Risnjak,Buteo buteo,Škanjac,7,transekt,I.H.,15.4,69
+2021,2021-04-18,Risnjak,Erithacus rubecula,Crvendać,12,IPA,D.T.,14,81
+2021,2021-04-22,Plitvice,Picus viridis,Zelena žuna,3,IPA,I.H.,13.9,54
+2021,2021-04-22,Plitvice,Erithacus rubecula,Crvendać,21,transekt,I.H.,17.6,54
+2021,2021-04-22,Plitvice,Cyanistes caeruleus,Plavetna sjenica,22,točkasta_metoda,M.K.,20.3,75
+2021,2021-04-22,Plitvice,Sitta europaea,Brgljez,11,točkasta_metoda,S.B.,11.6,85
+2021,2021-04-22,Plitvice,Parus major,Velika sjenica,21,točkasta_metoda,S.B.,19.8,62
+2021,2021-04-22,Plitvice,Fringilla coelebs,Zeba,31,IPA,A.P.,14.7,68
+2021,2021-04-22,Plitvice,Turdus merula,Kos,29,transekt,D.T.,16.7,80
+2021,2021-04-22,Plitvice,Alcedo atthis,Vodomar,3,točkasta_metoda,I.H.,16.1,64
+2021,2021-04-22,Plitvice,Dendrocopos major,Veliki djetlić,7,transekt,D.T.,19,50
+2021,2021-04-22,Plitvice,Anas platyrhynchos,Divlja patka,28,točkasta_metoda,D.T.,14.5,58
+2021,2021-04-22,Risnjak,Dendrocopos major,Veliki djetlić,9,IPA,D.T.,14,82
+2021,2021-04-22,Risnjak,Tetrao urogallus,Tetrijeb,2,IPA,S.B.,13.2,58
+2021,2021-04-22,Risnjak,Aquila chrysaetos,Suri orao,2,IPA,A.P.,14,77
+2021,2021-04-22,Risnjak,Fringilla coelebs,Zeba,24,točkasta_metoda,I.H.,21.8,85
+2021,2021-04-22,Risnjak,Phoenicurus ochruros,Crvenrepka,8,točkasta_metoda,A.P.,11.8,72
+2021,2021-04-22,Risnjak,Turdus merula,Kos,32,IPA,I.H.,14,51
+2021,2021-04-22,Risnjak,Dryocopus martius,Crna žuna,4,IPA,I.H.,16,66
+2021,2021-04-22,Risnjak,Cyanistes caeruleus,Plavetna sjenica,16,točkasta_metoda,D.T.,14.3,71
+2021,2021-04-22,Risnjak,Parus major,Velika sjenica,22,transekt,A.P.,17,63
+2021,2021-04-24,Velebit,Strix Uralskaensis,Uralska sova,5,točkasta_metoda,M.K.,14.9,66
+2021,2021-04-24,Velebit,Turdus merula,Kos,30,točkasta_metoda,A.P.,17.5,74
+2021,2021-04-24,Velebit,Dendrocopos major,Veliki djetlić,13,točkasta_metoda,M.K.,13.4,78
+2021,2021-04-24,Velebit,Accipiter gentilis,Jastreb kokošar,3,transekt,D.T.,10.5,77
+2021,2021-04-24,Velebit,Dryocopus martius,Crna žuna,8,transekt,M.K.,14.2,59
+2021,2021-04-24,Velebit,Fringilla coelebs,Zeba,40,transekt,I.H.,13.1,75
+2021,2021-04-24,Velebit,Parus major,Velika sjenica,32,transekt,D.T.,18.6,79
+2021,2021-04-24,Velebit,Sitta europaea,Brgljez,13,IPA,I.H.,20.9,54
+2021,2021-04-24,Velebit,Erithacus rubecula,Crvendać,12,IPA,I.H.,11.2,85
+2021,2021-04-25,Plitvice,Accipiter gentilis,Jastreb kokošar,2,IPA,M.K.,12.8,61
+2021,2021-04-25,Plitvice,Dendrocopos major,Veliki djetlić,8,IPA,A.P.,12.8,54
+2021,2021-04-25,Plitvice,Turdus merula,Kos,26,točkasta_metoda,M.K.,17.5,69
+2021,2021-04-25,Plitvice,Parus major,Velika sjenica,24,IPA,S.B.,14.6,56
+2021,2021-04-25,Plitvice,Cyanistes caeruleus,Plavetna sjenica,23,točkasta_metoda,M.K.,20.7,83
+2021,2021-04-25,Plitvice,Anas platyrhynchos,Divlja patka,39,transekt,A.P.,16.2,60
+2021,2021-04-25,Plitvice,Corvus corax,Gavran,5,transekt,M.K.,13.3,61
+2021,2021-04-28,Plitvice,Turdus merula,Kos,21,točkasta_metoda,D.T.,17.5,60
+2021,2021-04-28,Plitvice,Fringilla coelebs,Zeba,31,točkasta_metoda,M.K.,14.8,83
+2021,2021-04-28,Plitvice,Erithacus rubecula,Crvendać,10,točkasta_metoda,S.B.,12.4,54
+2021,2021-04-28,Plitvice,Dryocopus martius,Crna žuna,6,transekt,M.K.,16.8,78
+2021,2021-04-28,Plitvice,Accipiter gentilis,Jastreb kokošar,3,IPA,D.T.,18.6,72
+2021,2021-04-28,Plitvice,Parus major,Velika sjenica,27,točkasta_metoda,D.T.,19.7,63
+2021,2021-05-03,Velebit,Dendrocopos major,Veliki djetlić,16,transekt,S.B.,15.3,62
+2021,2021-05-03,Velebit,Tetrao urogallus,Tetrijeb,5,transekt,M.K.,16.8,52
+2021,2021-05-03,Velebit,Turdus merula,Kos,25,točkasta_metoda,M.K.,19.7,67
+2021,2021-05-03,Velebit,Corvus corax,Gavran,16,točkasta_metoda,S.B.,17.9,75
+2021,2021-05-03,Velebit,Fringilla coelebs,Zeba,55,IPA,A.P.,21.6,52
+2021,2021-05-03,Velebit,Sitta europaea,Brgljez,19,točkasta_metoda,M.K.,13.4,85
+2021,2021-05-03,Velebit,Phoenicurus ochruros,Crvenrepka,16,transekt,D.T.,21.6,71
+2021,2021-05-03,Velebit,Strix Uralskaensis,Uralska sova,6,točkasta_metoda,I.H.,16.6,51
+2021,2021-05-03,Velebit,Dryocopus martius,Crna žuna,10,IPA,M.K.,16.7,77
+2021,2021-05-03,Velebit,Parus major,Velika sjenica,35,IPA,D.T.,20.6,51
+2021,2021-05-03,Velebit,Buteo buteo,Škanjac,9,točkasta_metoda,D.T.,16.8,65
+2021,2021-05-08,Velebit,Erithacus rubecula,Crvendać,24,IPA,D.T.,17.5,70
+2021,2021-05-08,Velebit,Cyanistes caeruleus,Plavetna sjenica,40,transekt,A.P.,22.7,71
+2021,2021-05-08,Velebit,Dendrocopos major,Veliki djetlić,19,transekt,S.B.,16.3,66
+2021,2021-05-08,Velebit,Phoenicurus ochruros,Crvenrepka,16,transekt,M.K.,14.3,63
+2021,2021-05-08,Velebit,Turdus merula,Kos,27,IPA,M.K.,17.9,66
+2021,2021-05-08,Velebit,Fringilla coelebs,Zeba,55,transekt,S.B.,16.5,82
+2021,2021-05-08,Velebit,Tetrao urogallus,Tetrijeb,6,točkasta_metoda,S.B.,14,60
+2021,2021-05-08,Velebit,Picus viridis,Zelena žuna,13,transekt,D.T.,14,85
+2021,2021-05-08,Velebit,Sitta europaea,Brgljez,19,točkasta_metoda,M.K.,15.1,74
+2021,2021-05-08,Velebit,Parus major,Velika sjenica,36,IPA,I.H.,15.5,58
+2021,2021-05-08,Velebit,Accipiter gentilis,Jastreb kokošar,5,točkasta_metoda,I.H.,12.7,50
+2021,2021-05-08,Velebit,Dryocopus martius,Crna žuna,8,IPA,M.K.,13,63
+2021,2021-05-12,Plitvice,Dryocopus martius,Crna žuna,4,točkasta_metoda,S.B.,18.6,74
+2021,2021-05-12,Plitvice,Dendrocopos major,Veliki djetlić,17,transekt,M.K.,13.3,64
+2021,2021-05-12,Plitvice,Tetrao urogallus,Tetrijeb,3,točkasta_metoda,I.H.,19.3,60
+2021,2021-05-12,Plitvice,Parus major,Velika sjenica,31,točkasta_metoda,D.T.,18.5,81
+2021,2021-05-12,Plitvice,Erithacus rubecula,Crvendać,27,IPA,D.T.,22.5,57
+2021,2021-05-12,Plitvice,Phoenicurus ochruros,Crvenrepka,12,IPA,I.H.,15.3,83
+2021,2021-05-12,Plitvice,Cyanistes caeruleus,Plavetna sjenica,32,točkasta_metoda,M.K.,21.1,81
+2021,2021-05-12,Plitvice,Anas platyrhynchos,Divlja patka,30,IPA,A.P.,12.9,76
+2021,2021-05-12,Risnjak,Phoenicurus ochruros,Crvenrepka,16,IPA,I.H.,16.9,84
+2021,2021-05-12,Risnjak,Parus major,Velika sjenica,39,IPA,S.B.,17.3,74
+2021,2021-05-12,Risnjak,Strix Uralskaensis,Uralska sova,9,točkasta_metoda,S.B.,20.5,72
+2021,2021-05-12,Risnjak,Dendrocopos major,Veliki djetlić,20,IPA,I.H.,20.6,65
+2021,2021-05-12,Risnjak,Turdus merula,Kos,32,IPA,M.K.,16.1,83
+2021,2021-05-12,Risnjak,Sitta europaea,Brgljez,14,IPA,D.T.,14,56
+2021,2021-05-12,Risnjak,Picus viridis,Zelena žuna,13,transekt,I.H.,17.3,68
+2021,2021-05-12,Risnjak,Aquila chrysaetos,Suri orao,3,transekt,A.P.,19,76
+2021,2021-05-12,Risnjak,Fringilla coelebs,Zeba,51,IPA,M.K.,14.7,64
+2021,2021-05-12,Risnjak,Cyanistes caeruleus,Plavetna sjenica,37,transekt,D.T.,22.7,74
+2021,2021-05-13,Plitvice,Anas platyrhynchos,Divlja patka,50,transekt,D.T.,16.9,80
+2021,2021-05-13,Plitvice,Cyanistes caeruleus,Plavetna sjenica,26,IPA,S.B.,22.5,66
+2021,2021-05-13,Plitvice,Parus major,Velika sjenica,46,točkasta_metoda,S.B.,14.7,72
+2021,2021-05-13,Plitvice,Sitta europaea,Brgljez,17,transekt,D.T.,13.3,60
+2021,2021-05-13,Plitvice,Turdus merula,Kos,43,točkasta_metoda,S.B.,18.2,58
+2021,2021-05-13,Plitvice,Fringilla coelebs,Zeba,65,IPA,S.B.,20.3,68
+2021,2021-05-13,Plitvice,Dendrocopos major,Veliki djetlić,19,transekt,I.H.,17.3,66
+2021,2021-05-13,Plitvice,Picus viridis,Zelena žuna,3,točkasta_metoda,A.P.,19.8,79
+2021,2021-05-13,Plitvice,Phoenicurus ochruros,Crvenrepka,17,točkasta_metoda,M.K.,13.9,75
+2021,2021-05-13,Plitvice,Alcedo atthis,Vodomar,8,IPA,S.B.,20.5,71
+2021,2021-05-13,Plitvice,Erithacus rubecula,Crvendać,23,IPA,I.H.,15.9,80
+2021,2021-05-15,Plitvice,Parus major,Velika sjenica,43,transekt,A.P.,19.4,80
+2021,2021-05-15,Plitvice,Corvus corax,Gavran,10,IPA,D.T.,11.9,61
+2021,2021-05-15,Plitvice,Accipiter gentilis,Jastreb kokošar,9,IPA,S.B.,19.2,72
+2021,2021-05-15,Plitvice,Fringilla coelebs,Zeba,49,točkasta_metoda,S.B.,14.4,69
+2021,2021-05-15,Plitvice,Dendrocopos major,Veliki djetlić,16,transekt,D.T.,19.2,57
+2021,2021-05-15,Plitvice,Cyanistes caeruleus,Plavetna sjenica,23,IPA,A.P.,15.9,73
+2021,2021-05-15,Plitvice,Phoenicurus ochruros,Crvenrepka,16,točkasta_metoda,S.B.,11.6,83
+2021,2021-05-15,Plitvice,Erithacus rubecula,Crvendać,35,IPA,D.T.,19.8,61
+2021,2021-05-19,Velebit,Phoenicurus ochruros,Crvenrepka,11,točkasta_metoda,S.B.,20.4,80
+2021,2021-05-19,Velebit,Cyanistes caeruleus,Plavetna sjenica,20,transekt,I.H.,24.7,73
+2021,2021-05-19,Velebit,Picus viridis,Zelena žuna,3,IPA,S.B.,21.1,70
+2021,2021-05-19,Velebit,Fringilla coelebs,Zeba,60,točkasta_metoda,M.K.,11.4,67
+2021,2021-05-19,Velebit,Erithacus rubecula,Crvendać,15,točkasta_metoda,I.H.,23.8,68
+2021,2021-05-19,Velebit,Buteo buteo,Škanjac,12,transekt,I.H.,18.7,56
+2021,2021-05-19,Velebit,Turdus merula,Kos,45,transekt,S.B.,14.6,56
+2021,2021-05-19,Velebit,Sitta europaea,Brgljez,12,točkasta_metoda,M.K.,19.8,79
+2021,2021-05-21,Plitvice,Fringilla coelebs,Zeba,46,točkasta_metoda,I.H.,15.4,68
+2021,2021-05-21,Plitvice,Buteo buteo,Škanjac,13,točkasta_metoda,I.H.,15.7,70
+2021,2021-05-21,Plitvice,Sitta europaea,Brgljez,16,IPA,A.P.,21,59
+2021,2021-05-21,Plitvice,Parus major,Velika sjenica,38,IPA,D.T.,16.9,66
+2021,2021-05-21,Plitvice,Anas platyrhynchos,Divlja patka,46,IPA,S.B.,13.8,54
+2021,2021-05-21,Plitvice,Aquila chrysaetos,Suri orao,3,transekt,I.H.,14.1,77
+2021,2021-05-21,Plitvice,Turdus merula,Kos,46,točkasta_metoda,M.K.,14.3,72
+2021,2021-05-21,Plitvice,Accipiter gentilis,Jastreb kokošar,8,IPA,S.B.,20.5,67
+2021,2021-05-21,Plitvice,Alcedo atthis,Vodomar,9,transekt,M.K.,21.6,53
+2021,2021-05-21,Plitvice,Erithacus rubecula,Crvendać,23,IPA,I.H.,12.6,70
+2021,2021-05-21,Plitvice,Dendrocopos major,Veliki djetlić,21,transekt,D.T.,18.5,81
+2021,2021-05-21,Plitvice,Cyanistes caeruleus,Plavetna sjenica,32,točkasta_metoda,M.K.,20,61
+2021,2021-05-22,Risnjak,Tetrao urogallus,Tetrijeb,5,IPA,S.B.,20.1,83
+2021,2021-05-22,Risnjak,Dendrocopos major,Veliki djetlić,24,točkasta_metoda,A.P.,21.3,73
+2021,2021-05-22,Risnjak,Parus major,Velika sjenica,52,točkasta_metoda,D.T.,18.9,54
+2021,2021-05-22,Risnjak,Cyanistes caeruleus,Plavetna sjenica,31,IPA,S.B.,19,54
+2021,2021-05-22,Risnjak,Fringilla coelebs,Zeba,33,IPA,A.P.,18.8,54
+2021,2021-05-22,Risnjak,Strix Uralskaensis,Uralska sova,6,točkasta_metoda,I.H.,23.7,62
+2021,2021-05-22,Risnjak,Erithacus rubecula,Crvendać,17,IPA,D.T.,16.3,58
+2021,2021-05-22,Risnjak,Sitta europaea,Brgljez,25,točkasta_metoda,S.B.,23.2,70
+2021,2021-05-22,Risnjak,Dryocopus martius,Crna žuna,8,točkasta_metoda,I.H.,12.9,79
+2021,2021-05-22,Risnjak,Turdus merula,Kos,33,IPA,M.K.,9,78
+2021,2021-05-22,Risnjak,Buteo buteo,Škanjac,14,točkasta_metoda,D.T.,11.9,83
+2021,2021-05-23,Velebit,Corvus corax,Gavran,11,točkasta_metoda,D.T.,15.6,78
+2021,2021-05-23,Velebit,Sitta europaea,Brgljez,19,IPA,A.P.,19.8,81
+2021,2021-05-23,Velebit,Cyanistes caeruleus,Plavetna sjenica,23,točkasta_metoda,A.P.,14.6,71
+2021,2021-05-23,Velebit,Phoenicurus ochruros,Crvenrepka,11,točkasta_metoda,D.T.,19,77
+2021,2021-05-23,Velebit,Strix Uralskaensis,Uralska sova,5,IPA,D.T.,15,80
+2021,2021-05-23,Velebit,Accipiter gentilis,Jastreb kokošar,9,transekt,A.P.,17.3,62
+2021,2021-05-23,Velebit,Fringilla coelebs,Zeba,38,točkasta_metoda,I.H.,21.9,83
+2021,2021-05-23,Velebit,Buteo buteo,Škanjac,10,transekt,M.K.,11.8,51
+2021,2021-05-23,Velebit,Dendrocopos major,Veliki djetlić,14,točkasta_metoda,S.B.,16.3,69
+2021,2021-05-23,Velebit,Erithacus rubecula,Crvendać,24,IPA,D.T.,17.2,59
+2021,2021-05-23,Velebit,Turdus merula,Kos,31,transekt,M.K.,18.6,77
+2021,2021-05-23,Velebit,Aquila chrysaetos,Suri orao,2,transekt,D.T.,21.8,62
+2021,2021-05-26,Risnjak,Strix Uralskaensis,Uralska sova,6,IPA,I.H.,16.3,71
+2021,2021-05-26,Risnjak,Picus viridis,Zelena žuna,17,IPA,D.T.,16.9,69
+2021,2021-05-26,Risnjak,Erithacus rubecula,Crvendać,25,transekt,S.B.,15.6,79
+2021,2021-05-26,Risnjak,Sitta europaea,Brgljez,23,IPA,D.T.,16.1,62
+2021,2021-05-26,Risnjak,Aquila chrysaetos,Suri orao,5,točkasta_metoda,I.H.,16.6,64
+2021,2021-05-26,Risnjak,Cyanistes caeruleus,Plavetna sjenica,24,točkasta_metoda,M.K.,13.9,81
+2021,2021-05-26,Risnjak,Dryocopus martius,Crna žuna,13,točkasta_metoda,D.T.,16.6,65
+2021,2021-05-26,Risnjak,Turdus merula,Kos,39,transekt,M.K.,18.2,69
+2021,2021-05-26,Risnjak,Corvus corax,Gavran,9,transekt,A.P.,16.8,51
+2021,2021-05-26,Velebit,Sitta europaea,Brgljez,19,točkasta_metoda,S.B.,16.2,69
+2021,2021-05-26,Velebit,Dendrocopos major,Veliki djetlić,15,točkasta_metoda,D.T.,20.1,52
+2021,2021-05-26,Velebit,Erithacus rubecula,Crvendać,18,točkasta_metoda,M.K.,13.9,85
+2021,2021-05-26,Velebit,Buteo buteo,Škanjac,10,transekt,M.K.,16.1,63
+2021,2021-05-26,Velebit,Fringilla coelebs,Zeba,56,točkasta_metoda,M.K.,15.2,53
+2021,2021-05-26,Velebit,Parus major,Velika sjenica,42,IPA,I.H.,21,66
+2021,2021-05-26,Velebit,Strix Uralskaensis,Uralska sova,6,transekt,I.H.,19.1,68
+2021,2021-05-26,Velebit,Dryocopus martius,Crna žuna,4,transekt,D.T.,20.1,55
+2021,2021-05-26,Velebit,Cyanistes caeruleus,Plavetna sjenica,35,IPA,M.K.,20.3,61
+2021,2021-05-26,Velebit,Accipiter gentilis,Jastreb kokošar,4,IPA,M.K.,15.9,79
+2021,2021-05-26,Velebit,Corvus corax,Gavran,8,transekt,S.B.,18,70
+2021,2021-05-26,Velebit,Picus viridis,Zelena žuna,8,točkasta_metoda,I.H.,19.3,60
+2021,2021-05-28,Risnjak,Tetrao urogallus,Tetrijeb,7,IPA,S.B.,22.4,74
+2021,2021-05-28,Risnjak,Aquila chrysaetos,Suri orao,1,IPA,A.P.,20.7,72
+2021,2021-05-28,Risnjak,Corvus corax,Gavran,8,transekt,S.B.,18.7,53
+2021,2021-05-28,Risnjak,Cyanistes caeruleus,Plavetna sjenica,29,transekt,M.K.,18.3,51
+2021,2021-05-28,Risnjak,Erithacus rubecula,Crvendać,28,IPA,S.B.,16,51
+2021,2021-05-28,Risnjak,Parus major,Velika sjenica,33,IPA,D.T.,15.7,80
+2021,2021-05-28,Risnjak,Turdus merula,Kos,45,točkasta_metoda,A.P.,11.8,51
+2021,2021-05-28,Risnjak,Fringilla coelebs,Zeba,49,točkasta_metoda,S.B.,21.5,78
+2021,2021-06-02,Plitvice,Dendrocopos major,Veliki djetlić,11,točkasta_metoda,S.B.,17.8,70
+2021,2021-06-02,Plitvice,Anas platyrhynchos,Divlja patka,46,točkasta_metoda,I.H.,23.4,81
+2021,2021-06-02,Plitvice,Fringilla coelebs,Zeba,35,IPA,M.K.,18.4,79
+2021,2021-06-02,Plitvice,Phoenicurus ochruros,Crvenrepka,18,točkasta_metoda,D.T.,21.3,83
+2021,2021-06-02,Plitvice,Parus major,Velika sjenica,39,točkasta_metoda,A.P.,22.1,83
+2021,2021-06-02,Plitvice,Sitta europaea,Brgljez,16,točkasta_metoda,S.B.,21.3,76
+2021,2021-06-02,Plitvice,Tetrao urogallus,Tetrijeb,1,IPA,A.P.,16.1,84
+2021,2021-06-02,Plitvice,Erithacus rubecula,Crvendać,26,IPA,D.T.,15.7,84
+2021,2021-06-02,Plitvice,Buteo buteo,Škanjac,8,transekt,A.P.,22.2,56
+2021,2021-06-02,Plitvice,Cyanistes caeruleus,Plavetna sjenica,44,točkasta_metoda,M.K.,18.4,61
+2021,2021-06-02,Plitvice,Accipiter gentilis,Jastreb kokošar,6,točkasta_metoda,M.K.,18.3,56
+2021,2021-06-03,Risnjak,Parus major,Velika sjenica,44,transekt,S.B.,22.6,78
+2021,2021-06-03,Risnjak,Buteo buteo,Škanjac,6,točkasta_metoda,D.T.,18.2,79
+2021,2021-06-03,Risnjak,Turdus merula,Kos,46,točkasta_metoda,S.B.,13,80
+2021,2021-06-03,Risnjak,Cyanistes caeruleus,Plavetna sjenica,22,točkasta_metoda,A.P.,17.2,76
+2021,2021-06-03,Risnjak,Corvus corax,Gavran,7,IPA,S.B.,23,77
+2021,2021-06-03,Risnjak,Sitta europaea,Brgljez,19,transekt,M.K.,19.9,59
+2021,2021-06-03,Risnjak,Tetrao urogallus,Tetrijeb,5,transekt,A.P.,18.7,74
+2021,2021-06-03,Risnjak,Erithacus rubecula,Crvendać,19,IPA,D.T.,17.8,59
+2021,2021-06-03,Risnjak,Fringilla coelebs,Zeba,44,IPA,I.H.,14.6,74
+2021,2021-06-03,Risnjak,Dryocopus martius,Crna žuna,11,transekt,A.P.,17.5,85
+2021,2021-06-04,Risnjak,Dryocopus martius,Crna žuna,9,točkasta_metoda,D.T.,16.1,77
+2021,2021-06-04,Risnjak,Corvus corax,Gavran,10,transekt,D.T.,17,71
+2021,2021-06-04,Risnjak,Phoenicurus ochruros,Crvenrepka,14,transekt,D.T.,13.8,60
+2021,2021-06-04,Risnjak,Turdus merula,Kos,41,transekt,D.T.,24.5,74
+2021,2021-06-04,Risnjak,Fringilla coelebs,Zeba,40,točkasta_metoda,S.B.,16.6,52
+2021,2021-06-04,Risnjak,Parus major,Velika sjenica,33,transekt,D.T.,21.1,80
+2021,2021-06-04,Risnjak,Cyanistes caeruleus,Plavetna sjenica,25,točkasta_metoda,M.K.,18.4,66
+2021,2021-06-04,Risnjak,Dendrocopos major,Veliki djetlić,14,točkasta_metoda,I.H.,20.6,72
+2021,2021-06-08,Risnjak,Cyanistes caeruleus,Plavetna sjenica,20,transekt,I.H.,20.9,64
+2021,2021-06-08,Risnjak,Sitta europaea,Brgljez,18,točkasta_metoda,M.K.,18.3,60
+2021,2021-06-08,Risnjak,Dryocopus martius,Crna žuna,9,točkasta_metoda,S.B.,16.4,73
+2021,2021-06-08,Risnjak,Parus major,Velika sjenica,43,transekt,I.H.,16.9,51
+2021,2021-06-08,Risnjak,Turdus merula,Kos,40,transekt,M.K.,21,62
+2021,2021-06-08,Risnjak,Corvus corax,Gavran,8,IPA,S.B.,24.8,76
+2021,2021-06-08,Risnjak,Buteo buteo,Škanjac,15,točkasta_metoda,I.H.,15.1,50
+2021,2021-06-08,Risnjak,Fringilla coelebs,Zeba,49,transekt,A.P.,16.7,84
+2021,2021-06-08,Risnjak,Tetrao urogallus,Tetrijeb,1,transekt,M.K.,12.5,71
+2021,2021-06-08,Risnjak,Aquila chrysaetos,Suri orao,2,IPA,S.B.,21.6,53
+2021,2021-06-11,Risnjak,Parus major,Velika sjenica,43,transekt,D.T.,16.6,72
+2021,2021-06-11,Risnjak,Accipiter gentilis,Jastreb kokošar,11,IPA,I.H.,17.8,51
+2021,2021-06-11,Risnjak,Dryocopus martius,Crna žuna,9,IPA,M.K.,26.7,69
+2021,2021-06-11,Risnjak,Corvus corax,Gavran,2,točkasta_metoda,D.T.,17.1,69
+2021,2021-06-11,Risnjak,Cyanistes caeruleus,Plavetna sjenica,23,IPA,A.P.,24.9,59
+2021,2021-06-11,Risnjak,Sitta europaea,Brgljez,20,IPA,D.T.,18.9,81
+2021,2021-06-11,Risnjak,Fringilla coelebs,Zeba,54,IPA,I.H.,16.6,72
+2021,2021-06-11,Risnjak,Turdus merula,Kos,37,točkasta_metoda,I.H.,23.1,75
+2021,2021-06-11,Risnjak,Phoenicurus ochruros,Crvenrepka,17,IPA,S.B.,17.9,77
+2021,2021-06-11,Risnjak,Strix Uralskaensis,Uralska sova,10,IPA,I.H.,18.5,54
+2021,2021-06-11,Risnjak,Dendrocopos major,Veliki djetlić,19,točkasta_metoda,I.H.,19.2,56
+2021,2021-06-12,Plitvice,Cyanistes caeruleus,Plavetna sjenica,28,točkasta_metoda,A.P.,13.3,65
+2021,2021-06-12,Plitvice,Buteo buteo,Škanjac,12,IPA,A.P.,20.9,78
+2021,2021-06-12,Plitvice,Turdus merula,Kos,44,transekt,S.B.,23.9,67
+2021,2021-06-12,Plitvice,Anas platyrhynchos,Divlja patka,45,točkasta_metoda,D.T.,17.5,80
+2021,2021-06-12,Plitvice,Dryocopus martius,Crna žuna,7,transekt,A.P.,19.7,52
+2021,2021-06-12,Plitvice,Erithacus rubecula,Crvendać,19,točkasta_metoda,I.H.,17.7,57
+2021,2021-06-12,Plitvice,Phoenicurus ochruros,Crvenrepka,9,točkasta_metoda,A.P.,21.4,77
+2021,2021-06-12,Plitvice,Parus major,Velika sjenica,42,transekt,M.K.,17.5,83
+2021,2021-06-12,Plitvice,Aquila chrysaetos,Suri orao,5,točkasta_metoda,S.B.,16.1,81
+2021,2021-06-12,Plitvice,Fringilla coelebs,Zeba,47,transekt,I.H.,19.8,60
+2021,2021-06-12,Plitvice,Accipiter gentilis,Jastreb kokošar,4,IPA,S.B.,17.5,77
+2021,2021-06-13,Risnjak,Turdus merula,Kos,29,točkasta_metoda,I.H.,12.6,71
+2021,2021-06-13,Risnjak,Corvus corax,Gavran,7,transekt,A.P.,19.2,71
+2021,2021-06-13,Risnjak,Cyanistes caeruleus,Plavetna sjenica,36,IPA,I.H.,17,62
+2021,2021-06-13,Risnjak,Parus major,Velika sjenica,50,IPA,A.P.,19.4,82
+2021,2021-06-13,Risnjak,Strix Uralskaensis,Uralska sova,2,transekt,A.P.,16.6,65
+2021,2021-06-13,Risnjak,Fringilla coelebs,Zeba,52,točkasta_metoda,M.K.,22.6,53
+2021,2021-06-13,Risnjak,Erithacus rubecula,Crvendać,27,IPA,D.T.,20,79
+2021,2021-06-13,Risnjak,Aquila chrysaetos,Suri orao,2,transekt,I.H.,20.7,51
+2021,2021-06-13,Risnjak,Phoenicurus ochruros,Crvenrepka,14,transekt,A.P.,16.6,70
+2021,2021-06-13,Risnjak,Picus viridis,Zelena žuna,16,transekt,M.K.,23.1,83
+2021,2021-06-13,Risnjak,Sitta europaea,Brgljez,14,točkasta_metoda,A.P.,18.7,60
+2021,2021-06-17,Velebit,Strix Uralskaensis,Uralska sova,6,točkasta_metoda,D.T.,20.8,64
+2021,2021-06-17,Velebit,Dryocopus martius,Crna žuna,2,transekt,S.B.,21,55
+2021,2021-06-17,Velebit,Erithacus rubecula,Crvendać,24,točkasta_metoda,I.H.,20.8,55
+2021,2021-06-17,Velebit,Turdus merula,Kos,40,IPA,A.P.,17.5,54
+2021,2021-06-17,Velebit,Phoenicurus ochruros,Crvenrepka,18,točkasta_metoda,I.H.,15.5,85
+2021,2021-06-17,Velebit,Picus viridis,Zelena žuna,17,IPA,D.T.,20.8,56
+2021,2021-06-17,Velebit,Dendrocopos major,Veliki djetlić,21,transekt,I.H.,23.2,53
+2021,2021-06-17,Velebit,Fringilla coelebs,Zeba,49,transekt,M.K.,22.3,72
+2021,2021-06-17,Velebit,Accipiter gentilis,Jastreb kokošar,4,IPA,S.B.,12.4,84
+2021,2021-06-17,Velebit,Cyanistes caeruleus,Plavetna sjenica,36,točkasta_metoda,A.P.,21.9,62
+2021,2021-06-17,Velebit,Parus major,Velika sjenica,55,transekt,A.P.,14.8,69
+2021,2021-06-17,Velebit,Corvus corax,Gavran,12,točkasta_metoda,S.B.,16.8,80
+2021,2021-06-19,Plitvice,Dryocopus martius,Crna žuna,11,transekt,S.B.,14.1,60
+2021,2021-06-19,Plitvice,Sitta europaea,Brgljez,11,IPA,M.K.,20.8,53
+2021,2021-06-19,Plitvice,Erithacus rubecula,Crvendać,16,transekt,D.T.,13.9,61
+2021,2021-06-19,Plitvice,Cyanistes caeruleus,Plavetna sjenica,21,IPA,D.T.,19.2,84
+2021,2021-06-19,Plitvice,Aquila chrysaetos,Suri orao,2,IPA,M.K.,19.1,50
+2021,2021-06-19,Plitvice,Fringilla coelebs,Zeba,41,IPA,M.K.,20.7,74
+2021,2021-06-19,Plitvice,Anas platyrhynchos,Divlja patka,42,IPA,D.T.,11.8,56
+2021,2021-06-19,Plitvice,Parus major,Velika sjenica,43,IPA,M.K.,21.5,58
+2021,2021-06-19,Plitvice,Turdus merula,Kos,37,točkasta_metoda,A.P.,19.8,71
+2021,2021-06-21,Velebit,Dendrocopos major,Veliki djetlić,16,točkasta_metoda,I.H.,15,61
+2021,2021-06-21,Velebit,Fringilla coelebs,Zeba,43,transekt,D.T.,16.2,77
+2021,2021-06-21,Velebit,Sitta europaea,Brgljez,22,točkasta_metoda,S.B.,22.4,77
+2021,2021-06-21,Velebit,Phoenicurus ochruros,Crvenrepka,14,transekt,I.H.,14.6,68
+2021,2021-06-21,Velebit,Erithacus rubecula,Crvendać,28,transekt,D.T.,14.9,68
+2021,2021-06-21,Velebit,Cyanistes caeruleus,Plavetna sjenica,34,IPA,A.P.,19.9,75
+2021,2021-06-21,Velebit,Corvus corax,Gavran,13,transekt,S.B.,18.6,51
+2021,2021-06-21,Velebit,Parus major,Velika sjenica,42,transekt,M.K.,12.7,53
+2021,2021-06-21,Velebit,Buteo buteo,Škanjac,11,točkasta_metoda,A.P.,21,52
+2021,2021-06-22,Velebit,Buteo buteo,Škanjac,7,IPA,A.P.,23.8,50
+2021,2021-06-22,Velebit,Erithacus rubecula,Crvendać,26,IPA,I.H.,21.2,70
+2021,2021-06-22,Velebit,Sitta europaea,Brgljez,21,točkasta_metoda,I.H.,19.5,52
+2021,2021-06-22,Velebit,Dendrocopos major,Veliki djetlić,16,IPA,M.K.,20.2,66
+2021,2021-06-22,Velebit,Dryocopus martius,Crna žuna,11,transekt,A.P.,19.7,69
+2021,2021-06-22,Velebit,Cyanistes caeruleus,Plavetna sjenica,28,IPA,M.K.,21.7,70
+2021,2021-06-22,Velebit,Parus major,Velika sjenica,49,točkasta_metoda,S.B.,16.5,64
+2021,2021-06-22,Velebit,Fringilla coelebs,Zeba,53,točkasta_metoda,M.K.,19.4,85
+2021,2021-06-24,Risnjak,Strix Uralskaensis,Uralska sova,10,IPA,D.T.,22.3,56
+2021,2021-06-24,Risnjak,Cyanistes caeruleus,Plavetna sjenica,19,transekt,M.K.,24.8,77
+2021,2021-06-24,Risnjak,Turdus merula,Kos,36,točkasta_metoda,I.H.,17.2,65
+2021,2021-06-24,Risnjak,Parus major,Velika sjenica,35,točkasta_metoda,I.H.,19.7,57
+2021,2021-06-24,Risnjak,Buteo buteo,Škanjac,9,točkasta_metoda,D.T.,19.9,67
+2021,2021-06-24,Risnjak,Fringilla coelebs,Zeba,47,točkasta_metoda,A.P.,11.5,55
+2021,2021-06-24,Risnjak,Dendrocopos major,Veliki djetlić,19,točkasta_metoda,D.T.,19.4,70
+2021,2021-06-24,Risnjak,Phoenicurus ochruros,Crvenrepka,20,IPA,A.P.,16.8,84
+2021,2021-06-24,Risnjak,Picus viridis,Zelena žuna,1,IPA,D.T.,25.3,52
+2021,2021-06-24,Risnjak,Sitta europaea,Brgljez,19,točkasta_metoda,S.B.,20.8,56
+2021,2021-06-24,Risnjak,Tetrao urogallus,Tetrijeb,1,IPA,A.P.,14.1,63
+2021,2021-06-24,Risnjak,Erithacus rubecula,Crvendać,38,transekt,I.H.,19.4,63
+2021,2021-06-27,Velebit,Tetrao urogallus,Tetrijeb,7,IPA,A.P.,21.8,64
+2021,2021-06-27,Velebit,Cyanistes caeruleus,Plavetna sjenica,23,transekt,D.T.,17.8,63
+2021,2021-06-27,Velebit,Parus major,Velika sjenica,52,transekt,A.P.,19.9,66
+2021,2021-06-27,Velebit,Fringilla coelebs,Zeba,36,IPA,S.B.,19,65
+2021,2021-06-27,Velebit,Erithacus rubecula,Crvendać,29,točkasta_metoda,I.H.,23.8,83
+2021,2021-06-27,Velebit,Dendrocopos major,Veliki djetlić,24,točkasta_metoda,D.T.,21,77
+2021,2021-06-27,Velebit,Picus viridis,Zelena žuna,5,točkasta_metoda,S.B.,21.9,84
+2021,2021-06-27,Velebit,Aquila chrysaetos,Suri orao,2,točkasta_metoda,M.K.,26,69
+2021,2021-07-18,Risnjak,Sitta europaea,Brgljez,14,točkasta_metoda,D.T.,25.1,61
+2021,2021-07-18,Risnjak,Accipiter gentilis,Jastreb kokošar,4,IPA,D.T.,22.5,56
+2021,2021-07-18,Risnjak,Aquila chrysaetos,Suri orao,2,IPA,D.T.,17.8,77
+2021,2021-07-18,Risnjak,Turdus merula,Kos,20,točkasta_metoda,I.H.,16.6,64
+2021,2021-07-18,Risnjak,Cyanistes caeruleus,Plavetna sjenica,24,IPA,D.T.,18.8,70
+2021,2021-07-18,Risnjak,Parus major,Velika sjenica,35,IPA,I.H.,25.3,74
+2021,2021-07-18,Risnjak,Buteo buteo,Škanjac,4,IPA,D.T.,17.6,55
+2021,2021-07-22,Plitvice,Cyanistes caeruleus,Plavetna sjenica,18,IPA,S.B.,20.5,70
+2021,2021-07-22,Plitvice,Fringilla coelebs,Zeba,28,IPA,I.H.,18.2,68
+2021,2021-07-22,Plitvice,Dendrocopos major,Veliki djetlić,8,točkasta_metoda,M.K.,18.3,73
+2021,2021-07-22,Plitvice,Sitta europaea,Brgljez,12,točkasta_metoda,D.T.,20.7,80
+2021,2021-07-22,Plitvice,Picus viridis,Zelena žuna,5,IPA,A.P.,21.9,66
+2021,2021-07-26,Plitvice,Cyanistes caeruleus,Plavetna sjenica,16,točkasta_metoda,S.B.,20.3,61
+2021,2021-07-26,Plitvice,Corvus corax,Gavran,6,transekt,A.P.,22,52
+2021,2021-07-26,Plitvice,Tetrao urogallus,Tetrijeb,2,točkasta_metoda,S.B.,14.4,57
+2021,2021-07-26,Plitvice,Anas platyrhynchos,Divlja patka,30,točkasta_metoda,M.K.,20.2,70
+2021,2021-07-26,Plitvice,Dendrocopos major,Veliki djetlić,16,točkasta_metoda,A.P.,18.2,74
+2021,2021-07-28,Velebit,Fringilla coelebs,Zeba,26,IPA,A.P.,18.2,83
+2021,2021-07-28,Velebit,Corvus corax,Gavran,9,IPA,I.H.,20.7,71
+2021,2021-07-28,Velebit,Cyanistes caeruleus,Plavetna sjenica,18,točkasta_metoda,M.K.,22.4,63
+2021,2021-07-28,Velebit,Parus major,Velika sjenica,28,IPA,M.K.,20.5,71
+2021,2021-07-28,Velebit,Dendrocopos major,Veliki djetlić,11,točkasta_metoda,A.P.,19.5,51
+2021,2021-07-28,Velebit,Turdus merula,Kos,18,transekt,I.H.,17.7,57
+2021,2021-07-28,Velebit,Aquila chrysaetos,Suri orao,1,točkasta_metoda,A.P.,19.7,53
+2021,2021-07-28,Velebit,Dryocopus martius,Crna žuna,9,transekt,M.K.,20.5,58
+2022,2022-03-02,Plitvice,Cyanistes caeruleus,Plavetna sjenica,17,točkasta_metoda,A.P.,16.4,57
+2022,2022-03-02,Plitvice,Sitta europaea,Brgljez,10,točkasta_metoda,I.H.,12.5,72
+2022,2022-03-02,Plitvice,Strix Uralskaensis,Uralska sova,1,transekt,M.K.,13.3,73
+2022,2022-03-02,Plitvice,Parus major,Velika sjenica,26,transekt,M.K.,9.6,73
+2022,2022-03-02,Plitvice,Phoenicurus ochruros,Crvenrepka,12,transekt,S.B.,15.6,67
+2022,2022-03-02,Plitvice,Fringilla coelebs,Zeba,31,transekt,I.H.,10.3,63
+2022,2022-03-02,Plitvice,Tetrao urogallus,Tetrijeb,3,transekt,D.T.,10.2,79
+2022,2022-03-03,Risnjak,Fringilla coelebs,Zeba,31,transekt,M.K.,17.2,82
+2022,2022-03-03,Risnjak,Erithacus rubecula,Crvendać,14,točkasta_metoda,A.P.,14.9,81
+2022,2022-03-03,Risnjak,Corvus corax,Gavran,8,transekt,I.H.,14.9,55
+2022,2022-03-03,Risnjak,Dryocopus martius,Crna žuna,3,točkasta_metoda,A.P.,23.3,77
+2022,2022-03-03,Risnjak,Dendrocopos major,Veliki djetlić,17,točkasta_metoda,D.T.,11.5,70
+2022,2022-03-03,Risnjak,Phoenicurus ochruros,Crvenrepka,5,točkasta_metoda,A.P.,12.8,53
+2022,2022-03-03,Risnjak,Strix Uralskaensis,Uralska sova,3,IPA,D.T.,17.6,81
+2022,2022-03-12,Plitvice,Buteo buteo,Škanjac,9,transekt,M.K.,14.8,78
+2022,2022-03-12,Plitvice,Corvus corax,Gavran,6,transekt,I.H.,15.9,53
+2022,2022-03-12,Plitvice,Turdus merula,Kos,28,točkasta_metoda,A.P.,16,79
+2022,2022-03-12,Plitvice,Cyanistes caeruleus,Plavetna sjenica,14,transekt,D.T.,20.5,69
+2022,2022-03-12,Plitvice,Sitta europaea,Brgljez,21,IPA,M.K.,17.5,83
+2022,2022-03-12,Plitvice,Phoenicurus ochruros,Crvenrepka,6,IPA,S.B.,9.7,52
+2022,2022-03-12,Plitvice,Aquila chrysaetos,Suri orao,1,IPA,M.K.,19.5,62
+2022,2022-03-20,Risnjak,Picus viridis,Zelena žuna,11,transekt,D.T.,8.6,78
+2022,2022-03-20,Risnjak,Erithacus rubecula,Crvendać,16,transekt,A.P.,,83
+2022,2022-03-20,Risnjak,Accipiter gentilis,Jastreb kokošar,2,točkasta_metoda,A.P.,11.3,54
+2022,2022-03-20,Risnjak,Turdus merula,Kos,29,točkasta_metoda,A.P.,14.6,75
+2022,2022-03-20,Risnjak,Cyanistes caeruleus,Plavetna sjenica,15,točkasta_metoda,D.T.,7.5,67
+2022,2022-03-20,Risnjak,Buteo buteo,Škanjac,12,transekt,A.P.,10.3,82
+2022,2022-03-20,Risnjak,Dendrocopos major,Veliki djetlić,14,IPA,M.K.,18.1,66
+2022,2022-03-20,Risnjak,Phoenicurus ochruros,Crvenrepka,14,točkasta_metoda,M.K.,13.1,59
+2022,2022-03-20,Risnjak,Tetrao urogallus,Tetrijeb,2,točkasta_metoda,A.P.,10.1,60
+2022,2022-03-20,Risnjak,Parus major,Velika sjenica,30,IPA,M.K.,18.3,81
+2022,2022-03-21,Plitvice,Erithacus rubecula,Crvendać,14,IPA,M.K.,15.8,64
+2022,2022-03-21,Plitvice,Turdus merula,Kos,18,točkasta_metoda,S.B.,14.9,56
+2022,2022-03-21,Plitvice,Parus major,Velika sjenica,25,transekt,I.H.,14.6,75
+2022,2022-03-21,Plitvice,Accipiter gentilis,Jastreb kokošar,4,transekt,I.H.,24.2,78
+2022,2022-03-21,Plitvice,Strix Uralskaensis,Uralska sova,5,IPA,D.T.,17.2,68
+2022,2022-03-21,Plitvice,Tetrao urogallus,Tetrijeb,2,točkasta_metoda,A.P.,16.6,55
+2022,2022-03-21,Plitvice,Anas platyrhynchos,Divlja patka,33,transekt,A.P.,8,56
+2022,2022-03-21,Plitvice,Fringilla coelebs,Zeba,31,transekt,S.B.,15.2,74
+2022,2022-03-21,Plitvice,Corvus corax,Gavran,3,IPA,S.B.,16,54
+2022,2022-03-24,Risnjak,Phoenicurus ochruros,Crvenrepka,11,točkasta_metoda,D.T.,12.2,63
+2022,2022-03-24,Risnjak,Parus major,Velika sjenica,26,transekt,S.B.,16.5,78
+2022,2022-03-24,Risnjak,Erithacus rubecula,Crvendać,17,IPA,S.B.,11.3,73
+2022,2022-03-24,Risnjak,Dryocopus martius,Crna žuna,5,IPA,S.B.,18.5,83
+2022,2022-03-24,Risnjak,Strix Uralskaensis,Uralska sova,2,IPA,D.T.,14,75
+2022,2022-03-24,Risnjak,Dendrocopos major,Veliki djetlić,11,točkasta_metoda,A.P.,10,60
+2022,2022-03-24,Risnjak,Buteo buteo,Škanjac,4,točkasta_metoda,D.T.,13.5,53
+2022,2022-03-24,Risnjak,Accipiter gentilis,Jastreb kokošar,5,IPA,A.P.,16.5,50
+2022,2022-03-25,Velebit,Tetrao urogallus,Tetrijeb,1,IPA,I.H.,15.8,80
+2022,2022-03-25,Velebit,Dendrocopos major,Veliki djetlić,21,IPA,S.B.,13.3,72
+2022,2022-03-25,Velebit,Aquila chrysaetos,Suri orao,1,IPA,M.K.,14.4,57
+2022,2022-03-25,Velebit,Strix Uralskaensis,Uralska sova,4,IPA,A.P.,17.8,54
+2022,2022-03-25,Velebit,Parus major,Velika sjenica,32,točkasta_metoda,I.H.,15.1,54
+2022,2022-03-25,Velebit,Corvus corax,Gavran,9,transekt,M.K.,17.1,60
+2022,2022-03-25,Velebit,Dryocopus martius,Crna žuna,3,transekt,I.H.,6.4,60
+2022,2022-03-25,Velebit,Cyanistes caeruleus,Plavetna sjenica,21,točkasta_metoda,I.H.,15.7,53
+2022,2022-03-28,Plitvice,Turdus merula,Kos,29,IPA,A.P.,17.3,56
+2022,2022-03-28,Plitvice,Phoenicurus ochruros,Crvenrepka,8,IPA,S.B.,10.8,82
+2022,2022-03-28,Plitvice,Cyanistes caeruleus,Plavetna sjenica,21,transekt,D.T.,8.8,76
+2022,2022-03-28,Plitvice,Fringilla coelebs,Zeba,39,IPA,I.H.,12.9,56
+2022,2022-03-28,Plitvice,Accipiter gentilis,Jastreb kokošar,7,točkasta_metoda,D.T.,13.5,61
+2022,2022-03-28,Plitvice,Dendrocopos major,Veliki djetlić,11,transekt,D.T.,14.8,51
+2022,2022-03-28,Plitvice,Picus viridis,Zelena žuna,8,transekt,S.B.,12.7,71
+2022,2022-03-28,Plitvice,Corvus corax,Gavran,1,točkasta_metoda,A.P.,11.4,78
+2022,2022-04-01,Velebit,Turdus merula,Kos,26,transekt,M.K.,18.1,56
+2022,2022-04-01,Velebit,Picus viridis,Zelena žuna,8,IPA,M.K.,13.8,61
+2022,2022-04-01,Velebit,Aquila chrysaetos,Suri orao,2,transekt,I.H.,10.7,76
+2022,2022-04-01,Velebit,Dendrocopos major,Veliki djetlić,17,IPA,M.K.,17.6,75
+2022,2022-04-01,Velebit,Fringilla coelebs,Zeba,33,IPA,A.P.,12.8,59
+2022,2022-04-01,Velebit,Erithacus rubecula,Crvendać,13,točkasta_metoda,D.T.,9.3,55
+2022,2022-04-01,Velebit,Sitta europaea,Brgljez,15,transekt,A.P.,11.8,51
+2022,2022-04-01,Velebit,Accipiter gentilis,Jastreb kokošar,5,točkasta_metoda,M.K.,20.3,69
+2022,2022-04-04,Velebit,Parus major,Velika sjenica,27,IPA,D.T.,16.9,78
+2022,2022-04-04,Velebit,Strix Uralskaensis,Uralska sova,2,transekt,S.B.,12.9,64
+2022,2022-04-04,Velebit,Fringilla coelebs,Zeba,37,točkasta_metoda,M.K.,21.4,71
+2022,2022-04-04,Velebit,Cyanistes caeruleus,Plavetna sjenica,22,transekt,D.T.,10.9,64
+2022,2022-04-04,Velebit,Turdus merula,Kos,22,IPA,A.P.,14.8,59
+2022,2022-04-04,Velebit,Phoenicurus ochruros,Crvenrepka,5,transekt,I.H.,17.2,58
+2022,2022-04-04,Velebit,Erithacus rubecula,Crvendać,17,točkasta_metoda,S.B.,16.9,81
+2022,2022-04-06,Velebit,Phoenicurus ochruros,Crvenrepka,13,IPA,A.P.,18.6,65
+2022,2022-04-06,Velebit,Sitta europaea,Brgljez,11,transekt,S.B.,17,83
+2022,2022-04-06,Velebit,Turdus merula,Kos,34,točkasta_metoda,M.K.,19.6,51
+2022,2022-04-06,Velebit,Fringilla coelebs,Zeba,34,IPA,I.H.,16,80
+2022,2022-04-06,Velebit,Aquila chrysaetos,Suri orao,1,točkasta_metoda,A.P.,11.1,78
+2022,2022-04-06,Velebit,Cyanistes caeruleus,Plavetna sjenica,23,IPA,I.H.,13.9,71
+2022,2022-04-09,Velebit,Turdus merula,Kos,20,transekt,A.P.,17.3,63
+2022,2022-04-09,Velebit,Fringilla coelebs,Zeba,30,transekt,I.H.,11.7,57
+2022,2022-04-09,Velebit,Cyanistes caeruleus,Plavetna sjenica,15,točkasta_metoda,I.H.,10.1,51
+2022,2022-04-09,Velebit,Tetrao urogallus,Tetrijeb,2,transekt,D.T.,11.6,59
+2022,2022-04-09,Velebit,Sitta europaea,Brgljez,10,IPA,D.T.,13.4,75
+2022,2022-04-09,Velebit,Buteo buteo,Škanjac,2,točkasta_metoda,D.T.,14.7,56
+2022,2022-04-09,Velebit,Erithacus rubecula,Crvendać,18,točkasta_metoda,S.B.,10.8,53
+2022,2022-04-09,Velebit,Strix Uralskaensis,Uralska sova,3,transekt,D.T.,18.4,73
+2022,2022-04-14,Risnjak,Dendrocopos major,Veliki djetlić,12,IPA,M.K.,16.3,70
+2022,2022-04-14,Risnjak,Picus viridis,Zelena žuna,3,točkasta_metoda,I.H.,19.7,70
+2022,2022-04-14,Risnjak,Dryocopus martius,Crna žuna,5,IPA,D.T.,15.4,60
+2022,2022-04-14,Risnjak,Strix Uralskaensis,Uralska sova,8,točkasta_metoda,S.B.,17,56
+2022,2022-04-14,Risnjak,Sitta europaea,Brgljez,17,IPA,D.T.,18.7,76
+2022,2022-04-14,Risnjak,Fringilla coelebs,Zeba,22,transekt,A.P.,17.9,61
+2022,2022-04-14,Risnjak,Cyanistes caeruleus,Plavetna sjenica,27,IPA,I.H.,5.3,79
+2022,2022-04-15,Plitvice,Fringilla coelebs,Zeba,33,IPA,D.T.,18.6,74
+2022,2022-04-15,Plitvice,Phoenicurus ochruros,Crvenrepka,11,IPA,M.K.,12,83
+2022,2022-04-15,Plitvice,Sitta europaea,Brgljez,16,transekt,I.H.,13.3,77
+2022,2022-04-15,Plitvice,Erithacus rubecula,Crvendać,21,transekt,I.H.,15.9,61
+2022,2022-04-15,Plitvice,Buteo buteo,Škanjac,9,transekt,I.H.,18.2,62
+2022,2022-04-15,Plitvice,Turdus merula,Kos,11,točkasta_metoda,S.B.,19.8,69
+2022,2022-04-15,Plitvice,Corvus corax,Gavran,5,IPA,S.B.,13.7,83
+2022,2022-04-19,Plitvice,Tetrao urogallus,Tetrijeb,4,IPA,D.T.,15.7,55
+2022,2022-04-19,Plitvice,Anas platyrhynchos,Divlja patka,19,IPA,S.B.,14.2,71
+2022,2022-04-19,Plitvice,Cyanistes caeruleus,Plavetna sjenica,17,IPA,M.K.,16.7,61
+2022,2022-04-19,Plitvice,Alcedo atthis,Vodomar,5,transekt,A.P.,17.4,54
+2022,2022-04-19,Plitvice,Turdus merula,Kos,21,IPA,M.K.,13.4,76
+2022,2022-04-19,Plitvice,Aquila chrysaetos,Suri orao,1,IPA,A.P.,15.7,71
+2022,2022-04-19,Plitvice,Fringilla coelebs,Zeba,24,IPA,I.H.,16.4,75
+2022,2022-04-19,Plitvice,Strix Uralskaensis,Uralska sova,4,IPA,D.T.,16.1,75
+2022,2022-04-19,Plitvice,Accipiter gentilis,Jastreb kokošar,2,transekt,M.K.,21.4,62
+2022,2022-04-19,Velebit,Tetrao urogallus,Tetrijeb,1,transekt,D.T.,18.6,60
+2022,2022-04-19,Velebit,Aquila chrysaetos,Suri orao,2,transekt,A.P.,17.9,74
+2022,2022-04-19,Velebit,Sitta europaea,Brgljez,18,točkasta_metoda,A.P.,19.3,58
+2022,2022-04-19,Velebit,Turdus merula,Kos,20,transekt,A.P.,13.6,75
+2022,2022-04-19,Velebit,Picus viridis,Zelena žuna,3,točkasta_metoda,M.K.,13.4,66
+2022,2022-04-19,Velebit,Cyanistes caeruleus,Plavetna sjenica,16,IPA,I.H.,18.5,53
+2022,2022-04-19,Velebit,Fringilla coelebs,Zeba,33,IPA,S.B.,11.2,52
+2022,2022-04-19,Velebit,Dendrocopos major,Veliki djetlić,13,IPA,I.H.,10.3,55
+2022,2022-04-19,Velebit,Dryocopus martius,Crna žuna,3,IPA,M.K.,12.3,59
+2022,2022-04-19,Velebit,Parus major,Velika sjenica,36,točkasta_metoda,M.K.,17.3,61
+2022,2022-04-21,Plitvice,Fringilla coelebs,Zeba,45,transekt,D.T.,17.8,51
+2022,2022-04-21,Plitvice,Anas platyrhynchos,Divlja patka,33,IPA,I.H.,15.3,58
+2022,2022-04-21,Plitvice,Turdus merula,Kos,23,IPA,M.K.,,51
+2022,2022-04-21,Plitvice,Sitta europaea,Brgljez,10,transekt,M.K.,13.4,54
+2022,2022-04-21,Plitvice,Aquila chrysaetos,Suri orao,1,transekt,D.T.,11.6,68
+2022,2022-04-21,Plitvice,Buteo buteo,Škanjac,12,IPA,S.B.,14.9,53
+2022,2022-04-22,Velebit,Dendrocopos major,Veliki djetlić,6,točkasta_metoda,M.K.,14.9,64
+2022,2022-04-22,Velebit,Cyanistes caeruleus,Plavetna sjenica,14,točkasta_metoda,S.B.,16.9,59
+2022,2022-04-22,Velebit,Aquila chrysaetos,Suri orao,5,točkasta_metoda,A.P.,13.9,55
+2022,2022-04-22,Velebit,Turdus merula,Kos,30,transekt,I.H.,19.5,73
+2022,2022-04-22,Velebit,Sitta europaea,Brgljez,13,točkasta_metoda,S.B.,21.3,53
+2022,2022-04-22,Velebit,Fringilla coelebs,Zeba,22,točkasta_metoda,M.K.,15.9,75
+2022,2022-05-02,Velebit,Cyanistes caeruleus,Plavetna sjenica,36,transekt,D.T.,16.7,64
+2022,2022-05-02,Velebit,Strix Uralskaensis,Uralska sova,5,točkasta_metoda,S.B.,16.5,53
+2022,2022-05-02,Velebit,Sitta europaea,Brgljez,20,transekt,I.H.,14.4,59
+2022,2022-05-02,Velebit,Phoenicurus ochruros,Crvenrepka,10,transekt,M.K.,12.7,75
+2022,2022-05-02,Velebit,Tetrao urogallus,Tetrijeb,3,transekt,D.T.,19.8,52
+2022,2022-05-02,Velebit,Turdus merula,Kos,35,točkasta_metoda,D.T.,18,58
+2022,2022-05-02,Velebit,Corvus corax,Gavran,16,točkasta_metoda,A.P.,18.2,73
+2022,2022-05-02,Velebit,Erithacus rubecula,Crvendać,21,IPA,S.B.,17.9,82
+2022,2022-05-03,Plitvice,Dendrocopos major,Veliki djetlić,16,točkasta_metoda,M.K.,20.9,67
+2022,2022-05-03,Plitvice,Cyanistes caeruleus,Plavetna sjenica,22,IPA,I.H.,18.7,61
+2022,2022-05-03,Plitvice,Anas platyrhynchos,Divlja patka,47,točkasta_metoda,D.T.,17.4,65
+2022,2022-05-03,Plitvice,Sitta europaea,Brgljez,20,IPA,I.H.,11.8,55
+2022,2022-05-03,Plitvice,Erithacus rubecula,Crvendać,19,IPA,S.B.,13.1,84
+2022,2022-05-03,Plitvice,Phoenicurus ochruros,Crvenrepka,8,točkasta_metoda,D.T.,20.6,63
+2022,2022-05-03,Plitvice,Corvus corax,Gavran,4,točkasta_metoda,I.H.,24.4,73
+2022,2022-05-03,Plitvice,Turdus merula,Kos,35,IPA,M.K.,23.1,52
+2022,2022-05-03,Plitvice,Parus major,Velika sjenica,28,transekt,A.P.,20.5,54
+2022,2022-05-03,Plitvice,Buteo buteo,Škanjac,13,IPA,I.H.,17.9,64
+2022,2022-05-06,Plitvice,Parus major,Velika sjenica,39,transekt,I.H.,13.2,59
+2022,2022-05-06,Plitvice,Cyanistes caeruleus,Plavetna sjenica,33,transekt,I.H.,18.7,85
+2022,2022-05-06,Plitvice,Dryocopus martius,Crna žuna,8,točkasta_metoda,D.T.,15.2,54
+2022,2022-05-06,Plitvice,Turdus merula,Kos,33,transekt,I.H.,18.6,75
+2022,2022-05-06,Plitvice,Fringilla coelebs,Zeba,43,IPA,D.T.,15.7,79
+2022,2022-05-06,Plitvice,Sitta europaea,Brgljez,25,točkasta_metoda,M.K.,19,62
+2022,2022-05-06,Plitvice,Corvus corax,Gavran,10,IPA,A.P.,14.5,72
+2022,2022-05-06,Plitvice,Phoenicurus ochruros,Crvenrepka,7,transekt,S.B.,16.5,52
+2022,2022-05-06,Plitvice,Tetrao urogallus,Tetrijeb,5,transekt,S.B.,16.4,55
+2022,2022-05-09,Plitvice,Sitta europaea,Brgljez,22,transekt,S.B.,19.7,82
+2022,2022-05-09,Plitvice,Erithacus rubecula,Crvendać,22,točkasta_metoda,I.H.,17.8,76
+2022,2022-05-09,Plitvice,Aquila chrysaetos,Suri orao,3,točkasta_metoda,A.P.,18.1,74
+2022,2022-05-09,Plitvice,Parus major,Velika sjenica,36,transekt,S.B.,19.5,66
+2022,2022-05-09,Plitvice,Buteo buteo,Škanjac,14,transekt,A.P.,19.5,60
+2022,2022-05-09,Plitvice,Cyanistes caeruleus,Plavetna sjenica,26,točkasta_metoda,S.B.,14.9,66
+2022,2022-05-09,Plitvice,Anas platyrhynchos,Divlja patka,56,IPA,S.B.,15.5,75
+2022,2022-05-09,Plitvice,Alcedo atthis,Vodomar,7,točkasta_metoda,A.P.,16.9,72
+2022,2022-05-11,Plitvice,Tetrao urogallus,Tetrijeb,5,transekt,S.B.,21.1,78
+2022,2022-05-11,Plitvice,Phoenicurus ochruros,Crvenrepka,7,transekt,I.H.,16.3,84
+2022,2022-05-11,Plitvice,Fringilla coelebs,Zeba,48,transekt,M.K.,20.3,75
+2022,2022-05-11,Plitvice,Sitta europaea,Brgljez,18,točkasta_metoda,I.H.,20.4,64
+2022,2022-05-11,Plitvice,Erithacus rubecula,Crvendać,21,transekt,D.T.,19.4,67
+2022,2022-05-11,Plitvice,Anas platyrhynchos,Divlja patka,46,transekt,M.K.,17.5,62
+2022,2022-05-11,Plitvice,Picus viridis,Zelena žuna,15,transekt,D.T.,16.5,57
+2022,2022-05-11,Plitvice,Cyanistes caeruleus,Plavetna sjenica,23,transekt,M.K.,18.7,76
+2022,2022-05-11,Plitvice,Dendrocopos major,Veliki djetlić,23,transekt,I.H.,17.9,71
+2022,2022-05-11,Plitvice,Turdus merula,Kos,44,IPA,D.T.,16.7,70
+2022,2022-05-11,Plitvice,Strix Uralskaensis,Uralska sova,5,točkasta_metoda,I.H.,13.5,57
+2022,2022-05-11,Plitvice,Parus major,Velika sjenica,44,transekt,S.B.,17.5,61
+2022,2022-05-14,Risnjak,Parus major,Velika sjenica,35,IPA,A.P.,21.6,76
+2022,2022-05-14,Risnjak,Cyanistes caeruleus,Plavetna sjenica,28,IPA,S.B.,16.6,61
+2022,2022-05-14,Risnjak,Tetrao urogallus,Tetrijeb,1,IPA,D.T.,17.2,55
+2022,2022-05-14,Risnjak,Picus viridis,Zelena žuna,10,točkasta_metoda,I.H.,21.8,84
+2022,2022-05-14,Risnjak,Accipiter gentilis,Jastreb kokošar,6,transekt,A.P.,20,82
+2022,2022-05-14,Risnjak,Turdus merula,Kos,28,IPA,S.B.,17.6,72
+2022,2022-05-14,Risnjak,Buteo buteo,Škanjac,19,IPA,S.B.,13.5,71
+2022,2022-05-14,Risnjak,Strix Uralskaensis,Uralska sova,4,točkasta_metoda,A.P.,11,61
+2022,2022-05-18,Risnjak,Turdus merula,Kos,39,IPA,S.B.,16.9,57
+2022,2022-05-18,Risnjak,Tetrao urogallus,Tetrijeb,4,transekt,A.P.,20.9,77
+2022,2022-05-18,Risnjak,Fringilla coelebs,Zeba,39,točkasta_metoda,I.H.,19.6,83
+2022,2022-05-18,Risnjak,Accipiter gentilis,Jastreb kokošar,7,točkasta_metoda,I.H.,17.3,67
+2022,2022-05-18,Risnjak,Picus viridis,Zelena žuna,13,IPA,M.K.,,57
+2022,2022-05-18,Risnjak,Sitta europaea,Brgljez,20,točkasta_metoda,A.P.,16.2,58
+2022,2022-05-18,Risnjak,Parus major,Velika sjenica,43,transekt,S.B.,15.4,56
+2022,2022-05-18,Risnjak,Strix Uralskaensis,Uralska sova,6,točkasta_metoda,D.T.,14.6,57
+2022,2022-05-18,Risnjak,Cyanistes caeruleus,Plavetna sjenica,29,točkasta_metoda,D.T.,17.2,73
+2022,2022-05-18,Risnjak,Corvus corax,Gavran,8,transekt,A.P.,16.1,77
+2022,2022-05-18,Risnjak,Aquila chrysaetos,Suri orao,1,IPA,I.H.,16.5,70
+2022,2022-05-20,Velebit,Cyanistes caeruleus,Plavetna sjenica,28,točkasta_metoda,D.T.,13.6,82
+2022,2022-05-20,Velebit,Aquila chrysaetos,Suri orao,2,transekt,D.T.,21.4,82
+2022,2022-05-20,Velebit,Erithacus rubecula,Crvendać,15,točkasta_metoda,D.T.,14.1,58
+2022,2022-05-20,Velebit,Strix Uralskaensis,Uralska sova,4,točkasta_metoda,M.K.,13,78
+2022,2022-05-20,Velebit,Dendrocopos major,Veliki djetlić,20,IPA,I.H.,14.3,53
+2022,2022-05-20,Velebit,Buteo buteo,Škanjac,8,IPA,I.H.,20.9,84
+2022,2022-05-20,Velebit,Turdus merula,Kos,34,IPA,A.P.,16.3,70
+2022,2022-05-20,Velebit,Sitta europaea,Brgljez,22,točkasta_metoda,S.B.,15,77
+2022,2022-05-20,Velebit,Phoenicurus ochruros,Crvenrepka,16,IPA,I.H.,21.9,72
+2022,2022-05-20,Velebit,Picus viridis,Zelena žuna,14,IPA,D.T.,21.5,72
+2022,2022-05-20,Velebit,Fringilla coelebs,Zeba,58,IPA,D.T.,22.4,56
+2022,2022-05-22,Plitvice,Alcedo atthis,Vodomar,4,transekt,S.B.,,54
+2022,2022-05-22,Plitvice,Phoenicurus ochruros,Crvenrepka,13,transekt,D.T.,18.6,63
+2022,2022-05-22,Plitvice,Cyanistes caeruleus,Plavetna sjenica,32,transekt,A.P.,17.7,64
+2022,2022-05-22,Plitvice,Parus major,Velika sjenica,59,točkasta_metoda,D.T.,15.5,75
+2022,2022-05-22,Plitvice,Fringilla coelebs,Zeba,51,točkasta_metoda,D.T.,16.4,83
+2022,2022-05-22,Plitvice,Tetrao urogallus,Tetrijeb,1,transekt,I.H.,19,61
+2022,2022-05-22,Plitvice,Dendrocopos major,Veliki djetlić,14,transekt,S.B.,16.8,79
+2022,2022-05-22,Plitvice,Turdus merula,Kos,40,transekt,I.H.,15.1,64
+2022,2022-05-22,Plitvice,Erithacus rubecula,Crvendać,16,točkasta_metoda,D.T.,22,67
+2022,2022-05-25,Velebit,Strix Uralskaensis,Uralska sova,5,točkasta_metoda,A.P.,22.4,79
+2022,2022-05-25,Velebit,Corvus corax,Gavran,7,točkasta_metoda,I.H.,20.4,71
+2022,2022-05-25,Velebit,Cyanistes caeruleus,Plavetna sjenica,39,IPA,S.B.,18.7,68
+2022,2022-05-25,Velebit,Dendrocopos major,Veliki djetlić,19,IPA,S.B.,23.4,71
+2022,2022-05-25,Velebit,Dryocopus martius,Crna žuna,4,transekt,D.T.,19.6,53
+2022,2022-05-25,Velebit,Turdus merula,Kos,34,transekt,M.K.,21.1,73
+2022,2022-05-25,Velebit,Accipiter gentilis,Jastreb kokošar,4,transekt,I.H.,14.7,74
+2022,2022-05-25,Velebit,Fringilla coelebs,Zeba,46,transekt,D.T.,18.5,59
+2022,2022-05-25,Velebit,Parus major,Velika sjenica,35,IPA,M.K.,21.2,67
+2022,2022-05-25,Velebit,Sitta europaea,Brgljez,21,točkasta_metoda,A.P.,17.7,75
+2022,2022-05-25,Velebit,Phoenicurus ochruros,Crvenrepka,12,transekt,D.T.,20.1,62
+2022,2022-05-25,Velebit,Picus viridis,Zelena žuna,9,točkasta_metoda,S.B.,16.8,54
+2022,2022-05-28,Risnjak,Phoenicurus ochruros,Crvenrepka,13,IPA,I.H.,17.9,74
+2022,2022-05-28,Risnjak,Strix Uralskaensis,Uralska sova,6,IPA,M.K.,16.3,73
+2022,2022-05-28,Risnjak,Dendrocopos major,Veliki djetlić,21,transekt,S.B.,20.6,71
+2022,2022-05-28,Risnjak,Fringilla coelebs,Zeba,33,točkasta_metoda,S.B.,10.9,76
+2022,2022-05-28,Risnjak,Aquila chrysaetos,Suri orao,3,točkasta_metoda,M.K.,22.3,57
+2022,2022-05-28,Risnjak,Cyanistes caeruleus,Plavetna sjenica,28,IPA,M.K.,13.8,51
+2022,2022-05-28,Risnjak,Buteo buteo,Škanjac,17,IPA,D.T.,17.2,58
+2022,2022-05-28,Risnjak,Erithacus rubecula,Crvendać,19,transekt,S.B.,22.9,82
+2022,2022-06-01,Plitvice,Cyanistes caeruleus,Plavetna sjenica,26,transekt,S.B.,16.7,58
+2022,2022-06-01,Plitvice,Buteo buteo,Škanjac,18,transekt,D.T.,17.6,63
+2022,2022-06-01,Plitvice,Phoenicurus ochruros,Crvenrepka,19,točkasta_metoda,A.P.,15.7,63
+2022,2022-06-01,Plitvice,Dendrocopos major,Veliki djetlić,14,transekt,M.K.,17.1,60
+2022,2022-06-01,Plitvice,Picus viridis,Zelena žuna,8,IPA,S.B.,18.5,
+2022,2022-06-01,Plitvice,Fringilla coelebs,Zeba,38,transekt,A.P.,18,51
+2022,2022-06-01,Plitvice,Sitta europaea,Brgljez,21,transekt,M.K.,27.6,61
+2022,2022-06-01,Plitvice,Parus major,Velika sjenica,38,točkasta_metoda,S.B.,19.9,80
+2022,2022-06-01,Plitvice,Erithacus rubecula,Crvendać,17,IPA,A.P.,18.1,69
+2022,2022-06-01,Plitvice,Tetrao urogallus,Tetrijeb,2,transekt,I.H.,21.3,68
+2022,2022-06-01,Risnjak,Parus major,Velika sjenica,37,IPA,D.T.,21.6,78
+2022,2022-06-01,Risnjak,Turdus merula,Kos,33,transekt,M.K.,22.4,58
+2022,2022-06-01,Risnjak,Buteo buteo,Škanjac,4,točkasta_metoda,I.H.,19,76
+2022,2022-06-01,Risnjak,Dendrocopos major,Veliki djetlić,22,transekt,S.B.,18.5,51
+2022,2022-06-01,Risnjak,Fringilla coelebs,Zeba,39,točkasta_metoda,A.P.,26.5,60
+2022,2022-06-01,Risnjak,Phoenicurus ochruros,Crvenrepka,14,točkasta_metoda,I.H.,22.7,59
+2022,2022-06-01,Risnjak,Sitta europaea,Brgljez,23,IPA,D.T.,18.4,73
+2022,2022-06-01,Risnjak,Aquila chrysaetos,Suri orao,5,IPA,A.P.,18.5,76
+2022,2022-06-01,Risnjak,Strix Uralskaensis,Uralska sova,3,točkasta_metoda,S.B.,20.9,67
+2022,2022-06-04,Risnjak,Fringilla coelebs,Zeba,42,transekt,A.P.,16.1,72
+2022,2022-06-04,Risnjak,Sitta europaea,Brgljez,15,točkasta_metoda,S.B.,13.1,56
+2022,2022-06-04,Risnjak,Picus viridis,Zelena žuna,10,IPA,A.P.,23.9,62
+2022,2022-06-04,Risnjak,Cyanistes caeruleus,Plavetna sjenica,37,IPA,I.H.,20.2,67
+2022,2022-06-04,Risnjak,Strix Uralskaensis,Uralska sova,2,točkasta_metoda,I.H.,17.3,53
+2022,2022-06-04,Risnjak,Phoenicurus ochruros,Crvenrepka,20,točkasta_metoda,I.H.,18.2,54
+2022,2022-06-04,Risnjak,Dendrocopos major,Veliki djetlić,17,točkasta_metoda,M.K.,20.2,50
+2022,2022-06-04,Risnjak,Parus major,Velika sjenica,46,točkasta_metoda,D.T.,18.2,52
+2022,2022-06-04,Risnjak,Turdus merula,Kos,46,transekt,S.B.,20.3,64
+2022,2022-06-04,Risnjak,Buteo buteo,Škanjac,9,točkasta_metoda,M.K.,19.7,82
+2022,2022-06-04,Risnjak,Erithacus rubecula,Crvendać,32,IPA,S.B.,21,82
+2022,2022-06-07,Plitvice,Dendrocopos major,Veliki djetlić,17,IPA,S.B.,20.3,82
+2022,2022-06-07,Plitvice,Sitta europaea,Brgljez,38,transekt,D.T.,14.9,72
+2022,2022-06-07,Plitvice,Fringilla coelebs,Zeba,44,transekt,I.H.,22.8,53
+2022,2022-06-07,Plitvice,Turdus merula,Kos,28,transekt,M.K.,20.5,51
+2022,2022-06-07,Plitvice,Strix Uralskaensis,Uralska sova,1,transekt,D.T.,22.9,74
+2022,2022-06-07,Plitvice,Phoenicurus ochruros,Crvenrepka,12,IPA,I.H.,14.3,52
+2022,2022-06-07,Plitvice,Erithacus rubecula,Crvendać,27,IPA,A.P.,19.2,65
+2022,2022-06-07,Plitvice,Dryocopus martius,Crna žuna,4,transekt,I.H.,24.1,80
+2022,2022-06-07,Plitvice,Picus viridis,Zelena žuna,5,IPA,D.T.,20.7,79
+2022,2022-06-07,Plitvice,Aquila chrysaetos,Suri orao,1,transekt,A.P.,17,79
+2022,2022-06-07,Plitvice,Parus major,Velika sjenica,46,transekt,D.T.,16.1,51
+2022,2022-06-09,Velebit,Phoenicurus ochruros,Crvenrepka,13,IPA,D.T.,18.6,75
+2022,2022-06-09,Velebit,Buteo buteo,Škanjac,8,IPA,S.B.,24.3,54
+2022,2022-06-09,Velebit,Turdus merula,Kos,45,IPA,D.T.,17.9,57
+2022,2022-06-09,Velebit,Tetrao urogallus,Tetrijeb,1,točkasta_metoda,M.K.,17.6,64
+2022,2022-06-09,Velebit,Fringilla coelebs,Zeba,48,IPA,S.B.,18.9,68
+2022,2022-06-09,Velebit,Cyanistes caeruleus,Plavetna sjenica,38,transekt,I.H.,18.8,70
+2022,2022-06-09,Velebit,Parus major,Velika sjenica,38,transekt,A.P.,18.4,57
+2022,2022-06-09,Velebit,Sitta europaea,Brgljez,28,točkasta_metoda,D.T.,9.3,59
+2022,2022-06-09,Velebit,Accipiter gentilis,Jastreb kokošar,2,točkasta_metoda,D.T.,20.2,81
+2022,2022-06-09,Velebit,Corvus corax,Gavran,15,IPA,D.T.,12.1,76
+2022,2022-06-12,Velebit,Phoenicurus ochruros,Crvenrepka,15,točkasta_metoda,D.T.,19.9,52
+2022,2022-06-12,Velebit,Erithacus rubecula,Crvendać,23,IPA,S.B.,22.3,60
+2022,2022-06-12,Velebit,Dendrocopos major,Veliki djetlić,17,transekt,D.T.,19.1,78
+2022,2022-06-12,Velebit,Parus major,Velika sjenica,38,IPA,M.K.,17.8,55
+2022,2022-06-12,Velebit,Cyanistes caeruleus,Plavetna sjenica,34,IPA,D.T.,16.8,75
+2022,2022-06-12,Velebit,Tetrao urogallus,Tetrijeb,6,točkasta_metoda,I.H.,25.3,81
+2022,2022-06-12,Velebit,Accipiter gentilis,Jastreb kokošar,9,točkasta_metoda,A.P.,17.7,77
+2022,2022-06-12,Velebit,Sitta europaea,Brgljez,22,točkasta_metoda,I.H.,18.4,72
+2022,2022-06-17,Velebit,Cyanistes caeruleus,Plavetna sjenica,23,točkasta_metoda,D.T.,12.9,83
+2022,2022-06-17,Velebit,Dendrocopos major,Veliki djetlić,19,točkasta_metoda,D.T.,21.4,72
+2022,2022-06-17,Velebit,Picus viridis,Zelena žuna,12,IPA,I.H.,18.4,53
+2022,2022-06-17,Velebit,Sitta europaea,Brgljez,17,točkasta_metoda,M.K.,21.1,70
+2022,2022-06-17,Velebit,Erithacus rubecula,Crvendać,24,IPA,D.T.,17.1,74
+2022,2022-06-17,Velebit,Parus major,Velika sjenica,48,točkasta_metoda,I.H.,21.2,83
+2022,2022-06-17,Velebit,Turdus merula,Kos,37,transekt,I.H.,24.5,67
+2022,2022-06-17,Velebit,Buteo buteo,Škanjac,17,IPA,S.B.,25,78
+2022,2022-06-17,Velebit,Tetrao urogallus,Tetrijeb,5,transekt,S.B.,19,51
+2022,2022-06-18,Risnjak,Strix Uralskaensis,Uralska sova,10,transekt,D.T.,24.3,83
+2022,2022-06-18,Risnjak,Sitta europaea,Brgljez,27,transekt,M.K.,18.1,72
+2022,2022-06-18,Risnjak,Fringilla coelebs,Zeba,54,točkasta_metoda,S.B.,14.6,84
+2022,2022-06-18,Risnjak,Cyanistes caeruleus,Plavetna sjenica,36,točkasta_metoda,I.H.,19.2,66
+2022,2022-06-18,Risnjak,Buteo buteo,Škanjac,10,transekt,M.K.,23,76
+2022,2022-06-18,Risnjak,Tetrao urogallus,Tetrijeb,5,IPA,S.B.,18.6,59
+2022,2022-06-18,Risnjak,Parus major,Velika sjenica,38,točkasta_metoda,D.T.,22.4,81
+2022,2022-06-18,Risnjak,Picus viridis,Zelena žuna,10,IPA,D.T.,18.8,85
+2022,2022-06-18,Risnjak,Dendrocopos major,Veliki djetlić,25,transekt,I.H.,16.2,68
+2022,2022-06-25,Risnjak,Dendrocopos major,Veliki djetlić,27,transekt,A.P.,19.2,54
+2022,2022-06-25,Risnjak,Cyanistes caeruleus,Plavetna sjenica,38,točkasta_metoda,M.K.,,59
+2022,2022-06-25,Risnjak,Phoenicurus ochruros,Crvenrepka,15,točkasta_metoda,M.K.,18.4,56
+2022,2022-06-25,Risnjak,Fringilla coelebs,Zeba,44,IPA,D.T.,23.3,55
+2022,2022-06-25,Risnjak,Turdus merula,Kos,40,IPA,I.H.,19.9,82
+2022,2022-06-25,Risnjak,Parus major,Velika sjenica,58,transekt,A.P.,19.4,55
+2022,2022-06-25,Risnjak,Sitta europaea,Brgljez,23,točkasta_metoda,S.B.,18.5,65
+2022,2022-06-25,Risnjak,Tetrao urogallus,Tetrijeb,1,IPA,D.T.,18.9,62
+2022,2022-06-25,Risnjak,Buteo buteo,Škanjac,13,transekt,D.T.,20.1,65
+2022,2022-06-25,Risnjak,Picus viridis,Zelena žuna,4,IPA,M.K.,21.6,60
+2022,2022-06-25,Risnjak,Erithacus rubecula,Crvendać,33,transekt,D.T.,20.1,82
+2022,2022-06-25,Risnjak,Corvus corax,Gavran,5,točkasta_metoda,I.H.,20,75
+2022,2022-06-26,Plitvice,Dendrocopos major,Veliki djetlić,14,IPA,D.T.,21.1,76
+2022,2022-06-26,Plitvice,Parus major,Velika sjenica,51,točkasta_metoda,I.H.,20.2,57
+2022,2022-06-26,Plitvice,Cyanistes caeruleus,Plavetna sjenica,30,IPA,D.T.,16.8,79
+2022,2022-06-26,Plitvice,Turdus merula,Kos,43,točkasta_metoda,M.K.,21.1,78
+2022,2022-06-26,Plitvice,Sitta europaea,Brgljez,20,točkasta_metoda,A.P.,23.2,66
+2022,2022-06-26,Plitvice,Aquila chrysaetos,Suri orao,6,transekt,I.H.,18.6,84
+2022,2022-06-26,Plitvice,Fringilla coelebs,Zeba,55,IPA,S.B.,15,51
+2022,2022-06-26,Plitvice,Phoenicurus ochruros,Crvenrepka,13,IPA,A.P.,19.5,57
+2022,2022-07-08,Risnjak,Cyanistes caeruleus,Plavetna sjenica,18,transekt,M.K.,20.9,72
+2022,2022-07-08,Risnjak,Tetrao urogallus,Tetrijeb,2,IPA,A.P.,20.3,65
+2022,2022-07-08,Risnjak,Dendrocopos major,Veliki djetlić,20,IPA,D.T.,21.1,71
+2022,2022-07-08,Risnjak,Turdus merula,Kos,24,IPA,M.K.,19.5,55
+2022,2022-07-08,Risnjak,Aquila chrysaetos,Suri orao,1,transekt,I.H.,29.8,60
+2022,2022-07-08,Risnjak,Phoenicurus ochruros,Crvenrepka,10,točkasta_metoda,S.B.,21.3,67
+2022,2022-07-08,Risnjak,Accipiter gentilis,Jastreb kokošar,4,IPA,S.B.,23.4,51
+2022,2022-07-08,Risnjak,Parus major,Velika sjenica,24,točkasta_metoda,A.P.,18.5,52
+2022,2022-07-08,Velebit,Parus major,Velika sjenica,28,transekt,M.K.,21.9,82
+2022,2022-07-08,Velebit,Sitta europaea,Brgljez,11,transekt,I.H.,19.7,63
+2022,2022-07-08,Velebit,Fringilla coelebs,Zeba,37,transekt,A.P.,25.6,63
+2022,2022-07-08,Velebit,Strix Uralskaensis,Uralska sova,1,točkasta_metoda,A.P.,19.5,54
+2022,2022-07-08,Velebit,Buteo buteo,Škanjac,12,IPA,D.T.,20.9,59
+2022,2022-07-17,Risnjak,Corvus corax,Gavran,6,točkasta_metoda,S.B.,18.1,70
+2022,2022-07-17,Risnjak,Buteo buteo,Škanjac,4,transekt,D.T.,22.3,59
+2022,2022-07-17,Risnjak,Turdus merula,Kos,24,točkasta_metoda,M.K.,20.1,74
+2022,2022-07-17,Risnjak,Cyanistes caeruleus,Plavetna sjenica,19,transekt,M.K.,22.3,59
+2022,2022-07-17,Risnjak,Picus viridis,Zelena žuna,7,transekt,D.T.,22,84
+2022,2022-07-17,Risnjak,Dendrocopos major,Veliki djetlić,22,transekt,S.B.,18.6,81
+2022,2022-07-17,Risnjak,Sitta europaea,Brgljez,18,IPA,D.T.,24,67
+2022,2022-07-19,Plitvice,Parus major,Velika sjenica,29,IPA,D.T.,24,66
+2022,2022-07-19,Plitvice,Turdus merula,Kos,27,transekt,A.P.,14.4,76
+2022,2022-07-19,Plitvice,Buteo buteo,Škanjac,8,transekt,D.T.,16.8,73
+2022,2022-07-19,Plitvice,Dendrocopos major,Veliki djetlić,15,IPA,S.B.,21.8,62
+2022,2022-07-19,Plitvice,Picus viridis,Zelena žuna,5,IPA,S.B.,20.5,75
+2022,2022-07-19,Plitvice,Dryocopus martius,Crna žuna,7,točkasta_metoda,A.P.,13.4,
+2022,2022-07-19,Plitvice,Tetrao urogallus,Tetrijeb,4,IPA,D.T.,21.1,52
+2022,2022-07-19,Plitvice,Erithacus rubecula,Crvendać,20,IPA,S.B.,18.7,70
+2022,2022-07-26,Risnjak,Parus major,Velika sjenica,20,transekt,I.H.,20.9,64
+2022,2022-07-26,Risnjak,Cyanistes caeruleus,Plavetna sjenica,22,IPA,A.P.,16.8,85
+2022,2022-07-26,Risnjak,Turdus merula,Kos,25,točkasta_metoda,D.T.,19.7,61
+2022,2022-07-26,Risnjak,Dendrocopos major,Veliki djetlić,11,IPA,I.H.,20.2,78
+2022,2022-07-26,Risnjak,Fringilla coelebs,Zeba,31,IPA,D.T.,20.6,52
+2022,2022-07-26,Risnjak,Accipiter gentilis,Jastreb kokošar,4,transekt,S.B.,22.5,64
+2022,2022-07-26,Risnjak,Erithacus rubecula,Crvendać,17,transekt,D.T.,25.8,73
+2022,2022-07-26,Risnjak,Buteo buteo,Škanjac,8,točkasta_metoda,A.P.,17.8,74
+2022,2022-07-27,Velebit,Parus major,Velika sjenica,19,transekt,A.P.,19.2,68
+2022,2022-07-27,Velebit,Phoenicurus ochruros,Crvenrepka,8,IPA,D.T.,21.2,73
+2022,2022-07-27,Velebit,Dendrocopos major,Veliki djetlić,10,točkasta_metoda,S.B.,14.7,62
+2022,2022-07-27,Velebit,Dryocopus martius,Crna žuna,4,točkasta_metoda,A.P.,20,83
+2022,2022-07-27,Velebit,Fringilla coelebs,Zeba,35,točkasta_metoda,I.H.,18.2,80
+2023,2023-03-02,Velebit,Dendrocopos major,Veliki djetlić,13,točkasta_metoda,D.T.,9.4,69
+2023,2023-03-02,Velebit,Corvus corax,Gavran,1,IPA,D.T.,17,66
+2023,2023-03-02,Velebit,Aquila chrysaetos,Suri orao,1,točkasta_metoda,D.T.,11.1,65
+2023,2023-03-02,Velebit,Fringilla coelebs,Zeba,27,IPA,I.H.,16.4,54
+2023,2023-03-02,Velebit,Picus viridis,Zelena žuna,3,transekt,D.T.,13.4,54
+2023,2023-03-02,Velebit,Parus major,Velika sjenica,27,transekt,I.H.,15,83
+2023,2023-03-06,Risnjak,Erithacus rubecula,Crvendać,12,točkasta_metoda,M.K.,18.1,68
+2023,2023-03-06,Risnjak,Turdus merula,Kos,29,točkasta_metoda,S.B.,14.4,59
+2023,2023-03-06,Risnjak,Phoenicurus ochruros,Crvenrepka,10,točkasta_metoda,S.B.,13,73
+2023,2023-03-06,Risnjak,Cyanistes caeruleus,Plavetna sjenica,21,transekt,S.B.,18,81
+2023,2023-03-06,Risnjak,Dendrocopos major,Veliki djetlić,14,IPA,S.B.,12.2,62
+2023,2023-03-06,Risnjak,Sitta europaea,Brgljez,22,točkasta_metoda,A.P.,16.5,77
+2023,2023-03-06,Risnjak,Parus major,Velika sjenica,25,točkasta_metoda,I.H.,10.6,72
+2023,2023-03-06,Risnjak,Corvus corax,Gavran,7,točkasta_metoda,A.P.,13,85
+2023,2023-03-08,Risnjak,Phoenicurus ochruros,Crvenrepka,14,IPA,A.P.,16.9,64
+2023,2023-03-08,Risnjak,Fringilla coelebs,Zeba,39,transekt,S.B.,11.3,50
+2023,2023-03-08,Risnjak,Turdus merula,Kos,20,transekt,S.B.,16.4,81
+2023,2023-03-08,Risnjak,Strix Uralskaensis,Uralska sova,7,IPA,A.P.,7.8,75
+2023,2023-03-08,Risnjak,Parus major,Velika sjenica,25,IPA,I.H.,14.4,67
+2023,2023-03-08,Risnjak,Dendrocopos major,Veliki djetlić,12,točkasta_metoda,A.P.,13.8,61
+2023,2023-03-08,Risnjak,Buteo buteo,Škanjac,7,točkasta_metoda,D.T.,18,54
+2023,2023-03-08,Risnjak,Erithacus rubecula,Crvendać,15,IPA,S.B.,16.8,71
+2023,2023-03-08,Velebit,Picus viridis,Zelena žuna,4,transekt,M.K.,15.5,56
+2023,2023-03-08,Velebit,Phoenicurus ochruros,Crvenrepka,11,transekt,A.P.,16.2,56
+2023,2023-03-08,Velebit,Turdus merula,Kos,32,IPA,I.H.,18.4,55
+2023,2023-03-08,Velebit,Cyanistes caeruleus,Plavetna sjenica,23,točkasta_metoda,A.P.,15.8,77
+2023,2023-03-08,Velebit,Parus major,Velika sjenica,25,točkasta_metoda,D.T.,10.5,76
+2023,2023-03-08,Velebit,Dendrocopos major,Veliki djetlić,19,transekt,S.B.,12.5,78
+2023,2023-03-08,Velebit,Buteo buteo,Škanjac,10,IPA,D.T.,12.7,79
+2023,2023-03-08,Velebit,Corvus corax,Gavran,3,transekt,I.H.,14.4,78
+2023,2023-03-08,Velebit,Tetrao urogallus,Tetrijeb,2,IPA,S.B.,11,66
+2023,2023-03-08,Velebit,Sitta europaea,Brgljez,19,transekt,S.B.,14.9,79
+2023,2023-03-09,Velebit,Turdus merula,Kos,17,transekt,I.H.,9.4,82
+2023,2023-03-09,Velebit,Dendrocopos major,Veliki djetlić,10,točkasta_metoda,M.K.,12.3,69
+2023,2023-03-09,Velebit,Sitta europaea,Brgljez,19,točkasta_metoda,S.B.,14.6,79
+2023,2023-03-09,Velebit,Cyanistes caeruleus,Plavetna sjenica,20,IPA,I.H.,16.6,74
+2023,2023-03-09,Velebit,Strix Uralskaensis,Uralska sova,1,transekt,M.K.,10.3,72
+2023,2023-03-09,Velebit,Parus major,Velika sjenica,35,IPA,D.T.,14.2,67
+2023,2023-03-13,Risnjak,Tetrao urogallus,Tetrijeb,2,IPA,M.K.,15.7,57
+2023,2023-03-13,Risnjak,Sitta europaea,Brgljez,20,IPA,D.T.,15.7,60
+2023,2023-03-13,Risnjak,Fringilla coelebs,Zeba,28,IPA,A.P.,12,54
+2023,2023-03-13,Risnjak,Turdus merula,Kos,19,IPA,S.B.,16.1,67
+2023,2023-03-13,Risnjak,Cyanistes caeruleus,Plavetna sjenica,22,točkasta_metoda,I.H.,12.9,72
+2023,2023-03-13,Risnjak,Corvus corax,Gavran,5,transekt,A.P.,8.8,80
+2023,2023-03-13,Risnjak,Phoenicurus ochruros,Crvenrepka,14,transekt,A.P.,16.6,57
+2023,2023-03-16,Risnjak,Fringilla coelebs,Zeba,27,točkasta_metoda,M.K.,15.5,78
+2023,2023-03-16,Risnjak,Phoenicurus ochruros,Crvenrepka,4,točkasta_metoda,A.P.,14.6,52
+2023,2023-03-16,Risnjak,Corvus corax,Gavran,7,točkasta_metoda,S.B.,7.7,68
+2023,2023-03-16,Risnjak,Tetrao urogallus,Tetrijeb,4,točkasta_metoda,I.H.,15.1,60
+2023,2023-03-16,Risnjak,Accipiter gentilis,Jastreb kokošar,4,transekt,S.B.,12.2,74
+2023,2023-03-16,Risnjak,Strix Uralskaensis,Uralska sova,6,IPA,I.H.,9.6,71
+2023,2023-03-17,Plitvice,Turdus merula,Kos,32,točkasta_metoda,D.T.,11.6,70
+2023,2023-03-17,Plitvice,Parus major,Velika sjenica,21,IPA,M.K.,15.9,59
+2023,2023-03-17,Plitvice,Anas platyrhynchos,Divlja patka,29,točkasta_metoda,A.P.,12.9,80
+2023,2023-03-17,Plitvice,Aquila chrysaetos,Suri orao,1,točkasta_metoda,M.K.,11.2,75
+2023,2023-03-17,Plitvice,Dendrocopos major,Veliki djetlić,16,točkasta_metoda,S.B.,15.1,67
+2023,2023-03-17,Plitvice,Tetrao urogallus,Tetrijeb,6,točkasta_metoda,S.B.,12.2,78
+2023,2023-03-17,Plitvice,Cyanistes caeruleus,Plavetna sjenica,18,IPA,S.B.,14.2,72
+2023,2023-03-17,Plitvice,Erithacus rubecula,Crvendać,19,transekt,M.K.,19.3,63
+2023,2023-03-18,Plitvice,Anas platyrhynchos,Divlja patka,38,IPA,A.P.,19.1,55
+2023,2023-03-18,Plitvice,Turdus merula,Kos,24,IPA,M.K.,12.6,76
+2023,2023-03-18,Plitvice,Sitta europaea,Brgljez,16,IPA,A.P.,14.7,68
+2023,2023-03-18,Plitvice,Alcedo atthis,Vodomar,1,točkasta_metoda,S.B.,,71
+2023,2023-03-18,Plitvice,Dendrocopos major,Veliki djetlić,14,IPA,S.B.,12.4,78
+2023,2023-03-18,Plitvice,Picus viridis,Zelena žuna,8,IPA,S.B.,10.5,66
+2023,2023-03-18,Plitvice,Fringilla coelebs,Zeba,34,točkasta_metoda,I.H.,15.3,77
+2023,2023-03-18,Plitvice,Erithacus rubecula,Crvendać,23,transekt,I.H.,13.7,53
+2023,2023-03-18,Plitvice,Dryocopus martius,Crna žuna,7,transekt,I.H.,15.2,62
+2023,2023-03-18,Plitvice,Phoenicurus ochruros,Crvenrepka,16,transekt,A.P.,16.6,68
+2023,2023-03-22,Velebit,Picus viridis,Zelena žuna,2,transekt,D.T.,14.3,85
+2023,2023-03-22,Velebit,Fringilla coelebs,Zeba,25,transekt,S.B.,13.5,61
+2023,2023-03-22,Velebit,Phoenicurus ochruros,Crvenrepka,7,IPA,S.B.,11.4,80
+2023,2023-03-22,Velebit,Parus major,Velika sjenica,17,transekt,A.P.,16.5,85
+2023,2023-03-22,Velebit,Sitta europaea,Brgljez,15,IPA,S.B.,15.7,75
+2023,2023-03-22,Velebit,Dendrocopos major,Veliki djetlić,8,transekt,D.T.,10.9,71
+2023,2023-03-22,Velebit,Cyanistes caeruleus,Plavetna sjenica,19,transekt,I.H.,10.9,64
+2023,2023-03-22,Velebit,Erithacus rubecula,Crvendać,12,transekt,S.B.,15.3,77
+2023,2023-03-22,Velebit,Dryocopus martius,Crna žuna,9,IPA,D.T.,9.9,85
+2023,2023-03-28,Risnjak,Picus viridis,Zelena žuna,5,IPA,I.H.,11.6,62
+2023,2023-03-28,Risnjak,Turdus merula,Kos,23,IPA,A.P.,12.3,55
+2023,2023-03-28,Risnjak,Accipiter gentilis,Jastreb kokošar,4,transekt,M.K.,13.6,83
+2023,2023-03-28,Risnjak,Cyanistes caeruleus,Plavetna sjenica,22,transekt,A.P.,17.7,54
+2023,2023-03-28,Risnjak,Fringilla coelebs,Zeba,33,IPA,D.T.,15.9,71
+2023,2023-03-28,Risnjak,Corvus corax,Gavran,5,točkasta_metoda,M.K.,14.5,79
+2023,2023-03-28,Risnjak,Phoenicurus ochruros,Crvenrepka,2,točkasta_metoda,A.P.,17.5,62
+2023,2023-03-28,Risnjak,Dendrocopos major,Veliki djetlić,4,točkasta_metoda,I.H.,15.6,55
+2023,2023-03-28,Risnjak,Erithacus rubecula,Crvendać,20,točkasta_metoda,A.P.,9.3,64
+2023,2023-04-04,Plitvice,Alcedo atthis,Vodomar,6,IPA,A.P.,26.2,67
+2023,2023-04-04,Plitvice,Anas platyrhynchos,Divlja patka,27,transekt,A.P.,19.1,59
+2023,2023-04-04,Plitvice,Dendrocopos major,Veliki djetlić,12,IPA,I.H.,18.2,59
+2023,2023-04-04,Plitvice,Cyanistes caeruleus,Plavetna sjenica,14,točkasta_metoda,I.H.,16.3,71
+2023,2023-04-04,Plitvice,Fringilla coelebs,Zeba,30,IPA,S.B.,12.2,51
+2023,2023-04-04,Plitvice,Sitta europaea,Brgljez,11,IPA,S.B.,11.4,68
+2023,2023-04-04,Plitvice,Turdus merula,Kos,28,transekt,S.B.,9.4,54
+2023,2023-04-09,Risnjak,Parus major,Velika sjenica,25,IPA,M.K.,12.4,64
+2023,2023-04-09,Risnjak,Phoenicurus ochruros,Crvenrepka,6,transekt,M.K.,13.8,78
+2023,2023-04-09,Risnjak,Sitta europaea,Brgljez,18,točkasta_metoda,D.T.,18.7,59
+2023,2023-04-09,Risnjak,Strix Uralskaensis,Uralska sova,8,točkasta_metoda,D.T.,19.2,65
+2023,2023-04-09,Risnjak,Erithacus rubecula,Crvendać,11,transekt,I.H.,14,62
+2023,2023-04-09,Risnjak,Cyanistes caeruleus,Plavetna sjenica,23,transekt,A.P.,20.3,52
+2023,2023-04-09,Risnjak,Tetrao urogallus,Tetrijeb,1,točkasta_metoda,S.B.,14.1,73
+2023,2023-04-13,Velebit,Parus major,Velika sjenica,31,transekt,M.K.,14,63
+2023,2023-04-13,Velebit,Fringilla coelebs,Zeba,37,IPA,S.B.,13,75
+2023,2023-04-13,Velebit,Turdus merula,Kos,28,IPA,S.B.,15,51
+2023,2023-04-13,Velebit,Sitta europaea,Brgljez,9,transekt,D.T.,20.6,54
+2023,2023-04-13,Velebit,Accipiter gentilis,Jastreb kokošar,5,IPA,S.B.,17.3,64
+2023,2023-04-13,Velebit,Dendrocopos major,Veliki djetlić,10,IPA,D.T.,18.5,54
+2023,2023-04-13,Velebit,Aquila chrysaetos,Suri orao,5,točkasta_metoda,A.P.,17.6,68
+2023,2023-04-15,Plitvice,Turdus merula,Kos,29,točkasta_metoda,D.T.,20.4,70
+2023,2023-04-15,Plitvice,Parus major,Velika sjenica,18,IPA,A.P.,14.6,65
+2023,2023-04-15,Plitvice,Sitta europaea,Brgljez,14,transekt,I.H.,13.3,54
+2023,2023-04-15,Plitvice,Erithacus rubecula,Crvendać,17,transekt,S.B.,24.1,77
+2023,2023-04-15,Plitvice,Fringilla coelebs,Zeba,42,transekt,A.P.,13.5,65
+2023,2023-04-15,Plitvice,Picus viridis,Zelena žuna,9,IPA,S.B.,14.5,84
+2023,2023-04-15,Plitvice,Cyanistes caeruleus,Plavetna sjenica,12,IPA,M.K.,16.2,80
+2023,2023-04-15,Plitvice,Phoenicurus ochruros,Crvenrepka,17,točkasta_metoda,M.K.,15.6,61
+2023,2023-04-16,Plitvice,Accipiter gentilis,Jastreb kokošar,4,transekt,S.B.,11.8,57
+2023,2023-04-16,Plitvice,Anas platyrhynchos,Divlja patka,26,točkasta_metoda,I.H.,15.6,73
+2023,2023-04-16,Plitvice,Fringilla coelebs,Zeba,40,točkasta_metoda,S.B.,16.3,76
+2023,2023-04-16,Plitvice,Dryocopus martius,Crna žuna,5,transekt,M.K.,19.3,55
+2023,2023-04-16,Plitvice,Erithacus rubecula,Crvendać,13,točkasta_metoda,I.H.,18.5,82
+2023,2023-04-16,Plitvice,Cyanistes caeruleus,Plavetna sjenica,25,točkasta_metoda,M.K.,11.5,57
+2023,2023-04-17,Velebit,Picus viridis,Zelena žuna,11,točkasta_metoda,M.K.,14.2,50
+2023,2023-04-17,Velebit,Sitta europaea,Brgljez,15,točkasta_metoda,A.P.,18.4,76
+2023,2023-04-17,Velebit,Dendrocopos major,Veliki djetlić,11,IPA,S.B.,15.3,77
+2023,2023-04-17,Velebit,Erithacus rubecula,Crvendać,9,točkasta_metoda,M.K.,14.6,82
+2023,2023-04-17,Velebit,Phoenicurus ochruros,Crvenrepka,10,točkasta_metoda,M.K.,15.1,81
+2023,2023-04-17,Velebit,Turdus merula,Kos,19,točkasta_metoda,S.B.,22,81
+2023,2023-04-20,Risnjak,Parus major,Velika sjenica,19,IPA,I.H.,17,74
+2023,2023-04-20,Risnjak,Dendrocopos major,Veliki djetlić,15,transekt,A.P.,12.1,60
+2023,2023-04-20,Risnjak,Picus viridis,Zelena žuna,6,transekt,I.H.,17.2,72
+2023,2023-04-20,Risnjak,Aquila chrysaetos,Suri orao,3,IPA,S.B.,19.2,52
+2023,2023-04-20,Risnjak,Cyanistes caeruleus,Plavetna sjenica,16,transekt,I.H.,13.4,77
+2023,2023-04-20,Risnjak,Turdus merula,Kos,21,točkasta_metoda,A.P.,12.7,64
+2023,2023-04-20,Risnjak,Sitta europaea,Brgljez,9,IPA,S.B.,14.9,62
+2023,2023-04-21,Risnjak,Sitta europaea,Brgljez,17,točkasta_metoda,D.T.,18.3,69
+2023,2023-04-21,Risnjak,Aquila chrysaetos,Suri orao,1,točkasta_metoda,D.T.,13.5,75
+2023,2023-04-21,Risnjak,Parus major,Velika sjenica,33,transekt,M.K.,9.8,69
+2023,2023-04-21,Risnjak,Phoenicurus ochruros,Crvenrepka,9,transekt,M.K.,14,75
+2023,2023-04-21,Risnjak,Cyanistes caeruleus,Plavetna sjenica,23,IPA,M.K.,19,55
+2023,2023-04-21,Risnjak,Tetrao urogallus,Tetrijeb,2,IPA,I.H.,18.7,54
+2023,2023-04-21,Risnjak,Fringilla coelebs,Zeba,27,IPA,M.K.,20.5,76
+2023,2023-04-21,Risnjak,Corvus corax,Gavran,1,točkasta_metoda,I.H.,15.5,72
+2023,2023-04-21,Risnjak,Dendrocopos major,Veliki djetlić,11,IPA,A.P.,14,51
+2023,2023-04-21,Risnjak,Erithacus rubecula,Crvendać,27,IPA,I.H.,19,54
+2023,2023-04-22,Risnjak,Cyanistes caeruleus,Plavetna sjenica,14,IPA,I.H.,17.6,62
+2023,2023-04-22,Risnjak,Phoenicurus ochruros,Crvenrepka,12,transekt,I.H.,14,57
+2023,2023-04-22,Risnjak,Dendrocopos major,Veliki djetlić,14,točkasta_metoda,D.T.,16.4,51
+2023,2023-04-22,Risnjak,Tetrao urogallus,Tetrijeb,1,IPA,A.P.,11,82
+2023,2023-04-22,Risnjak,Corvus corax,Gavran,8,IPA,M.K.,18,72
+2023,2023-04-22,Risnjak,Turdus merula,Kos,16,IPA,I.H.,18.5,59
+2023,2023-04-22,Risnjak,Fringilla coelebs,Zeba,35,točkasta_metoda,I.H.,9.5,62
+2023,2023-04-22,Risnjak,Dryocopus martius,Crna žuna,10,točkasta_metoda,S.B.,14.1,73
+2023,2023-04-22,Risnjak,Picus viridis,Zelena žuna,7,IPA,M.K.,15.1,76
+2023,2023-04-22,Risnjak,Erithacus rubecula,Crvendać,21,transekt,S.B.,17.3,64
+2023,2023-04-23,Plitvice,Turdus merula,Kos,27,točkasta_metoda,S.B.,17.5,81
+2023,2023-04-23,Plitvice,Fringilla coelebs,Zeba,30,IPA,S.B.,11.2,58
+2023,2023-04-23,Plitvice,Tetrao urogallus,Tetrijeb,1,točkasta_metoda,S.B.,16.7,63
+2023,2023-04-23,Plitvice,Cyanistes caeruleus,Plavetna sjenica,31,točkasta_metoda,I.H.,19.5,69
+2023,2023-04-23,Plitvice,Alcedo atthis,Vodomar,3,IPA,M.K.,15.6,71
+2023,2023-04-23,Plitvice,Parus major,Velika sjenica,20,IPA,I.H.,19,59
+2023,2023-04-24,Velebit,Phoenicurus ochruros,Crvenrepka,8,točkasta_metoda,M.K.,14,51
+2023,2023-04-24,Velebit,Sitta europaea,Brgljez,19,IPA,I.H.,19.2,69
+2023,2023-04-24,Velebit,Strix Uralskaensis,Uralska sova,3,IPA,I.H.,9.6,65
+2023,2023-04-24,Velebit,Dendrocopos major,Veliki djetlić,12,transekt,D.T.,15.4,71
+2023,2023-04-24,Velebit,Turdus merula,Kos,25,IPA,A.P.,16.5,79
+2023,2023-04-24,Velebit,Parus major,Velika sjenica,28,točkasta_metoda,I.H.,15.9,59
+2023,2023-04-24,Velebit,Fringilla coelebs,Zeba,22,točkasta_metoda,S.B.,15.3,79
+2023,2023-04-24,Velebit,Picus viridis,Zelena žuna,5,točkasta_metoda,S.B.,15.9,83
+2023,2023-04-24,Velebit,Erithacus rubecula,Crvendać,14,IPA,A.P.,17.9,62
+2023,2023-04-24,Velebit,Dryocopus martius,Crna žuna,5,točkasta_metoda,D.T.,18,62
+2023,2023-04-28,Risnjak,Fringilla coelebs,Zeba,30,točkasta_metoda,I.H.,17.8,50
+2023,2023-04-28,Risnjak,Parus major,Velika sjenica,25,točkasta_metoda,M.K.,18.9,82
+2023,2023-04-28,Risnjak,Turdus merula,Kos,21,transekt,A.P.,10.8,57
+2023,2023-04-28,Risnjak,Sitta europaea,Brgljez,19,transekt,A.P.,16.4,52
+2023,2023-04-28,Risnjak,Corvus corax,Gavran,8,točkasta_metoda,M.K.,18.2,78
+2023,2023-04-28,Risnjak,Buteo buteo,Škanjac,5,IPA,D.T.,17,75
+2023,2023-04-28,Risnjak,Cyanistes caeruleus,Plavetna sjenica,21,IPA,D.T.,13,70
+2023,2023-04-28,Risnjak,Aquila chrysaetos,Suri orao,3,transekt,I.H.,14.9,56
+2023,2023-04-28,Risnjak,Tetrao urogallus,Tetrijeb,1,IPA,I.H.,17.9,53
+2023,2023-04-28,Risnjak,Dryocopus martius,Crna žuna,3,IPA,D.T.,15.2,65
+2023,2023-05-04,Plitvice,Phoenicurus ochruros,Crvenrepka,13,točkasta_metoda,S.B.,15.2,78
+2023,2023-05-04,Plitvice,Strix Uralskaensis,Uralska sova,6,točkasta_metoda,I.H.,17.3,81
+2023,2023-05-04,Plitvice,Anas platyrhynchos,Divlja patka,44,transekt,M.K.,14.1,66
+2023,2023-05-04,Plitvice,Dendrocopos major,Veliki djetlić,11,točkasta_metoda,A.P.,16.1,72
+2023,2023-05-04,Plitvice,Aquila chrysaetos,Suri orao,2,transekt,S.B.,12.2,83
+2023,2023-05-04,Plitvice,Fringilla coelebs,Zeba,32,točkasta_metoda,S.B.,18.9,57
+2023,2023-05-04,Plitvice,Erithacus rubecula,Crvendać,25,transekt,A.P.,20.5,74
+2023,2023-05-04,Plitvice,Parus major,Velika sjenica,41,transekt,S.B.,17.6,66
+2023,2023-05-04,Plitvice,Sitta europaea,Brgljez,18,transekt,I.H.,20.5,76
+2023,2023-05-04,Plitvice,Alcedo atthis,Vodomar,7,točkasta_metoda,I.H.,16.4,77
+2023,2023-05-04,Plitvice,Tetrao urogallus,Tetrijeb,4,točkasta_metoda,S.B.,16.5,65
+2023,2023-05-04,Plitvice,Turdus merula,Kos,38,transekt,S.B.,17.4,73
+2023,2023-05-04,Velebit,Dryocopus martius,Crna žuna,8,IPA,S.B.,19.1,77
+2023,2023-05-04,Velebit,Dendrocopos major,Veliki djetlić,27,transekt,A.P.,12.5,62
+2023,2023-05-04,Velebit,Fringilla coelebs,Zeba,49,IPA,D.T.,17.5,54
+2023,2023-05-04,Velebit,Buteo buteo,Škanjac,10,točkasta_metoda,S.B.,14.2,72
+2023,2023-05-04,Velebit,Parus major,Velika sjenica,40,IPA,D.T.,15.1,57
+2023,2023-05-04,Velebit,Turdus merula,Kos,33,IPA,I.H.,22.5,74
+2023,2023-05-04,Velebit,Sitta europaea,Brgljez,17,točkasta_metoda,M.K.,25.8,70
+2023,2023-05-04,Velebit,Strix Uralskaensis,Uralska sova,1,transekt,S.B.,16.7,54
+2023,2023-05-04,Velebit,Tetrao urogallus,Tetrijeb,5,točkasta_metoda,S.B.,20.1,73
+2023,2023-05-08,Velebit,Erithacus rubecula,Crvendać,26,transekt,D.T.,21.9,64
+2023,2023-05-08,Velebit,Parus major,Velika sjenica,40,transekt,M.K.,23.3,54
+2023,2023-05-08,Velebit,Cyanistes caeruleus,Plavetna sjenica,32,IPA,D.T.,17.8,65
+2023,2023-05-08,Velebit,Corvus corax,Gavran,11,transekt,A.P.,16.7,58
+2023,2023-05-08,Velebit,Phoenicurus ochruros,Crvenrepka,8,točkasta_metoda,I.H.,16.2,80
+2023,2023-05-08,Velebit,Dryocopus martius,Crna žuna,14,transekt,D.T.,20.7,58
+2023,2023-05-08,Velebit,Aquila chrysaetos,Suri orao,2,IPA,S.B.,17.2,64
+2023,2023-05-08,Velebit,Buteo buteo,Škanjac,8,IPA,S.B.,,58
+2023,2023-05-08,Velebit,Dendrocopos major,Veliki djetlić,16,transekt,D.T.,16.3,58
+2023,2023-05-08,Velebit,Strix Uralskaensis,Uralska sova,9,transekt,M.K.,17.3,78
+2023,2023-05-08,Velebit,Turdus merula,Kos,39,točkasta_metoda,M.K.,15.8,71
+2023,2023-05-08,Velebit,Fringilla coelebs,Zeba,52,IPA,S.B.,20.3,73
+2023,2023-05-13,Velebit,Corvus corax,Gavran,14,IPA,M.K.,18.2,53
+2023,2023-05-13,Velebit,Buteo buteo,Škanjac,9,točkasta_metoda,M.K.,20.9,83
+2023,2023-05-13,Velebit,Fringilla coelebs,Zeba,53,transekt,I.H.,18.8,72
+2023,2023-05-13,Velebit,Phoenicurus ochruros,Crvenrepka,19,točkasta_metoda,A.P.,15.8,50
+2023,2023-05-13,Velebit,Parus major,Velika sjenica,47,točkasta_metoda,S.B.,16,59
+2023,2023-05-13,Velebit,Sitta europaea,Brgljez,18,IPA,I.H.,22.4,52
+2023,2023-05-13,Velebit,Strix Uralskaensis,Uralska sova,1,transekt,S.B.,14.6,52
+2023,2023-05-13,Velebit,Cyanistes caeruleus,Plavetna sjenica,38,IPA,S.B.,22.6,76
+2023,2023-05-13,Velebit,Tetrao urogallus,Tetrijeb,5,točkasta_metoda,A.P.,15.4,82
+2023,2023-05-13,Velebit,Turdus merula,Kos,38,transekt,S.B.,18.5,58
+2023,2023-05-13,Velebit,Erithacus rubecula,Crvendać,20,točkasta_metoda,D.T.,18.6,50
+2023,2023-05-13,Velebit,Aquila chrysaetos,Suri orao,2,transekt,A.P.,12.7,74
+2023,2023-05-14,Risnjak,Tetrao urogallus,Tetrijeb,1,IPA,I.H.,15.5,67
+2023,2023-05-14,Risnjak,Fringilla coelebs,Zeba,31,točkasta_metoda,M.K.,,73
+2023,2023-05-14,Risnjak,Turdus merula,Kos,33,točkasta_metoda,A.P.,13.9,68
+2023,2023-05-14,Risnjak,Sitta europaea,Brgljez,24,transekt,I.H.,14.8,74
+2023,2023-05-14,Risnjak,Accipiter gentilis,Jastreb kokošar,6,transekt,A.P.,22.1,67
+2023,2023-05-14,Risnjak,Cyanistes caeruleus,Plavetna sjenica,31,IPA,A.P.,23.2,70
+2023,2023-05-14,Risnjak,Corvus corax,Gavran,8,IPA,I.H.,13.5,67
+2023,2023-05-14,Risnjak,Phoenicurus ochruros,Crvenrepka,14,transekt,I.H.,16.8,71
+2023,2023-05-14,Risnjak,Buteo buteo,Škanjac,9,IPA,M.K.,18,61
+2023,2023-05-19,Velebit,Sitta europaea,Brgljez,28,IPA,I.H.,16.9,60
+2023,2023-05-19,Velebit,Accipiter gentilis,Jastreb kokošar,7,transekt,S.B.,18.4,74
+2023,2023-05-19,Velebit,Dryocopus martius,Crna žuna,10,točkasta_metoda,I.H.,18.3,59
+2023,2023-05-19,Velebit,Parus major,Velika sjenica,49,točkasta_metoda,S.B.,14.5,72
+2023,2023-05-19,Velebit,Dendrocopos major,Veliki djetlić,19,točkasta_metoda,D.T.,12.8,66
+2023,2023-05-19,Velebit,Phoenicurus ochruros,Crvenrepka,13,IPA,D.T.,17.5,54
+2023,2023-05-19,Velebit,Cyanistes caeruleus,Plavetna sjenica,27,točkasta_metoda,D.T.,17.1,60
+2023,2023-05-19,Velebit,Buteo buteo,Škanjac,9,IPA,I.H.,18.6,61
+2023,2023-05-19,Velebit,Turdus merula,Kos,40,transekt,A.P.,17,58
+2023,2023-05-20,Risnjak,Parus major,Velika sjenica,35,točkasta_metoda,S.B.,20.7,67
+2023,2023-05-20,Risnjak,Aquila chrysaetos,Suri orao,1,IPA,I.H.,21.3,77
+2023,2023-05-20,Risnjak,Phoenicurus ochruros,Crvenrepka,21,točkasta_metoda,M.K.,19.6,68
+2023,2023-05-20,Risnjak,Cyanistes caeruleus,Plavetna sjenica,23,točkasta_metoda,D.T.,15.3,51
+2023,2023-05-20,Risnjak,Strix Uralskaensis,Uralska sova,4,točkasta_metoda,D.T.,15.8,82
+2023,2023-05-20,Risnjak,Fringilla coelebs,Zeba,59,točkasta_metoda,M.K.,18.4,62
+2023,2023-05-20,Risnjak,Corvus corax,Gavran,7,transekt,I.H.,19.7,58
+2023,2023-05-20,Risnjak,Tetrao urogallus,Tetrijeb,1,transekt,D.T.,17,82
+2023,2023-05-20,Risnjak,Dendrocopos major,Veliki djetlić,21,točkasta_metoda,S.B.,21.6,67
+2023,2023-05-20,Risnjak,Sitta europaea,Brgljez,24,transekt,S.B.,11.6,59
+2023,2023-05-23,Risnjak,Buteo buteo,Škanjac,8,IPA,I.H.,18.4,52
+2023,2023-05-23,Risnjak,Turdus merula,Kos,36,točkasta_metoda,D.T.,16,71
+2023,2023-05-23,Risnjak,Dendrocopos major,Veliki djetlić,21,točkasta_metoda,D.T.,17.5,77
+2023,2023-05-23,Risnjak,Dryocopus martius,Crna žuna,6,transekt,A.P.,15.5,84
+2023,2023-05-23,Risnjak,Erithacus rubecula,Crvendać,24,transekt,S.B.,16,58
+2023,2023-05-23,Risnjak,Phoenicurus ochruros,Crvenrepka,13,IPA,S.B.,14.7,59
+2023,2023-05-23,Risnjak,Sitta europaea,Brgljez,23,IPA,A.P.,16,56
+2023,2023-05-23,Risnjak,Fringilla coelebs,Zeba,39,IPA,S.B.,18.2,51
+2023,2023-05-23,Risnjak,Picus viridis,Zelena žuna,6,točkasta_metoda,M.K.,16.4,75
+2023,2023-05-23,Risnjak,Parus major,Velika sjenica,43,točkasta_metoda,D.T.,22.4,85
+2023,2023-05-23,Risnjak,Tetrao urogallus,Tetrijeb,2,IPA,S.B.,20.2,51
+2023,2023-05-27,Velebit,Phoenicurus ochruros,Crvenrepka,20,IPA,M.K.,15.5,79
+2023,2023-05-27,Velebit,Sitta europaea,Brgljez,15,točkasta_metoda,D.T.,18.1,64
+2023,2023-05-27,Velebit,Fringilla coelebs,Zeba,49,IPA,S.B.,17.3,52
+2023,2023-05-27,Velebit,Cyanistes caeruleus,Plavetna sjenica,32,IPA,A.P.,18.8,66
+2023,2023-05-27,Velebit,Corvus corax,Gavran,8,točkasta_metoda,I.H.,21.1,69
+2023,2023-05-27,Velebit,Picus viridis,Zelena žuna,12,IPA,A.P.,15.2,64
+2023,2023-05-27,Velebit,Dendrocopos major,Veliki djetlić,11,IPA,M.K.,21,76
+2023,2023-05-27,Velebit,Erithacus rubecula,Crvendać,29,točkasta_metoda,A.P.,13.5,78
+2023,2023-06-02,Plitvice,Dryocopus martius,Crna žuna,11,IPA,D.T.,21.3,57
+2023,2023-06-02,Plitvice,Erithacus rubecula,Crvendać,37,transekt,A.P.,21,82
+2023,2023-06-02,Plitvice,Dendrocopos major,Veliki djetlić,20,točkasta_metoda,S.B.,22.4,62
+2023,2023-06-02,Plitvice,Fringilla coelebs,Zeba,53,transekt,M.K.,17.1,56
+2023,2023-06-02,Plitvice,Parus major,Velika sjenica,41,IPA,I.H.,22.7,53
+2023,2023-06-02,Plitvice,Phoenicurus ochruros,Crvenrepka,11,transekt,M.K.,16.9,52
+2023,2023-06-02,Plitvice,Buteo buteo,Škanjac,7,transekt,M.K.,22.8,71
+2023,2023-06-02,Plitvice,Cyanistes caeruleus,Plavetna sjenica,34,IPA,D.T.,17.2,54
+2023,2023-06-02,Plitvice,Tetrao urogallus,Tetrijeb,3,IPA,M.K.,18.3,52
+2023,2023-06-02,Plitvice,Anas platyrhynchos,Divlja patka,59,točkasta_metoda,A.P.,10.6,74
+2023,2023-06-08,Velebit,Cyanistes caeruleus,Plavetna sjenica,29,točkasta_metoda,M.K.,15.7,84
+2023,2023-06-08,Velebit,Strix Uralskaensis,Uralska sova,3,točkasta_metoda,M.K.,18.2,77
+2023,2023-06-08,Velebit,Sitta europaea,Brgljez,22,IPA,M.K.,18.4,72
+2023,2023-06-08,Velebit,Picus viridis,Zelena žuna,9,transekt,M.K.,17.8,81
+2023,2023-06-08,Velebit,Phoenicurus ochruros,Crvenrepka,16,transekt,S.B.,14.4,84
+2023,2023-06-08,Velebit,Turdus merula,Kos,42,transekt,I.H.,17.2,80
+2023,2023-06-08,Velebit,Dendrocopos major,Veliki djetlić,19,transekt,D.T.,15.1,54
+2023,2023-06-08,Velebit,Corvus corax,Gavran,16,transekt,S.B.,18.1,79
+2023,2023-06-08,Velebit,Fringilla coelebs,Zeba,45,točkasta_metoda,A.P.,21,62
+2023,2023-06-12,Velebit,Cyanistes caeruleus,Plavetna sjenica,24,točkasta_metoda,S.B.,21.2,73
+2023,2023-06-12,Velebit,Turdus merula,Kos,17,točkasta_metoda,M.K.,17.9,65
+2023,2023-06-12,Velebit,Corvus corax,Gavran,13,točkasta_metoda,D.T.,17.3,74
+2023,2023-06-12,Velebit,Parus major,Velika sjenica,43,IPA,M.K.,15.8,63
+2023,2023-06-12,Velebit,Fringilla coelebs,Zeba,49,IPA,D.T.,18,58
+2023,2023-06-12,Velebit,Tetrao urogallus,Tetrijeb,7,IPA,I.H.,18.5,71
+2023,2023-06-12,Velebit,Buteo buteo,Škanjac,14,točkasta_metoda,D.T.,19.2,60
+2023,2023-06-12,Velebit,Dryocopus martius,Crna žuna,8,točkasta_metoda,I.H.,13.9,66
+2023,2023-06-12,Velebit,Erithacus rubecula,Crvendać,31,točkasta_metoda,A.P.,21.4,60
+2023,2023-06-12,Velebit,Sitta europaea,Brgljez,22,transekt,M.K.,17.9,77
+2023,2023-06-12,Velebit,Phoenicurus ochruros,Crvenrepka,8,IPA,I.H.,19.9,81
+2023,2023-06-12,Velebit,Dendrocopos major,Veliki djetlić,19,točkasta_metoda,S.B.,20.8,68
+2023,2023-06-15,Plitvice,Turdus merula,Kos,35,transekt,I.H.,17.9,80
+2023,2023-06-15,Plitvice,Aquila chrysaetos,Suri orao,1,točkasta_metoda,S.B.,25.4,55
+2023,2023-06-15,Plitvice,Anas platyrhynchos,Divlja patka,51,IPA,M.K.,19,63
+2023,2023-06-15,Plitvice,Corvus corax,Gavran,10,točkasta_metoda,D.T.,17,68
+2023,2023-06-15,Plitvice,Tetrao urogallus,Tetrijeb,3,IPA,D.T.,19.5,63
+2023,2023-06-15,Plitvice,Strix Uralskaensis,Uralska sova,4,točkasta_metoda,I.H.,23.9,82
+2023,2023-06-15,Plitvice,Cyanistes caeruleus,Plavetna sjenica,28,IPA,I.H.,16.2,83
+2023,2023-06-15,Plitvice,Dendrocopos major,Veliki djetlić,18,transekt,S.B.,19.3,64
+2023,2023-06-15,Velebit,Corvus corax,Gavran,5,IPA,A.P.,15,59
+2023,2023-06-15,Velebit,Turdus merula,Kos,26,točkasta_metoda,D.T.,20.5,77
+2023,2023-06-15,Velebit,Cyanistes caeruleus,Plavetna sjenica,40,točkasta_metoda,A.P.,18.9,85
+2023,2023-06-15,Velebit,Erithacus rubecula,Crvendać,16,točkasta_metoda,D.T.,22.4,77
+2023,2023-06-15,Velebit,Accipiter gentilis,Jastreb kokošar,9,točkasta_metoda,A.P.,21,77
+2023,2023-06-15,Velebit,Parus major,Velika sjenica,39,točkasta_metoda,A.P.,22.9,54
+2023,2023-06-15,Velebit,Strix Uralskaensis,Uralska sova,6,transekt,S.B.,14.2,76
+2023,2023-06-15,Velebit,Sitta europaea,Brgljez,22,IPA,M.K.,18.2,85
+2023,2023-06-15,Velebit,Fringilla coelebs,Zeba,40,IPA,A.P.,11.7,60
+2023,2023-06-15,Velebit,Dendrocopos major,Veliki djetlić,14,IPA,D.T.,18.9,64
+2023,2023-06-17,Risnjak,Strix Uralskaensis,Uralska sova,5,IPA,M.K.,17.9,58
+2023,2023-06-17,Risnjak,Turdus merula,Kos,33,točkasta_metoda,D.T.,23,79
+2023,2023-06-17,Risnjak,Sitta europaea,Brgljez,23,transekt,D.T.,11.8,82
+2023,2023-06-17,Risnjak,Aquila chrysaetos,Suri orao,1,transekt,A.P.,17.3,65
+2023,2023-06-17,Risnjak,Cyanistes caeruleus,Plavetna sjenica,27,transekt,S.B.,22.8,55
+2023,2023-06-17,Risnjak,Fringilla coelebs,Zeba,47,IPA,D.T.,10.6,56
+2023,2023-06-17,Risnjak,Erithacus rubecula,Crvendać,26,transekt,I.H.,21.7,66
+2023,2023-06-17,Risnjak,Phoenicurus ochruros,Crvenrepka,14,točkasta_metoda,S.B.,22.5,72
+2023,2023-06-22,Plitvice,Erithacus rubecula,Crvendać,24,transekt,I.H.,17.8,61
+2023,2023-06-22,Plitvice,Turdus merula,Kos,36,IPA,I.H.,18.1,78
+2023,2023-06-22,Plitvice,Phoenicurus ochruros,Crvenrepka,16,IPA,A.P.,16.8,65
+2023,2023-06-22,Plitvice,Buteo buteo,Škanjac,18,transekt,A.P.,11.5,50
+2023,2023-06-22,Plitvice,Parus major,Velika sjenica,46,točkasta_metoda,D.T.,26.4,60
+2023,2023-06-22,Plitvice,Picus viridis,Zelena žuna,9,točkasta_metoda,M.K.,18.7,57
+2023,2023-06-22,Plitvice,Accipiter gentilis,Jastreb kokošar,7,transekt,M.K.,19.1,73
+2023,2023-06-22,Plitvice,Corvus corax,Gavran,9,IPA,A.P.,18.4,77
+2023,2023-06-27,Plitvice,Tetrao urogallus,Tetrijeb,2,IPA,A.P.,24.5,57
+2023,2023-06-27,Plitvice,Accipiter gentilis,Jastreb kokošar,9,IPA,S.B.,21.7,81
+2023,2023-06-27,Plitvice,Corvus corax,Gavran,3,transekt,I.H.,20.2,73
+2023,2023-06-27,Plitvice,Cyanistes caeruleus,Plavetna sjenica,30,IPA,S.B.,21.4,67
+2023,2023-06-27,Plitvice,Phoenicurus ochruros,Crvenrepka,20,IPA,S.B.,19.6,59
+2023,2023-06-27,Plitvice,Turdus merula,Kos,35,točkasta_metoda,M.K.,20.3,55
+2023,2023-06-27,Plitvice,Parus major,Velika sjenica,44,transekt,D.T.,21.6,74
+2023,2023-06-27,Plitvice,Erithacus rubecula,Crvendać,24,transekt,M.K.,20,74
+2023,2023-06-27,Plitvice,Dendrocopos major,Veliki djetlić,28,transekt,S.B.,20.5,64
+2023,2023-06-28,Risnjak,Cyanistes caeruleus,Plavetna sjenica,23,točkasta_metoda,D.T.,17.4,61
+2023,2023-06-28,Risnjak,Fringilla coelebs,Zeba,40,transekt,D.T.,16.3,78
+2023,2023-06-28,Risnjak,Dryocopus martius,Crna žuna,3,transekt,D.T.,21.6,77
+2023,2023-06-28,Risnjak,Strix Uralskaensis,Uralska sova,6,transekt,S.B.,19.4,84
+2023,2023-06-28,Risnjak,Turdus merula,Kos,33,transekt,I.H.,24.4,78
+2023,2023-06-28,Risnjak,Parus major,Velika sjenica,37,IPA,A.P.,20.2,68
+2023,2023-06-28,Risnjak,Aquila chrysaetos,Suri orao,5,IPA,M.K.,23.3,62
+2023,2023-06-28,Risnjak,Dendrocopos major,Veliki djetlić,26,točkasta_metoda,A.P.,20.3,69
+2023,2023-06-28,Risnjak,Picus viridis,Zelena žuna,5,transekt,D.T.,15.6,84
+2023,2023-06-28,Risnjak,Phoenicurus ochruros,Crvenrepka,10,IPA,S.B.,16.3,84
+2023,2023-06-28,Risnjak,Accipiter gentilis,Jastreb kokošar,5,točkasta_metoda,A.P.,21,50
+2023,2023-07-04,Plitvice,Anas platyrhynchos,Divlja patka,35,transekt,M.K.,21.1,60
+2023,2023-07-04,Plitvice,Phoenicurus ochruros,Crvenrepka,10,transekt,S.B.,25.7,82
+2023,2023-07-04,Plitvice,Buteo buteo,Škanjac,7,IPA,S.B.,22.5,51
+2023,2023-07-04,Plitvice,Sitta europaea,Brgljez,7,točkasta_metoda,I.H.,23.8,83
+2023,2023-07-04,Plitvice,Turdus merula,Kos,18,transekt,M.K.,15.4,76
+2023,2023-07-04,Plitvice,Dryocopus martius,Crna žuna,5,točkasta_metoda,A.P.,20.9,69
+2023,2023-07-04,Plitvice,Parus major,Velika sjenica,26,transekt,M.K.,14.2,61
+2023,2023-07-06,Plitvice,Turdus merula,Kos,22,IPA,I.H.,18.2,82
+2023,2023-07-06,Plitvice,Cyanistes caeruleus,Plavetna sjenica,20,točkasta_metoda,D.T.,25.1,73
+2023,2023-07-06,Plitvice,Parus major,Velika sjenica,16,točkasta_metoda,S.B.,14.6,75
+2023,2023-07-06,Plitvice,Dryocopus martius,Crna žuna,8,IPA,S.B.,19.6,78
+2023,2023-07-06,Plitvice,Picus viridis,Zelena žuna,4,IPA,S.B.,26.1,81
+2023,2023-07-16,Plitvice,Anas platyrhynchos,Divlja patka,36,točkasta_metoda,M.K.,15.2,66
+2023,2023-07-16,Plitvice,Turdus merula,Kos,19,točkasta_metoda,M.K.,22.5,56
+2023,2023-07-16,Plitvice,Fringilla coelebs,Zeba,28,IPA,D.T.,26.1,74
+2023,2023-07-16,Plitvice,Sitta europaea,Brgljez,22,točkasta_metoda,M.K.,19.4,62
+2023,2023-07-16,Plitvice,Dendrocopos major,Veliki djetlić,11,točkasta_metoda,D.T.,26.6,79
+2023,2023-07-16,Plitvice,Cyanistes caeruleus,Plavetna sjenica,16,točkasta_metoda,A.P.,17,61
+2023,2023-07-16,Plitvice,Erithacus rubecula,Crvendać,15,IPA,I.H.,22.9,52
+2023,2023-07-17,Plitvice,Dendrocopos major,Veliki djetlić,15,transekt,A.P.,20.6,51
+2023,2023-07-17,Plitvice,Sitta europaea,Brgljez,17,IPA,M.K.,20.9,73
+2023,2023-07-17,Plitvice,Accipiter gentilis,Jastreb kokošar,3,IPA,I.H.,24.2,55
+2023,2023-07-17,Plitvice,Picus viridis,Zelena žuna,3,transekt,S.B.,25.4,67
+2023,2023-07-17,Plitvice,Phoenicurus ochruros,Crvenrepka,8,IPA,S.B.,21.8,73
+2023,2023-07-17,Plitvice,Anas platyrhynchos,Divlja patka,27,IPA,M.K.,18.3,73
+2023,2023-07-19,Velebit,Corvus corax,Gavran,10,transekt,M.K.,19.8,61
+2023,2023-07-19,Velebit,Cyanistes caeruleus,Plavetna sjenica,23,transekt,M.K.,16.6,50
+2023,2023-07-19,Velebit,Tetrao urogallus,Tetrijeb,4,točkasta_metoda,M.K.,19.5,71
+2023,2023-07-19,Velebit,Fringilla coelebs,Zeba,28,IPA,A.P.,19.5,82
+2023,2023-07-19,Velebit,Turdus merula,Kos,20,točkasta_metoda,A.P.,21.2,84
+2023,2023-07-19,Velebit,Accipiter gentilis,Jastreb kokošar,6,IPA,I.H.,24.9,55
+2023,2023-07-19,Velebit,Parus major,Velika sjenica,31,transekt,M.K.,20.5,62
+2023,2023-07-19,Velebit,Picus viridis,Zelena žuna,4,transekt,A.P.,23.3,59
+2023,2023-07-20,Plitvice,Cyanistes caeruleus,Plavetna sjenica,21,točkasta_metoda,S.B.,21.4,59
+2023,2023-07-20,Plitvice,Sitta europaea,Brgljez,16,točkasta_metoda,M.K.,20.9,71
+2023,2023-07-20,Plitvice,Accipiter gentilis,Jastreb kokošar,2,točkasta_metoda,M.K.,29.9,81
+2023,2023-07-20,Plitvice,Fringilla coelebs,Zeba,33,IPA,A.P.,23.8,58
+2023,2023-07-20,Plitvice,Anas platyrhynchos,Divlja patka,36,točkasta_metoda,S.B.,16.6,77
+2023,2023-07-21,Velebit,Parus major,Velika sjenica,20,točkasta_metoda,A.P.,21.7,62
+2023,2023-07-21,Velebit,Sitta europaea,Brgljez,12,točkasta_metoda,A.P.,20.1,63
+2023,2023-07-21,Velebit,Dendrocopos major,Veliki djetlić,12,IPA,A.P.,18.8,76
+2023,2023-07-21,Velebit,Phoenicurus ochruros,Crvenrepka,11,transekt,D.T.,21.7,73
+2023,2023-07-21,Velebit,Dryocopus martius,Crna žuna,4,točkasta_metoda,S.B.,21,76
+2023,2023-07-21,Velebit,Cyanistes caeruleus,Plavetna sjenica,19,IPA,S.B.,19.7,84
+2023,2023-07-21,Velebit,Turdus merula,Kos,20,transekt,A.P.,21.6,54
+2023,2023-07-21,Velebit,Erithacus rubecula,Crvendać,17,točkasta_metoda,S.B.,21,65
+2023,2023-07-25,Plitvice,Sitta europaea,Brgljez,21,točkasta_metoda,S.B.,19.6,60
+2023,2023-07-25,Plitvice,Cyanistes caeruleus,Plavetna sjenica,15,IPA,M.K.,25.5,81
+2023,2023-07-25,Plitvice,Corvus corax,Gavran,7,IPA,M.K.,19.1,70
+2023,2023-07-25,Plitvice,Turdus merula,Kos,19,transekt,D.T.,17.3,71
+2023,2023-07-25,Plitvice,Fringilla coelebs,Zeba,37,transekt,S.B.,17.6,59
+2023,2023-07-25,Risnjak,Turdus merula,Kos,22,transekt,M.K.,20.1,61
+2023,2023-07-25,Risnjak,Sitta europaea,Brgljez,13,točkasta_metoda,A.P.,21.6,53
+2023,2023-07-25,Risnjak,Fringilla coelebs,Zeba,42,IPA,S.B.,20.3,72
+2023,2023-07-25,Risnjak,Accipiter gentilis,Jastreb kokošar,7,IPA,I.H.,20,53
+2023,2023-07-25,Risnjak,Erithacus rubecula,Crvendać,17,transekt,D.T.,17.7,68
+2023,2023-07-25,Risnjak,Picus viridis,Zelena žuna,2,IPA,D.T.,19.2,80
+2023,2023-07-25,Risnjak,Phoenicurus ochruros,Crvenrepka,11,točkasta_metoda,S.B.,20.1,75
+2023,2023-07-25,Risnjak,Aquila chrysaetos,Suri orao,1,transekt,I.H.,22.7,57
+2024,2024-03-03,Risnjak,Dryocopus martius,Crna žuna,6,transekt,M.K.,14.4,59
+2024,2024-03-03,Risnjak,Cyanistes caeruleus,Plavetna sjenica,23,transekt,M.K.,14.1,54
+2024,2024-03-03,Risnjak,Erithacus rubecula,Crvendać,15,IPA,I.H.,15.1,77
+2024,2024-03-03,Risnjak,Fringilla coelebs,Zeba,27,transekt,D.T.,14,65
+2024,2024-03-03,Risnjak,Turdus merula,Kos,19,transekt,I.H.,9.9,77
+2024,2024-03-03,Risnjak,Tetrao urogallus,Tetrijeb,4,IPA,I.H.,13.1,69
+2024,2024-03-03,Risnjak,Corvus corax,Gavran,5,točkasta_metoda,S.B.,13.4,63
+2024,2024-03-03,Risnjak,Aquila chrysaetos,Suri orao,1,transekt,A.P.,13.3,52
+2024,2024-03-03,Risnjak,Phoenicurus ochruros,Crvenrepka,10,transekt,I.H.,16,55
+2024,2024-03-04,Velebit,Phoenicurus ochruros,Crvenrepka,15,točkasta_metoda,S.B.,13.9,60
+2024,2024-03-04,Velebit,Fringilla coelebs,Zeba,37,točkasta_metoda,I.H.,15.4,57
+2024,2024-03-04,Velebit,Turdus merula,Kos,25,IPA,A.P.,15.7,56
+2024,2024-03-04,Velebit,Sitta europaea,Brgljez,12,točkasta_metoda,S.B.,17.4,69
+2024,2024-03-04,Velebit,Erithacus rubecula,Crvendać,21,transekt,M.K.,18.7,72
+2024,2024-03-04,Velebit,Dendrocopos major,Veliki djetlić,14,točkasta_metoda,A.P.,15.3,
+2024,2024-03-13,Plitvice,Dendrocopos major,Veliki djetlić,7,transekt,I.H.,11.5,51
+2024,2024-03-13,Plitvice,Aquila chrysaetos,Suri orao,1,točkasta_metoda,A.P.,4.8,63
+2024,2024-03-13,Plitvice,Tetrao urogallus,Tetrijeb,4,transekt,I.H.,17.4,61
+2024,2024-03-13,Plitvice,Cyanistes caeruleus,Plavetna sjenica,15,točkasta_metoda,A.P.,14.9,76
+2024,2024-03-13,Plitvice,Anas platyrhynchos,Divlja patka,22,transekt,A.P.,8.8,80
+2024,2024-03-13,Plitvice,Sitta europaea,Brgljez,16,IPA,I.H.,14,64
+2024,2024-03-13,Plitvice,Turdus merula,Kos,24,transekt,A.P.,14.1,55
+2024,2024-03-13,Plitvice,Parus major,Velika sjenica,33,točkasta_metoda,S.B.,14.1,80
+2024,2024-03-13,Plitvice,Buteo buteo,Škanjac,14,točkasta_metoda,I.H.,15.7,63
+2024,2024-03-13,Plitvice,Corvus corax,Gavran,3,transekt,A.P.,14.7,71
+2024,2024-03-15,Velebit,Sitta europaea,Brgljez,13,transekt,M.K.,17.2,55
+2024,2024-03-15,Velebit,Dendrocopos major,Veliki djetlić,13,transekt,D.T.,20.6,64
+2024,2024-03-15,Velebit,Parus major,Velika sjenica,30,točkasta_metoda,D.T.,16.7,54
+2024,2024-03-15,Velebit,Erithacus rubecula,Crvendać,21,IPA,I.H.,13,81
+2024,2024-03-15,Velebit,Cyanistes caeruleus,Plavetna sjenica,22,točkasta_metoda,S.B.,18.8,75
+2024,2024-03-15,Velebit,Fringilla coelebs,Zeba,24,IPA,S.B.,13.1,77
+2024,2024-03-15,Velebit,Turdus merula,Kos,33,transekt,S.B.,11.5,79
+2024,2024-03-15,Velebit,Accipiter gentilis,Jastreb kokošar,4,točkasta_metoda,I.H.,13.6,57
+2024,2024-03-15,Velebit,Corvus corax,Gavran,8,točkasta_metoda,I.H.,11.6,52
+2024,2024-03-16,Plitvice,Phoenicurus ochruros,Crvenrepka,11,transekt,I.H.,15.4,60
+2024,2024-03-16,Plitvice,Sitta europaea,Brgljez,17,IPA,M.K.,14.6,51
+2024,2024-03-16,Plitvice,Anas platyrhynchos,Divlja patka,35,transekt,A.P.,12.4,83
+2024,2024-03-16,Plitvice,Parus major,Velika sjenica,23,točkasta_metoda,D.T.,15.2,55
+2024,2024-03-16,Plitvice,Corvus corax,Gavran,9,transekt,A.P.,13.3,55
+2024,2024-03-16,Plitvice,Strix Uralskaensis,Uralska sova,1,IPA,S.B.,18.5,57
+2024,2024-03-16,Plitvice,Aquila chrysaetos,Suri orao,1,transekt,S.B.,14.3,76
+2024,2024-03-18,Plitvice,Tetrao urogallus,Tetrijeb,1,IPA,D.T.,12,80
+2024,2024-03-18,Plitvice,Anas platyrhynchos,Divlja patka,28,IPA,M.K.,18.3,53
+2024,2024-03-18,Plitvice,Alcedo atthis,Vodomar,3,točkasta_metoda,S.B.,18.4,60
+2024,2024-03-18,Plitvice,Fringilla coelebs,Zeba,29,transekt,A.P.,15.5,61
+2024,2024-03-18,Plitvice,Dendrocopos major,Veliki djetlić,15,transekt,A.P.,10.6,66
+2024,2024-03-18,Plitvice,Parus major,Velika sjenica,32,IPA,S.B.,15,77
+2024,2024-03-18,Plitvice,Corvus corax,Gavran,12,transekt,D.T.,12.1,62
+2024,2024-03-18,Plitvice,Erithacus rubecula,Crvendać,11,transekt,D.T.,16.7,53
+2024,2024-03-18,Plitvice,Strix Uralskaensis,Uralska sova,3,IPA,A.P.,11.6,72
+2024,2024-03-18,Plitvice,Phoenicurus ochruros,Crvenrepka,11,transekt,A.P.,11.7,54
+2024,2024-03-24,Velebit,Cyanistes caeruleus,Plavetna sjenica,19,IPA,S.B.,13.7,59
+2024,2024-03-24,Velebit,Buteo buteo,Škanjac,10,IPA,S.B.,12.3,52
+2024,2024-03-24,Velebit,Sitta europaea,Brgljez,14,transekt,S.B.,18.3,65
+2024,2024-03-24,Velebit,Parus major,Velika sjenica,18,točkasta_metoda,A.P.,15.7,66
+2024,2024-03-24,Velebit,Strix Uralskaensis,Uralska sova,1,točkasta_metoda,D.T.,14.9,69
+2024,2024-03-24,Velebit,Picus viridis,Zelena žuna,4,točkasta_metoda,M.K.,10.3,81
+2024,2024-03-24,Velebit,Fringilla coelebs,Zeba,42,točkasta_metoda,A.P.,15.6,57
+2024,2024-03-24,Velebit,Dryocopus martius,Crna žuna,5,IPA,A.P.,14.4,59
+2024,2024-04-01,Velebit,Aquila chrysaetos,Suri orao,1,točkasta_metoda,I.H.,15.8,63
+2024,2024-04-01,Velebit,Cyanistes caeruleus,Plavetna sjenica,21,transekt,D.T.,18.3,57
+2024,2024-04-01,Velebit,Fringilla coelebs,Zeba,40,transekt,D.T.,14.9,76
+2024,2024-04-01,Velebit,Picus viridis,Zelena žuna,8,transekt,M.K.,12.3,79
+2024,2024-04-01,Velebit,Turdus merula,Kos,20,točkasta_metoda,S.B.,11.2,71
+2024,2024-04-01,Velebit,Parus major,Velika sjenica,27,točkasta_metoda,M.K.,16,63
+2024,2024-04-01,Velebit,Erithacus rubecula,Crvendać,12,IPA,M.K.,12.7,64
+2024,2024-04-11,Plitvice,Fringilla coelebs,Zeba,29,točkasta_metoda,S.B.,12.9,58
+2024,2024-04-11,Plitvice,Aquila chrysaetos,Suri orao,1,točkasta_metoda,D.T.,15.9,64
+2024,2024-04-11,Plitvice,Parus major,Velika sjenica,23,IPA,I.H.,14.4,85
+2024,2024-04-11,Plitvice,Dendrocopos major,Veliki djetlić,10,transekt,S.B.,21.1,54
+2024,2024-04-11,Plitvice,Turdus merula,Kos,25,IPA,I.H.,15.2,56
+2024,2024-04-11,Plitvice,Sitta europaea,Brgljez,11,transekt,S.B.,14.8,69
+2024,2024-04-11,Plitvice,Erithacus rubecula,Crvendać,11,točkasta_metoda,D.T.,21.6,70
+2024,2024-04-11,Plitvice,Accipiter gentilis,Jastreb kokošar,5,IPA,M.K.,16.2,64
+2024,2024-04-11,Plitvice,Strix Uralskaensis,Uralska sova,1,točkasta_metoda,A.P.,19.2,81
+2024,2024-04-11,Risnjak,Accipiter gentilis,Jastreb kokošar,8,transekt,M.K.,20.4,65
+2024,2024-04-11,Risnjak,Corvus corax,Gavran,7,točkasta_metoda,M.K.,16.2,51
+2024,2024-04-11,Risnjak,Turdus merula,Kos,24,IPA,M.K.,14.5,73
+2024,2024-04-11,Risnjak,Sitta europaea,Brgljez,5,transekt,A.P.,14.4,55
+2024,2024-04-11,Risnjak,Phoenicurus ochruros,Crvenrepka,8,točkasta_metoda,D.T.,14.7,71
+2024,2024-04-11,Risnjak,Fringilla coelebs,Zeba,37,točkasta_metoda,S.B.,15.2,80
+2024,2024-04-11,Risnjak,Aquila chrysaetos,Suri orao,2,transekt,S.B.,18.9,71
+2024,2024-04-11,Risnjak,Dendrocopos major,Veliki djetlić,12,IPA,S.B.,12.2,72
+2024,2024-04-11,Risnjak,Cyanistes caeruleus,Plavetna sjenica,27,IPA,S.B.,13.8,74
+2024,2024-04-14,Plitvice,Fringilla coelebs,Zeba,21,transekt,S.B.,19.9,83
+2024,2024-04-14,Plitvice,Phoenicurus ochruros,Crvenrepka,7,transekt,A.P.,12.5,57
+2024,2024-04-14,Plitvice,Parus major,Velika sjenica,32,transekt,S.B.,14.5,83
+2024,2024-04-14,Plitvice,Erithacus rubecula,Crvendać,17,transekt,M.K.,18.4,71
+2024,2024-04-14,Plitvice,Sitta europaea,Brgljez,9,točkasta_metoda,M.K.,17.3,79
+2024,2024-04-14,Plitvice,Turdus merula,Kos,22,IPA,D.T.,19.5,82
+2024,2024-04-14,Plitvice,Anas platyrhynchos,Divlja patka,27,IPA,S.B.,16.7,81
+2024,2024-04-14,Plitvice,Cyanistes caeruleus,Plavetna sjenica,19,točkasta_metoda,M.K.,12.8,78
+2024,2024-04-16,Plitvice,Fringilla coelebs,Zeba,32,točkasta_metoda,A.P.,16.2,56
+2024,2024-04-16,Plitvice,Anas platyrhynchos,Divlja patka,35,točkasta_metoda,D.T.,16.6,65
+2024,2024-04-16,Plitvice,Sitta europaea,Brgljez,21,transekt,M.K.,14.5,57
+2024,2024-04-16,Plitvice,Dendrocopos major,Veliki djetlić,5,IPA,S.B.,15.2,69
+2024,2024-04-16,Plitvice,Buteo buteo,Škanjac,13,transekt,A.P.,18.3,84
+2024,2024-04-16,Plitvice,Tetrao urogallus,Tetrijeb,5,transekt,D.T.,18.8,69
+2024,2024-04-16,Plitvice,Dryocopus martius,Crna žuna,5,IPA,S.B.,15.3,79
+2024,2024-04-16,Plitvice,Turdus merula,Kos,19,točkasta_metoda,I.H.,15.5,84
+2024,2024-04-16,Plitvice,Aquila chrysaetos,Suri orao,3,IPA,I.H.,14.1,54
+2024,2024-04-16,Plitvice,Picus viridis,Zelena žuna,4,točkasta_metoda,M.K.,14.9,82
+2024,2024-04-20,Velebit,Strix Uralskaensis,Uralska sova,3,točkasta_metoda,D.T.,13.1,62
+2024,2024-04-20,Velebit,Sitta europaea,Brgljez,13,transekt,I.H.,17.3,78
+2024,2024-04-20,Velebit,Erithacus rubecula,Crvendać,20,transekt,S.B.,11.6,85
+2024,2024-04-20,Velebit,Turdus merula,Kos,23,točkasta_metoda,D.T.,17.5,76
+2024,2024-04-20,Velebit,Phoenicurus ochruros,Crvenrepka,10,transekt,S.B.,18.2,74
+2024,2024-04-20,Velebit,Cyanistes caeruleus,Plavetna sjenica,19,transekt,S.B.,12.1,65
+2024,2024-04-20,Velebit,Fringilla coelebs,Zeba,30,IPA,M.K.,15,77
+2024,2024-04-21,Risnjak,Fringilla coelebs,Zeba,26,IPA,S.B.,18.4,62
+2024,2024-04-21,Risnjak,Parus major,Velika sjenica,26,točkasta_metoda,D.T.,18.1,58
+2024,2024-04-21,Risnjak,Phoenicurus ochruros,Crvenrepka,12,transekt,I.H.,17.6,74
+2024,2024-04-21,Risnjak,Erithacus rubecula,Crvendać,18,točkasta_metoda,A.P.,10.9,67
+2024,2024-04-21,Risnjak,Buteo buteo,Škanjac,11,točkasta_metoda,M.K.,17.3,60
+2024,2024-04-21,Risnjak,Turdus merula,Kos,32,transekt,I.H.,17.2,76
+2024,2024-04-21,Risnjak,Strix Uralskaensis,Uralska sova,6,transekt,A.P.,12.9,63
+2024,2024-04-21,Risnjak,Corvus corax,Gavran,5,točkasta_metoda,S.B.,21.3,58
+2024,2024-04-21,Risnjak,Accipiter gentilis,Jastreb kokošar,7,IPA,D.T.,16.9,56
+2024,2024-04-23,Velebit,Turdus merula,Kos,22,transekt,A.P.,15,53
+2024,2024-04-23,Velebit,Aquila chrysaetos,Suri orao,1,IPA,A.P.,21.9,52
+2024,2024-04-23,Velebit,Picus viridis,Zelena žuna,3,IPA,I.H.,12.8,56
+2024,2024-04-23,Velebit,Erithacus rubecula,Crvendać,9,transekt,M.K.,15.3,75
+2024,2024-04-23,Velebit,Phoenicurus ochruros,Crvenrepka,6,transekt,I.H.,17.9,64
+2024,2024-04-23,Velebit,Dendrocopos major,Veliki djetlić,12,IPA,S.B.,20.4,68
+2024,2024-04-23,Velebit,Parus major,Velika sjenica,35,transekt,S.B.,10.8,83
+2024,2024-04-23,Velebit,Fringilla coelebs,Zeba,31,IPA,A.P.,16.3,65
+2024,2024-04-25,Plitvice,Sitta europaea,Brgljez,13,točkasta_metoda,D.T.,17.2,79
+2024,2024-04-25,Plitvice,Cyanistes caeruleus,Plavetna sjenica,27,točkasta_metoda,A.P.,16,77
+2024,2024-04-25,Plitvice,Fringilla coelebs,Zeba,27,transekt,I.H.,14.3,62
+2024,2024-04-25,Plitvice,Accipiter gentilis,Jastreb kokošar,3,transekt,I.H.,18.4,52
+2024,2024-04-25,Plitvice,Erithacus rubecula,Crvendać,12,IPA,A.P.,16.1,59
+2024,2024-04-25,Plitvice,Turdus merula,Kos,27,IPA,S.B.,16.1,60
+2024,2024-04-26,Velebit,Strix Uralskaensis,Uralska sova,2,IPA,A.P.,13.3,85
+2024,2024-04-26,Velebit,Sitta europaea,Brgljez,8,transekt,M.K.,14.8,66
+2024,2024-04-26,Velebit,Parus major,Velika sjenica,23,točkasta_metoda,S.B.,17.2,62
+2024,2024-04-26,Velebit,Accipiter gentilis,Jastreb kokošar,9,IPA,D.T.,14.5,63
+2024,2024-04-26,Velebit,Picus viridis,Zelena žuna,6,transekt,I.H.,16.2,69
+2024,2024-04-26,Velebit,Phoenicurus ochruros,Crvenrepka,16,IPA,I.H.,14.3,64
+2024,2024-04-26,Velebit,Fringilla coelebs,Zeba,35,točkasta_metoda,I.H.,12.6,67
+2024,2024-04-26,Velebit,Tetrao urogallus,Tetrijeb,1,točkasta_metoda,D.T.,18.5,56
+2024,2024-04-28,Risnjak,Dendrocopos major,Veliki djetlić,17,transekt,D.T.,20.9,73
+2024,2024-04-28,Risnjak,Erithacus rubecula,Crvendać,17,IPA,M.K.,19,79
+2024,2024-04-28,Risnjak,Fringilla coelebs,Zeba,35,IPA,A.P.,16.5,52
+2024,2024-04-28,Risnjak,Cyanistes caeruleus,Plavetna sjenica,17,točkasta_metoda,S.B.,13.4,60
+2024,2024-04-28,Risnjak,Tetrao urogallus,Tetrijeb,3,točkasta_metoda,M.K.,18.8,64
+2024,2024-04-28,Risnjak,Parus major,Velika sjenica,22,IPA,D.T.,18.6,82
+2024,2024-04-28,Risnjak,Phoenicurus ochruros,Crvenrepka,14,transekt,A.P.,10.9,76
+2024,2024-04-28,Risnjak,Aquila chrysaetos,Suri orao,1,točkasta_metoda,M.K.,15.8,81
+2024,2024-04-28,Risnjak,Turdus merula,Kos,21,IPA,A.P.,10.1,56
+2024,2024-05-07,Velebit,Dendrocopos major,Veliki djetlić,23,IPA,D.T.,14.1,79
+2024,2024-05-07,Velebit,Tetrao urogallus,Tetrijeb,4,točkasta_metoda,A.P.,20.3,81
+2024,2024-05-07,Velebit,Sitta europaea,Brgljez,19,transekt,S.B.,10.7,73
+2024,2024-05-07,Velebit,Buteo buteo,Škanjac,18,točkasta_metoda,S.B.,16.9,82
+2024,2024-05-07,Velebit,Dryocopus martius,Crna žuna,6,transekt,D.T.,18.8,75
+2024,2024-05-07,Velebit,Corvus corax,Gavran,11,točkasta_metoda,A.P.,14.5,66
+2024,2024-05-07,Velebit,Cyanistes caeruleus,Plavetna sjenica,29,točkasta_metoda,M.K.,18.5,53
+2024,2024-05-07,Velebit,Fringilla coelebs,Zeba,57,transekt,S.B.,18.9,76
+2024,2024-05-07,Velebit,Turdus merula,Kos,28,točkasta_metoda,D.T.,16.4,51
+2024,2024-05-09,Velebit,Dryocopus martius,Crna žuna,5,točkasta_metoda,D.T.,12.9,62
+2024,2024-05-09,Velebit,Accipiter gentilis,Jastreb kokošar,6,transekt,I.H.,16.3,78
+2024,2024-05-09,Velebit,Dendrocopos major,Veliki djetlić,13,transekt,A.P.,16.8,62
+2024,2024-05-09,Velebit,Erithacus rubecula,Crvendać,21,točkasta_metoda,M.K.,10.7,71
+2024,2024-05-09,Velebit,Aquila chrysaetos,Suri orao,3,točkasta_metoda,S.B.,14.6,51
+2024,2024-05-09,Velebit,Turdus merula,Kos,37,transekt,S.B.,18.3,80
+2024,2024-05-09,Velebit,Strix Uralskaensis,Uralska sova,2,točkasta_metoda,I.H.,13.6,77
+2024,2024-05-09,Velebit,Picus viridis,Zelena žuna,7,IPA,I.H.,21.7,51
+2024,2024-05-09,Velebit,Fringilla coelebs,Zeba,48,IPA,D.T.,23.4,57
+2024,2024-05-12,Velebit,Tetrao urogallus,Tetrijeb,10,točkasta_metoda,M.K.,18.5,80
+2024,2024-05-12,Velebit,Turdus merula,Kos,52,transekt,S.B.,15.6,68
+2024,2024-05-12,Velebit,Cyanistes caeruleus,Plavetna sjenica,32,točkasta_metoda,D.T.,13,62
+2024,2024-05-12,Velebit,Fringilla coelebs,Zeba,45,točkasta_metoda,M.K.,19.3,66
+2024,2024-05-12,Velebit,Parus major,Velika sjenica,44,točkasta_metoda,D.T.,,78
+2024,2024-05-12,Velebit,Corvus corax,Gavran,10,točkasta_metoda,S.B.,13.6,76
+2024,2024-05-12,Velebit,Aquila chrysaetos,Suri orao,2,transekt,I.H.,18.1,53
+2024,2024-05-12,Velebit,Phoenicurus ochruros,Crvenrepka,11,točkasta_metoda,I.H.,12,77
+2024,2024-05-12,Velebit,Strix Uralskaensis,Uralska sova,3,IPA,D.T.,15.1,68
+2024,2024-05-12,Velebit,Buteo buteo,Škanjac,9,IPA,I.H.,22.9,84
+2024,2024-05-12,Velebit,Dryocopus martius,Crna žuna,5,transekt,A.P.,18.1,72
+2024,2024-05-14,Risnjak,Dryocopus martius,Crna žuna,11,točkasta_metoda,D.T.,16,66
+2024,2024-05-14,Risnjak,Turdus merula,Kos,30,transekt,M.K.,17.9,73
+2024,2024-05-14,Risnjak,Sitta europaea,Brgljez,24,točkasta_metoda,I.H.,18.2,57
+2024,2024-05-14,Risnjak,Strix Uralskaensis,Uralska sova,5,IPA,D.T.,16.6,55
+2024,2024-05-14,Risnjak,Accipiter gentilis,Jastreb kokošar,6,IPA,S.B.,17.3,61
+2024,2024-05-14,Risnjak,Erithacus rubecula,Crvendać,21,transekt,A.P.,23,77
+2024,2024-05-14,Risnjak,Buteo buteo,Škanjac,11,transekt,I.H.,13.6,83
+2024,2024-05-14,Risnjak,Dendrocopos major,Veliki djetlić,19,transekt,M.K.,19.8,56
+2024,2024-05-14,Risnjak,Picus viridis,Zelena žuna,7,točkasta_metoda,A.P.,22,65
+2024,2024-05-14,Risnjak,Phoenicurus ochruros,Crvenrepka,17,IPA,D.T.,19.5,55
+2024,2024-05-15,Risnjak,Tetrao urogallus,Tetrijeb,6,transekt,M.K.,18.4,70
+2024,2024-05-15,Risnjak,Sitta europaea,Brgljez,12,točkasta_metoda,M.K.,15.9,61
+2024,2024-05-15,Risnjak,Phoenicurus ochruros,Crvenrepka,14,točkasta_metoda,A.P.,19.5,60
+2024,2024-05-15,Risnjak,Buteo buteo,Škanjac,15,točkasta_metoda,D.T.,17.9,84
+2024,2024-05-15,Risnjak,Corvus corax,Gavran,7,točkasta_metoda,I.H.,17,63
+2024,2024-05-15,Risnjak,Cyanistes caeruleus,Plavetna sjenica,21,transekt,A.P.,16.2,65
+2024,2024-05-15,Risnjak,Parus major,Velika sjenica,39,transekt,S.B.,14.2,82
+2024,2024-05-15,Risnjak,Strix Uralskaensis,Uralska sova,6,transekt,M.K.,17,60
+2024,2024-05-20,Risnjak,Picus viridis,Zelena žuna,8,transekt,I.H.,14,84
+2024,2024-05-20,Risnjak,Fringilla coelebs,Zeba,47,točkasta_metoda,D.T.,22.1,62
+2024,2024-05-20,Risnjak,Accipiter gentilis,Jastreb kokošar,5,IPA,I.H.,17.8,84
+2024,2024-05-20,Risnjak,Sitta europaea,Brgljez,22,točkasta_metoda,I.H.,19.2,57
+2024,2024-05-20,Risnjak,Dendrocopos major,Veliki djetlić,25,IPA,M.K.,23.5,69
+2024,2024-05-20,Risnjak,Cyanistes caeruleus,Plavetna sjenica,31,točkasta_metoda,A.P.,16.8,61
+2024,2024-05-20,Risnjak,Parus major,Velika sjenica,45,transekt,I.H.,15.6,56
+2024,2024-05-20,Risnjak,Phoenicurus ochruros,Crvenrepka,11,IPA,I.H.,21.9,78
+2024,2024-05-20,Risnjak,Erithacus rubecula,Crvendać,33,točkasta_metoda,A.P.,23.1,64
+2024,2024-05-20,Risnjak,Turdus merula,Kos,37,točkasta_metoda,I.H.,20.8,57
+2024,2024-05-21,Risnjak,Cyanistes caeruleus,Plavetna sjenica,31,transekt,D.T.,17.6,70
+2024,2024-05-21,Risnjak,Picus viridis,Zelena žuna,4,transekt,M.K.,14.5,74
+2024,2024-05-21,Risnjak,Parus major,Velika sjenica,37,IPA,I.H.,14.5,68
+2024,2024-05-21,Risnjak,Sitta europaea,Brgljez,17,transekt,I.H.,18.5,60
+2024,2024-05-21,Risnjak,Turdus merula,Kos,33,IPA,D.T.,20.7,84
+2024,2024-05-21,Risnjak,Phoenicurus ochruros,Crvenrepka,22,transekt,A.P.,16.2,76
+2024,2024-05-21,Risnjak,Fringilla coelebs,Zeba,48,transekt,M.K.,13,68
+2024,2024-05-21,Risnjak,Tetrao urogallus,Tetrijeb,6,transekt,S.B.,15.1,68
+2024,2024-05-21,Risnjak,Dryocopus martius,Crna žuna,5,IPA,I.H.,19.3,66
+2024,2024-05-23,Risnjak,Aquila chrysaetos,Suri orao,2,IPA,M.K.,17.1,50
+2024,2024-05-23,Risnjak,Fringilla coelebs,Zeba,69,transekt,M.K.,19,56
+2024,2024-05-23,Risnjak,Sitta europaea,Brgljez,26,transekt,A.P.,15.2,84
+2024,2024-05-23,Risnjak,Accipiter gentilis,Jastreb kokošar,12,IPA,A.P.,19.2,51
+2024,2024-05-23,Risnjak,Strix Uralskaensis,Uralska sova,4,IPA,M.K.,14.3,53
+2024,2024-05-23,Risnjak,Parus major,Velika sjenica,41,IPA,D.T.,11.9,72
+2024,2024-05-23,Risnjak,Picus viridis,Zelena žuna,14,IPA,M.K.,18.8,79
+2024,2024-05-23,Risnjak,Erithacus rubecula,Crvendać,25,transekt,D.T.,17.9,56
+2024,2024-05-24,Risnjak,Sitta europaea,Brgljez,24,točkasta_metoda,S.B.,20.9,82
+2024,2024-05-24,Risnjak,Corvus corax,Gavran,16,transekt,S.B.,23.7,50
+2024,2024-05-24,Risnjak,Fringilla coelebs,Zeba,44,IPA,A.P.,15,57
+2024,2024-05-24,Risnjak,Cyanistes caeruleus,Plavetna sjenica,28,IPA,D.T.,22.4,54
+2024,2024-05-24,Risnjak,Turdus merula,Kos,29,IPA,S.B.,16.1,57
+2024,2024-05-24,Risnjak,Buteo buteo,Škanjac,9,transekt,S.B.,11.5,77
+2024,2024-05-24,Risnjak,Tetrao urogallus,Tetrijeb,4,točkasta_metoda,A.P.,17.9,53
+2024,2024-05-24,Risnjak,Aquila chrysaetos,Suri orao,2,IPA,A.P.,12.9,62
+2024,2024-05-24,Risnjak,Phoenicurus ochruros,Crvenrepka,12,transekt,S.B.,14.7,51
+2024,2024-05-24,Risnjak,Dendrocopos major,Veliki djetlić,16,IPA,M.K.,17.9,75
+2024,2024-05-24,Risnjak,Dryocopus martius,Crna žuna,6,IPA,A.P.,15.2,54
+2024,2024-05-26,Plitvice,Cyanistes caeruleus,Plavetna sjenica,30,transekt,M.K.,13.3,80
+2024,2024-05-26,Plitvice,Turdus merula,Kos,34,točkasta_metoda,I.H.,18.9,64
+2024,2024-05-26,Plitvice,Dryocopus martius,Crna žuna,13,transekt,S.B.,19.2,55
+2024,2024-05-26,Plitvice,Aquila chrysaetos,Suri orao,4,točkasta_metoda,A.P.,16.9,61
+2024,2024-05-26,Plitvice,Erithacus rubecula,Crvendać,24,točkasta_metoda,D.T.,15.7,66
+2024,2024-05-26,Plitvice,Accipiter gentilis,Jastreb kokošar,4,transekt,M.K.,15.9,83
+2024,2024-05-26,Plitvice,Dendrocopos major,Veliki djetlić,16,transekt,I.H.,19,84
+2024,2024-05-26,Plitvice,Parus major,Velika sjenica,47,transekt,A.P.,22.6,60
+2024,2024-05-26,Plitvice,Strix Uralskaensis,Uralska sova,6,transekt,M.K.,13.8,69
+2024,2024-06-02,Velebit,Sitta europaea,Brgljez,12,IPA,I.H.,14.8,64
+2024,2024-06-02,Velebit,Cyanistes caeruleus,Plavetna sjenica,25,točkasta_metoda,A.P.,20.4,82
+2024,2024-06-02,Velebit,Dendrocopos major,Veliki djetlić,18,IPA,I.H.,15.5,66
+2024,2024-06-02,Velebit,Phoenicurus ochruros,Crvenrepka,11,transekt,M.K.,18,85
+2024,2024-06-02,Velebit,Strix Uralskaensis,Uralska sova,6,IPA,I.H.,18.9,78
+2024,2024-06-02,Velebit,Accipiter gentilis,Jastreb kokošar,2,IPA,M.K.,14.8,77
+2024,2024-06-02,Velebit,Fringilla coelebs,Zeba,55,IPA,A.P.,19.2,78
+2024,2024-06-02,Velebit,Picus viridis,Zelena žuna,11,IPA,S.B.,22.9,63
+2024,2024-06-02,Velebit,Aquila chrysaetos,Suri orao,4,transekt,M.K.,16.9,84
+2024,2024-06-02,Velebit,Turdus merula,Kos,46,točkasta_metoda,S.B.,24,74
+2024,2024-06-02,Velebit,Erithacus rubecula,Crvendać,31,točkasta_metoda,A.P.,19.8,85
+2024,2024-06-03,Risnjak,Erithacus rubecula,Crvendać,27,točkasta_metoda,I.H.,18.3,53
+2024,2024-06-03,Risnjak,Picus viridis,Zelena žuna,11,točkasta_metoda,M.K.,15.3,70
+2024,2024-06-03,Risnjak,Turdus merula,Kos,41,IPA,D.T.,17.8,65
+2024,2024-06-03,Risnjak,Phoenicurus ochruros,Crvenrepka,15,transekt,S.B.,21.2,77
+2024,2024-06-03,Risnjak,Tetrao urogallus,Tetrijeb,3,točkasta_metoda,D.T.,16.4,52
+2024,2024-06-03,Risnjak,Buteo buteo,Škanjac,7,transekt,I.H.,22.6,58
+2024,2024-06-03,Risnjak,Aquila chrysaetos,Suri orao,7,IPA,I.H.,19,70
+2024,2024-06-03,Risnjak,Parus major,Velika sjenica,41,transekt,M.K.,19,62
+2024,2024-06-03,Risnjak,Dendrocopos major,Veliki djetlić,13,transekt,I.H.,19.5,68
+2024,2024-06-03,Risnjak,Strix Uralskaensis,Uralska sova,10,transekt,I.H.,18.9,61
+2024,2024-06-03,Risnjak,Fringilla coelebs,Zeba,49,IPA,D.T.,17.5,63
+2024,2024-06-03,Risnjak,Cyanistes caeruleus,Plavetna sjenica,30,IPA,S.B.,23.8,54
+2024,2024-06-05,Plitvice,Parus major,Velika sjenica,45,transekt,D.T.,20.2,54
+2024,2024-06-05,Plitvice,Cyanistes caeruleus,Plavetna sjenica,35,točkasta_metoda,A.P.,18.8,65
+2024,2024-06-05,Plitvice,Accipiter gentilis,Jastreb kokošar,5,transekt,D.T.,17.8,74
+2024,2024-06-05,Plitvice,Alcedo atthis,Vodomar,10,transekt,S.B.,20.2,81
+2024,2024-06-05,Plitvice,Buteo buteo,Škanjac,13,IPA,A.P.,16,76
+2024,2024-06-05,Plitvice,Phoenicurus ochruros,Crvenrepka,8,IPA,S.B.,13.2,80
+2024,2024-06-05,Plitvice,Erithacus rubecula,Crvendać,20,IPA,S.B.,18.2,77
+2024,2024-06-05,Plitvice,Sitta europaea,Brgljez,26,IPA,I.H.,16.7,59
+2024,2024-06-05,Plitvice,Fringilla coelebs,Zeba,38,točkasta_metoda,I.H.,19.5,81
+2024,2024-06-09,Plitvice,Cyanistes caeruleus,Plavetna sjenica,23,IPA,D.T.,20.4,75
+2024,2024-06-09,Plitvice,Turdus merula,Kos,35,IPA,D.T.,17.2,81
+2024,2024-06-09,Plitvice,Sitta europaea,Brgljez,27,IPA,I.H.,20.5,66
+2024,2024-06-09,Plitvice,Alcedo atthis,Vodomar,4,točkasta_metoda,D.T.,22.3,81
+2024,2024-06-09,Plitvice,Parus major,Velika sjenica,41,točkasta_metoda,A.P.,18.8,75
+2024,2024-06-09,Plitvice,Erithacus rubecula,Crvendać,25,transekt,D.T.,14,69
+2024,2024-06-09,Plitvice,Buteo buteo,Škanjac,13,IPA,I.H.,19.9,57
+2024,2024-06-09,Plitvice,Phoenicurus ochruros,Crvenrepka,14,transekt,D.T.,17.2,56
+2024,2024-06-09,Plitvice,Corvus corax,Gavran,11,transekt,S.B.,18.8,79
+2024,2024-06-09,Risnjak,Tetrao urogallus,Tetrijeb,3,transekt,A.P.,17,
+2024,2024-06-09,Risnjak,Buteo buteo,Škanjac,11,IPA,I.H.,13.2,60
+2024,2024-06-09,Risnjak,Cyanistes caeruleus,Plavetna sjenica,23,transekt,D.T.,16.9,53
+2024,2024-06-09,Risnjak,Fringilla coelebs,Zeba,43,točkasta_metoda,I.H.,20.8,61
+2024,2024-06-09,Risnjak,Aquila chrysaetos,Suri orao,4,IPA,D.T.,16.8,76
+2024,2024-06-09,Risnjak,Turdus merula,Kos,29,IPA,I.H.,20.1,75
+2024,2024-06-09,Risnjak,Picus viridis,Zelena žuna,11,točkasta_metoda,S.B.,15.5,74
+2024,2024-06-09,Risnjak,Dendrocopos major,Veliki djetlić,17,IPA,I.H.,15,70
+2024,2024-06-09,Risnjak,Erithacus rubecula,Crvendać,25,transekt,M.K.,20.8,58
+2024,2024-06-09,Risnjak,Corvus corax,Gavran,5,transekt,I.H.,15.7,84
+2024,2024-06-09,Risnjak,Strix Uralskaensis,Uralska sova,3,IPA,D.T.,16.9,69
+2024,2024-06-09,Risnjak,Sitta europaea,Brgljez,28,transekt,S.B.,21,82
+2024,2024-06-13,Plitvice,Picus viridis,Zelena žuna,8,IPA,S.B.,22.5,57
+2024,2024-06-13,Plitvice,Anas platyrhynchos,Divlja patka,38,točkasta_metoda,D.T.,23.3,70
+2024,2024-06-13,Plitvice,Parus major,Velika sjenica,51,točkasta_metoda,I.H.,18.8,74
+2024,2024-06-13,Plitvice,Dryocopus martius,Crna žuna,7,točkasta_metoda,S.B.,21.1,78
+2024,2024-06-13,Plitvice,Accipiter gentilis,Jastreb kokošar,1,točkasta_metoda,I.H.,21.3,75
+2024,2024-06-13,Plitvice,Cyanistes caeruleus,Plavetna sjenica,23,točkasta_metoda,M.K.,25.4,55
+2024,2024-06-13,Plitvice,Turdus merula,Kos,28,transekt,I.H.,18,58
+2024,2024-06-13,Plitvice,Fringilla coelebs,Zeba,43,IPA,A.P.,16.6,77
+2024,2024-06-16,Velebit,Parus major,Velika sjenica,44,transekt,S.B.,23.6,53
+2024,2024-06-16,Velebit,Fringilla coelebs,Zeba,52,točkasta_metoda,M.K.,15.4,80
+2024,2024-06-16,Velebit,Erithacus rubecula,Crvendać,27,transekt,A.P.,21.3,71
+2024,2024-06-16,Velebit,Phoenicurus ochruros,Crvenrepka,13,transekt,I.H.,16.6,73
+2024,2024-06-16,Velebit,Dendrocopos major,Veliki djetlić,20,točkasta_metoda,I.H.,19.4,74
+2024,2024-06-16,Velebit,Sitta europaea,Brgljez,22,transekt,M.K.,21,51
+2024,2024-06-16,Velebit,Cyanistes caeruleus,Plavetna sjenica,27,IPA,S.B.,19.6,64
+2024,2024-06-16,Velebit,Corvus corax,Gavran,11,IPA,A.P.,17.7,75
+2024,2024-06-20,Risnjak,Picus viridis,Zelena žuna,13,IPA,M.K.,25.5,62
+2024,2024-06-20,Risnjak,Sitta europaea,Brgljez,27,IPA,S.B.,17.8,67
+2024,2024-06-20,Risnjak,Parus major,Velika sjenica,39,IPA,I.H.,19.4,84
+2024,2024-06-20,Risnjak,Cyanistes caeruleus,Plavetna sjenica,26,točkasta_metoda,D.T.,22.4,65
+2024,2024-06-20,Risnjak,Dendrocopos major,Veliki djetlić,18,transekt,M.K.,19.1,62
+2024,2024-06-20,Risnjak,Turdus merula,Kos,42,IPA,D.T.,22.3,70
+2024,2024-06-20,Risnjak,Accipiter gentilis,Jastreb kokošar,10,točkasta_metoda,M.K.,15.5,51
+2024,2024-06-20,Risnjak,Erithacus rubecula,Crvendać,32,IPA,D.T.,15.9,63
+2024,2024-06-20,Risnjak,Fringilla coelebs,Zeba,45,točkasta_metoda,S.B.,16.4,61
+2024,2024-06-25,Risnjak,Turdus merula,Kos,38,točkasta_metoda,D.T.,17.6,66
+2024,2024-06-25,Risnjak,Dryocopus martius,Crna žuna,5,IPA,M.K.,23.9,62
+2024,2024-06-25,Risnjak,Fringilla coelebs,Zeba,44,IPA,M.K.,15.7,52
+2024,2024-06-25,Risnjak,Phoenicurus ochruros,Crvenrepka,17,IPA,A.P.,27.4,66
+2024,2024-06-25,Risnjak,Cyanistes caeruleus,Plavetna sjenica,26,točkasta_metoda,D.T.,21.5,56
+2024,2024-06-25,Risnjak,Dendrocopos major,Veliki djetlić,26,transekt,I.H.,20,58
+2024,2024-06-25,Risnjak,Aquila chrysaetos,Suri orao,1,IPA,I.H.,16.6,84
+2024,2024-06-25,Risnjak,Sitta europaea,Brgljez,32,transekt,A.P.,18.8,83
+2024,2024-06-25,Risnjak,Picus viridis,Zelena žuna,6,točkasta_metoda,M.K.,21.3,78
+2024,2024-06-25,Risnjak,Corvus corax,Gavran,9,točkasta_metoda,I.H.,20.2,77
+2024,2024-06-28,Risnjak,Fringilla coelebs,Zeba,52,IPA,S.B.,18.1,79
+2024,2024-06-28,Risnjak,Cyanistes caeruleus,Plavetna sjenica,30,IPA,M.K.,15.3,73
+2024,2024-06-28,Risnjak,Parus major,Velika sjenica,41,transekt,D.T.,17.6,65
+2024,2024-06-28,Risnjak,Erithacus rubecula,Crvendać,20,transekt,M.K.,20.8,59
+2024,2024-06-28,Risnjak,Phoenicurus ochruros,Crvenrepka,12,točkasta_metoda,S.B.,16.9,80
+2024,2024-06-28,Risnjak,Dendrocopos major,Veliki djetlić,21,transekt,A.P.,24.4,72
+2024,2024-06-28,Risnjak,Turdus merula,Kos,39,transekt,S.B.,22.4,56
+2024,2024-06-28,Risnjak,Picus viridis,Zelena žuna,9,IPA,M.K.,18.4,75
+2024,2024-06-28,Risnjak,Buteo buteo,Škanjac,5,IPA,A.P.,16.1,73
+2024,2024-06-28,Risnjak,Sitta europaea,Brgljez,19,transekt,D.T.,21.2,54
+2024,2024-07-03,Plitvice,Fringilla coelebs,Zeba,27,IPA,D.T.,26.3,72
+2024,2024-07-03,Plitvice,Dryocopus martius,Crna žuna,8,IPA,M.K.,19.6,61
+2024,2024-07-03,Plitvice,Buteo buteo,Škanjac,11,IPA,D.T.,19.2,55
+2024,2024-07-03,Plitvice,Anas platyrhynchos,Divlja patka,27,transekt,A.P.,17.8,66
+2024,2024-07-03,Plitvice,Accipiter gentilis,Jastreb kokošar,4,IPA,M.K.,19.5,65
+2024,2024-07-07,Plitvice,Alcedo atthis,Vodomar,8,transekt,I.H.,22.9,79
+2024,2024-07-07,Plitvice,Parus major,Velika sjenica,35,točkasta_metoda,A.P.,20.6,61
+2024,2024-07-07,Plitvice,Anas platyrhynchos,Divlja patka,32,točkasta_metoda,M.K.,21.3,79
+2024,2024-07-07,Plitvice,Picus viridis,Zelena žuna,2,transekt,M.K.,19.6,79
+2024,2024-07-07,Plitvice,Fringilla coelebs,Zeba,21,IPA,A.P.,30.6,82
+2024,2024-07-07,Plitvice,Turdus merula,Kos,11,točkasta_metoda,D.T.,22,65
+2024,2024-07-12,Velebit,Fringilla coelebs,Zeba,38,točkasta_metoda,D.T.,20,61
+2024,2024-07-12,Velebit,Cyanistes caeruleus,Plavetna sjenica,28,transekt,M.K.,22.6,55
+2024,2024-07-12,Velebit,Sitta europaea,Brgljez,15,transekt,M.K.,16.8,72
+2024,2024-07-12,Velebit,Dendrocopos major,Veliki djetlić,16,točkasta_metoda,A.P.,,51
+2024,2024-07-12,Velebit,Turdus merula,Kos,27,transekt,A.P.,22.9,57
+2024,2024-07-12,Velebit,Aquila chrysaetos,Suri orao,1,transekt,I.H.,22.1,80
+2024,2024-07-12,Velebit,Picus viridis,Zelena žuna,6,IPA,I.H.,14.8,78
+2024,2024-07-12,Velebit,Parus major,Velika sjenica,27,IPA,D.T.,17.4,72
+2024,2024-07-14,Plitvice,Accipiter gentilis,Jastreb kokošar,10,transekt,S.B.,20.7,74
+2024,2024-07-14,Plitvice,Fringilla coelebs,Zeba,24,transekt,M.K.,22.4,77
+2024,2024-07-14,Plitvice,Turdus merula,Kos,29,IPA,D.T.,17.9,85
+2024,2024-07-14,Plitvice,Aquila chrysaetos,Suri orao,2,točkasta_metoda,D.T.,20.8,80
+2024,2024-07-14,Plitvice,Buteo buteo,Škanjac,8,IPA,S.B.,23.1,67
+2024,2024-07-14,Plitvice,Erithacus rubecula,Crvendać,20,transekt,S.B.,19.8,67
+2024,2024-07-14,Plitvice,Sitta europaea,Brgljez,13,IPA,S.B.,21.5,77
+2024,2024-07-14,Plitvice,Cyanistes caeruleus,Plavetna sjenica,15,transekt,M.K.,18.9,84
+2024,2024-07-14,Velebit,Dryocopus martius,Crna žuna,6,transekt,M.K.,13.9,61
+2024,2024-07-14,Velebit,Fringilla coelebs,Zeba,36,točkasta_metoda,S.B.,19.7,75
+2024,2024-07-14,Velebit,Dendrocopos major,Veliki djetlić,20,IPA,M.K.,18.5,80
+2024,2024-07-14,Velebit,Picus viridis,Zelena žuna,8,IPA,D.T.,21,51
+2024,2024-07-14,Velebit,Tetrao urogallus,Tetrijeb,3,točkasta_metoda,D.T.,20.3,68
+2024,2024-07-14,Velebit,Erithacus rubecula,Crvendać,17,transekt,M.K.,20.7,62
+2024,2024-07-14,Velebit,Parus major,Velika sjenica,28,IPA,I.H.,14.5,70
+2024,2024-07-14,Velebit,Cyanistes caeruleus,Plavetna sjenica,22,točkasta_metoda,M.K.,17.9,67
+2024,2024-07-16,Velebit,Fringilla coelebs,Zeba,29,IPA,S.B.,22.8,72
+2024,2024-07-16,Velebit,Aquila chrysaetos,Suri orao,2,transekt,I.H.,21.3,77
+2024,2024-07-16,Velebit,Erithacus rubecula,Crvendać,19,točkasta_metoda,A.P.,18,76
+2024,2024-07-16,Velebit,Sitta europaea,Brgljez,8,IPA,D.T.,20.6,57
+2024,2024-07-16,Velebit,Dryocopus martius,Crna žuna,4,transekt,S.B.,20.5,57
+2024,2024-07-16,Velebit,Phoenicurus ochruros,Crvenrepka,6,točkasta_metoda,S.B.,26.4,80
+2024,2024-07-16,Velebit,Parus major,Velika sjenica,39,IPA,S.B.,22.2,73
+2024,2024-07-17,Risnjak,Picus viridis,Zelena žuna,10,IPA,A.P.,18.7,59
+2024,2024-07-17,Risnjak,Sitta europaea,Brgljez,14,IPA,S.B.,15.8,79
+2024,2024-07-17,Risnjak,Phoenicurus ochruros,Crvenrepka,9,transekt,I.H.,24.1,79
+2024,2024-07-17,Risnjak,Parus major,Velika sjenica,25,točkasta_metoda,D.T.,19,81
+2024,2024-07-17,Risnjak,Turdus merula,Kos,20,transekt,M.K.,24.6,80
+2024,2024-07-19,Plitvice,Parus major,Velika sjenica,33,IPA,A.P.,23.1,84
+2024,2024-07-19,Plitvice,Anas platyrhynchos,Divlja patka,24,transekt,I.H.,20.6,53
+2024,2024-07-19,Plitvice,Turdus merula,Kos,27,IPA,A.P.,18.3,64
+2024,2024-07-19,Plitvice,Dendrocopos major,Veliki djetlić,9,transekt,I.H.,20,80
+2024,2024-07-19,Plitvice,Alcedo atthis,Vodomar,2,točkasta_metoda,M.K.,19.6,62
+2024,2024-07-19,Plitvice,Buteo buteo,Škanjac,5,IPA,A.P.,25.1,81
+2024,2024-07-19,Risnjak,Accipiter gentilis,Jastreb kokošar,5,transekt,A.P.,26.9,68
+2024,2024-07-19,Risnjak,Parus major,Velika sjenica,20,transekt,A.P.,24,64
+2024,2024-07-19,Risnjak,Sitta europaea,Brgljez,17,IPA,M.K.,26.8,66
+2024,2024-07-19,Risnjak,Phoenicurus ochruros,Crvenrepka,12,IPA,M.K.,19.6,77
+2024,2024-07-19,Risnjak,Dendrocopos major,Veliki djetlić,10,transekt,D.T.,19.4,83
+2024,2024-07-20,Plitvice,Cyanistes caeruleus,Plavetna sjenica,20,IPA,S.B.,10.5,83
+2024,2024-07-20,Plitvice,Anas platyrhynchos,Divlja patka,29,transekt,I.H.,18.7,83
+2024,2024-07-20,Plitvice,Erithacus rubecula,Crvendać,21,točkasta_metoda,A.P.,14,64
+2024,2024-07-20,Plitvice,Fringilla coelebs,Zeba,31,transekt,D.T.,20.3,66
+2024,2024-07-20,Plitvice,Strix Uralskaensis,Uralska sova,4,transekt,A.P.,25.1,55
+2024,2024-07-20,Plitvice,Dendrocopos major,Veliki djetlić,14,transekt,I.H.,20.3,80
+2024,2024-07-24,Plitvice,Parus major,Velika sjenica,25,IPA,D.T.,22.3,59
+2024,2024-07-24,Plitvice,Erithacus rubecula,Crvendać,17,transekt,M.K.,21.8,69
+2024,2024-07-24,Plitvice,Dendrocopos major,Veliki djetlić,16,transekt,I.H.,19.8,66
+2024,2024-07-24,Plitvice,Cyanistes caeruleus,Plavetna sjenica,27,IPA,S.B.,20.9,55
+2024,2024-07-24,Plitvice,Phoenicurus ochruros,Crvenrepka,11,točkasta_metoda,S.B.,18.7,66
+2024,2024-07-24,Plitvice,Fringilla coelebs,Zeba,31,točkasta_metoda,S.B.,20.4,62
+2024,2024-07-24,Plitvice,Picus viridis,Zelena žuna,8,točkasta_metoda,S.B.,19.4,60
+2024,2024-07-24,Velebit,Fringilla coelebs,Zeba,27,točkasta_metoda,I.H.,20,81
+2024,2024-07-24,Velebit,Phoenicurus ochruros,Crvenrepka,9,IPA,A.P.,20.9,55
+2024,2024-07-24,Velebit,Parus major,Velika sjenica,35,transekt,A.P.,24.1,68
+2024,2024-07-24,Velebit,Cyanistes caeruleus,Plavetna sjenica,22,transekt,D.T.,22.5,53
+2024,2024-07-24,Velebit,Dendrocopos major,Veliki djetlić,11,IPA,D.T.,21.3,69
+2024,2024-07-26,Velebit,Turdus merula,Kos,25,točkasta_metoda,A.P.,23.8,82
+2024,2024-07-26,Velebit,Cyanistes caeruleus,Plavetna sjenica,27,transekt,I.H.,18.8,58
+2024,2024-07-26,Velebit,Parus major,Velika sjenica,35,IPA,A.P.,17.8,68
+2024,2024-07-26,Velebit,Buteo buteo,Škanjac,10,točkasta_metoda,I.H.,18.2,66
+2024,2024-07-26,Velebit,Erithacus rubecula,Crvendać,19,IPA,M.K.,16.6,69
+2024,2024-07-26,Velebit,Phoenicurus ochruros,Crvenrepka,7,transekt,A.P.,19.1,73
+2024,2024-07-26,Velebit,Dryocopus martius,Crna žuna,7,transekt,A.P.,21.9,57
